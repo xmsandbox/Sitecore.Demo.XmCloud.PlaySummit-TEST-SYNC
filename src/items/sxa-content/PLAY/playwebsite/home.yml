@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{7D33C3E9-2ACC-4BE3-A5FD-C4BF1451FDA8}" />
+    <image mediaid="{F53723B3-A63D-4839-89E7-055C740EFFCD}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -126,7 +126,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bb4448b1-c5e1-40b5-988e-72f1458ec761"
+      Value: "faf631c7-1ce7-438d-9739-842fa32552af"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
-      Value: Home12345
+      Value: Home test
