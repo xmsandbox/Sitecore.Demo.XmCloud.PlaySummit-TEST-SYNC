@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{F53723B3-A63D-4839-89E7-055C740EFFCD}" />
+    <image mediaid="{1F9439AE-9EB5-49E2-B799-21D9F913A10C}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -126,7 +126,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "faf631c7-1ce7-438d-9739-842fa32552af"
+      Value: "86af38e2-21a9-4c1d-b4cd-673c6c46aea3"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
-      Value: Home test
+      Value: "Home ado-shared-fallback-git"
