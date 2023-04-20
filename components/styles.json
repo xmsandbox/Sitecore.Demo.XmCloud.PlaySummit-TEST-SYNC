@@ -1,0 +1,3408 @@
+{
+  "libraryId": "6pyPYRINRujUVMjBQGUhXb",
+  "id": "default_screen",
+  "source": [
+    {
+      "type": "font",
+      "props": {
+        "platform": "google",
+        "variants": [
+          {
+            "name": "regular",
+            "style": "normal",
+            "weight": 400,
+            "familyName": "Roboto"
+          },
+          {
+            "name": "700",
+            "style": "normal",
+            "weight": 700,
+            "familyName": "Roboto"
+          }
+        ],
+        "familyName": "Roboto"
+      },
+      "details": {
+        "id": "AGVpu779Q1",
+        "slug": "",
+        "title": "",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "font",
+      "props": {
+        "platform": "google",
+        "variants": [
+          {
+            "name": "600",
+            "style": "normal",
+            "weight": 600,
+            "familyName": "Mulish"
+          }
+        ],
+        "familyName": "Mulish"
+      },
+      "details": {
+        "id": "gPwdDFGu58",
+        "slug": "",
+        "title": "",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "breakpoint"
+      },
+      "details": {
+        "id": "large-collection",
+        "title": "Large",
+        "description": "Large tables, desktops, tvs",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "breakpoint",
+      "props": {
+        "query": "(min-width: 1401px)",
+        "maxWidth": null,
+        "minWidth": 1401
+      },
+      "details": {
+        "id": "xxlarge",
+        "slug": "xxlarge",
+        "title": "Extra extra large",
+        "description": "",
+        "collectionId": "large-collection",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "breakpoint",
+      "props": {
+        "query": "(min-width: 1200px) and (max-width: 1400px)",
+        "maxWidth": 1400,
+        "minWidth": 1200
+      },
+      "details": {
+        "id": "xlarge",
+        "slug": "xlarge",
+        "title": "Extra large",
+        "description": "",
+        "collectionId": "large-collection",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "breakpoint",
+      "props": {
+        "query": "(min-width: 992px) and (max-width: 1199px)",
+        "maxWidth": 1199,
+        "minWidth": 992
+      },
+      "details": {
+        "id": "large",
+        "slug": "large",
+        "title": "Large",
+        "description": "",
+        "collectionId": "large-collection",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "breakpoint"
+      },
+      "details": {
+        "id": "medium-collection",
+        "title": "Medium",
+        "description": "Phones in landscape, tablets",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "breakpoint",
+      "props": {
+        "query": "(min-width: 768px) and (max-width: 991px)",
+        "maxWidth": 991,
+        "minWidth": 768
+      },
+      "details": {
+        "id": "medium",
+        "slug": "medium",
+        "title": "Medium",
+        "description": "",
+        "collectionId": "medium-collection",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "breakpoint"
+      },
+      "details": {
+        "id": "small-collection",
+        "title": "Small",
+        "description": "Mobile phones and tiny screens",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "breakpoint",
+      "props": {
+        "query": "(min-width: 576px) and (max-width: 767px)",
+        "maxWidth": 767,
+        "minWidth": 576
+      },
+      "details": {
+        "id": "small",
+        "slug": "small",
+        "title": "Small",
+        "description": "",
+        "collectionId": "small-collection",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "breakpoint",
+      "props": {
+        "query": "(max-width: 575px)",
+        "maxWidth": 575,
+        "minWidth": 0
+      },
+      "details": {
+        "id": "extra small",
+        "slug": "xsmall",
+        "title": "Extra small",
+        "description": "",
+        "collectionId": "small-collection",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "theme",
+      "props": {
+        "texts": [
+          {
+            "id": "snZ6T5JSiy",
+            "refId": "aU-mzjnqhZ",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "nY7jlBzB0O",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "RRbPrllH1F"
+          },
+          {
+            "id": "Nk7T2QU_h7",
+            "refId": "hKEkZHYP2K",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "G5EI_0YNsh",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "45wK6q9Uvb"
+          },
+          {
+            "id": "ZQE5jUqBmj",
+            "refId": "9uv36-3d6k",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "4oFUTzChwX",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "xPQTMRK-v_"
+          },
+          {
+            "id": "RoozF0BLT0",
+            "refId": "81GfY1BzjN",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "XupjMlS9v2",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "d_UN5QXHmU"
+          },
+          {
+            "id": "a00QBesvQI",
+            "refId": "SeP9QEmpbh",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "2dm-iXNM_W",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "xPQTMRK-v_"
+          },
+          {
+            "id": "2tOWAqjK_p",
+            "refId": "arv4rWJBod",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "aSn15mowQ4",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "4rUkNTEQyh"
+          }
+        ],
+        "blocks": [
+          {
+            "id": "R8ZTj_wdBy",
+            "refId": "ivCoksVGRA",
+            "fillId": "3m53FHqBFf",
+            "isDefault": true,
+            "paletteId": null,
+            "spacingId": "0kqR_4XVwY",
+            "decorationId": "blank-decoration",
+            "typographyId": null
+          },
+          {
+            "id": "5xX58iSbXJ",
+            "refId": "a4sb_QBDG8",
+            "fillId": "WowFipsH1t",
+            "isDefault": true,
+            "paletteId": null,
+            "spacingId": "E1dvxbMI5i",
+            "decorationId": "6FCps1apUa",
+            "typographyId": null
+          },
+          {
+            "id": "u5j3MemiqH",
+            "refId": "h7eWIUSrBB",
+            "fillId": "3m53FHqBFf",
+            "isDefault": false,
+            "paletteId": null,
+            "spacingId": "E1dvxbMI5i",
+            "decorationId": "6FCps1apUa",
+            "typographyId": null
+          },
+          {
+            "id": "gM2SXD01ud",
+            "refId": "wSqk-cSfCP",
+            "fillId": "EvoxGGtUbE",
+            "isDefault": false,
+            "paletteId": null,
+            "spacingId": "E1dvxbMI5i",
+            "decorationId": "6FCps1apUa",
+            "typographyId": null
+          }
+        ],
+        "inlines": [
+          {
+            "id": "_maG08ODPG",
+            "refId": "EzVS_icaO5",
+            "fillId": "EvoxGGtUbE",
+            "isDefault": true,
+            "paletteId": "h_YB1KgKAF",
+            "spacingId": "0vypQ0bneW",
+            "decorationId": "_d1gf1veM9",
+            "typographyId": "JZEwCy6K4L"
+          },
+          {
+            "id": "d6Lsg60IKO",
+            "refId": "oxdmvwd3Qh",
+            "fillId": "blank-fill",
+            "isDefault": false,
+            "paletteId": "zGG1eb9oLu",
+            "spacingId": "0vypQ0bneW",
+            "decorationId": "wkl9T2ubIY",
+            "typographyId": "JZEwCy6K4L"
+          },
+          {
+            "id": "oqZybTWN_r",
+            "refId": "APtTqVKDNK",
+            "fillId": "blank-fill",
+            "isDefault": true,
+            "paletteId": "50TdHBofBS",
+            "spacingId": "blank-spacing",
+            "decorationId": "blank-decoration",
+            "typographyId": "blank-typography"
+          },
+          {
+            "id": "slII61QEpe",
+            "refId": "yOmhUXNlmH",
+            "fillId": "iwVwcDLEpA",
+            "isDefault": true,
+            "paletteId": "1EFaAXsGdP",
+            "spacingId": "Hx1h8szlLy",
+            "decorationId": "piaVreDzqO",
+            "typographyId": "WR8zc3dtGq"
+          },
+          {
+            "id": "0G3UKHd79P",
+            "refId": "eW2lv3w26i",
+            "fillId": "blank-fill",
+            "isDefault": false,
+            "paletteId": "gCM7i7EB7F",
+            "spacingId": "blank-spacing",
+            "decorationId": "blank-decoration",
+            "typographyId": "JZEwCy6K4L"
+          }
+        ]
+      },
+      "details": {
+        "id": "default-theme",
+        "slug": "default",
+        "title": "Light theme",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "color"
+      },
+      "details": {
+        "id": "o75ShlQBwM",
+        "slug": "backgrounds",
+        "title": "Gray tones ",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "color",
+      "props": {
+        "red": 255,
+        "blue": 255,
+        "alpha": 1,
+        "green": 255
+      },
+      "details": {
+        "id": "_q8xQN8F1N",
+        "slug": "backgrounds--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "o75ShlQBwM",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "color"
+      },
+      "details": {
+        "id": "CpuWPLwIHV",
+        "slug": "accents",
+        "title": "Accents",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "color",
+      "props": {
+        "red": 85,
+        "blue": 217,
+        "alpha": 1,
+        "green": 72
+      },
+      "details": {
+        "id": "q5DDObpo76",
+        "slug": "accents--primary",
+        "title": "Primary",
+        "description": "",
+        "collectionId": "CpuWPLwIHV",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "color",
+      "props": {
+        "red": 255,
+        "blue": 4,
+        "alpha": 1,
+        "green": 178
+      },
+      "details": {
+        "id": "rCgAA7bXsd",
+        "slug": "accents--secondary",
+        "title": "Secondary",
+        "description": "",
+        "collectionId": "CpuWPLwIHV",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "color",
+      "props": {
+        "red": 246,
+        "blue": 246,
+        "alpha": 1,
+        "green": 246
+      },
+      "details": {
+        "id": "Rg_Dq205xG",
+        "slug": "backgrounds--medium",
+        "title": "Medium",
+        "description": "",
+        "collectionId": "o75ShlQBwM",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "color",
+      "props": {
+        "red": 47,
+        "blue": 47,
+        "alpha": 1,
+        "green": 47
+      },
+      "details": {
+        "id": "6OuGCCywit",
+        "slug": "backgrounds--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "o75ShlQBwM",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "typography",
+      "props": {
+        "base": {
+          "fontSize": {
+            "unit": "px",
+            "value": 62
+          },
+          "lineHeight": {
+            "unit": "px",
+            "value": 68
+          },
+          "letterSpacing": {
+            "unit": "px",
+            "value": 3
+          },
+          "paragraphSpacing": null
+        },
+        "overrides": {
+          "large": {
+            "fontSize": {
+              "unit": "px",
+              "value": 28
+            },
+            "lineHeight": {
+              "unit": "px",
+              "value": 54
+            },
+            "letterSpacing": {
+              "unit": "px",
+              "value": 2
+            },
+            "paragraphSpacing": null
+          },
+          "small": {
+            "fontSize": {
+              "unit": "px",
+              "value": 40
+            },
+            "lineHeight": {
+              "unit": "px",
+              "value": 48
+            },
+            "letterSpacing": {
+              "unit": "px",
+              "value": 2
+            },
+            "paragraphSpacing": null
+          },
+          "extra small": {
+            "fontSize": {
+              "unit": "px",
+              "value": 40
+            },
+            "lineHeight": {
+              "unit": "px",
+              "value": 44
+            },
+            "letterSpacing": {
+              "unit": "px",
+              "value": 2
+            },
+            "paragraphSpacing": null
+          }
+        },
+        "fontVariant": {
+          "id": "gPwdDFGu58",
+          "name": "600"
+        },
+        "textTransform": null,
+        "allowBoldAndItalic": false
+      },
+      "details": {
+        "id": "RRbPrllH1F",
+        "slug": "default-typographies--extra-large",
+        "title": "Extra large",
+        "description": "",
+        "collectionId": "default-typography",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "typography",
+      "props": {
+        "base": {
+          "fontSize": {
+            "unit": "px",
+            "value": 50
+          },
+          "lineHeight": {
+            "unit": "px",
+            "value": 58
+          },
+          "letterSpacing": {
+            "unit": "px",
+            "value": 3
+          },
+          "paragraphSpacing": null
+        },
+        "overrides": {},
+        "fontVariant": {
+          "id": "gPwdDFGu58",
+          "name": "600"
+        },
+        "textTransform": null,
+        "allowBoldAndItalic": false
+      },
+      "details": {
+        "id": "45wK6q9Uvb",
+        "slug": "default-typographies--large",
+        "title": "Large",
+        "description": "",
+        "collectionId": "default-typography",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "typography",
+      "props": {
+        "base": {
+          "fontSize": {
+            "unit": "px",
+            "value": 28
+          },
+          "lineHeight": {
+            "unit": "px",
+            "value": 32
+          },
+          "letterSpacing": {
+            "unit": "px",
+            "value": 0
+          },
+          "paragraphSpacing": null
+        },
+        "overrides": {},
+        "fontVariant": {
+          "id": "gPwdDFGu58",
+          "name": "600"
+        },
+        "textTransform": null,
+        "allowBoldAndItalic": false
+      },
+      "details": {
+        "id": "xPQTMRK-v_",
+        "slug": "default-typographies--medium",
+        "title": "Medium",
+        "description": "",
+        "collectionId": "default-typography",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "typography",
+      "props": {
+        "base": {
+          "fontSize": {
+            "unit": "px",
+            "value": 16
+          },
+          "lineHeight": {
+            "unit": "px",
+            "value": 22
+          },
+          "letterSpacing": null,
+          "paragraphSpacing": null
+        },
+        "overrides": {},
+        "fontVariant": {
+          "id": "AGVpu779Q1",
+          "name": "regular"
+        },
+        "allowBoldAndItalic": false
+      },
+      "details": {
+        "id": "d_UN5QXHmU",
+        "slug": "default-typographies--copy",
+        "title": "Copy",
+        "description": "",
+        "collectionId": "default-typography",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "typography"
+      },
+      "details": {
+        "id": "I3XJzaBU6K",
+        "slug": "decorations",
+        "title": "Decorations",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "typography",
+      "props": {
+        "base": {
+          "fontSize": {
+            "unit": "px",
+            "value": 16
+          },
+          "lineHeight": {
+            "unit": "px",
+            "value": 20
+          },
+          "letterSpacing": {
+            "unit": "px",
+            "value": 1
+          },
+          "paragraphSpacing": null
+        },
+        "overrides": {},
+        "fontVariant": {
+          "id": "AGVpu779Q1",
+          "name": "700"
+        },
+        "textTransform": null,
+        "allowBoldAndItalic": false
+      },
+      "details": {
+        "id": "JZEwCy6K4L",
+        "slug": "decorations--button",
+        "title": "Button",
+        "description": "",
+        "collectionId": "I3XJzaBU6K",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "decoration"
+      },
+      "details": {
+        "id": "DpIx-lRWPt",
+        "slug": "cards",
+        "title": "Cards",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "decoration"
+      },
+      "details": {
+        "id": "FLIOv863RR",
+        "slug": "buttons",
+        "title": "Buttons",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "decoration",
+      "props": {
+        "borderColor": {
+          "id": null,
+          "alpha": null
+        },
+        "borderStyle": "solid",
+        "borderTopWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowColor": {
+          "id": null,
+          "alpha": null
+        },
+        "boxShadowInset": false,
+        "borderLeftWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderRightWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowOffsetX": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowOffsetY": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderBottomWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderTopLeftRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "boxShadowBlurRadius": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderTopRightRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "boxShadowSpreadRadius": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderBottomLeftRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "borderBottomRightRadius": {
+          "unit": "px",
+          "value": 9999
+        }
+      },
+      "details": {
+        "id": "_d1gf1veM9",
+        "slug": "buttons--primary",
+        "title": "Primary",
+        "description": "",
+        "collectionId": "FLIOv863RR",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "decoration",
+      "props": {
+        "borderColor": {
+          "id": "q5DDObpo76",
+          "alpha": 1
+        },
+        "borderStyle": "solid",
+        "borderTopWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "boxShadowColor": {
+          "id": null,
+          "alpha": null
+        },
+        "boxShadowInset": false,
+        "borderLeftWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "borderRightWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "boxShadowOffsetX": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowOffsetY": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderBottomWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "borderTopLeftRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "boxShadowBlurRadius": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderTopRightRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "boxShadowSpreadRadius": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderBottomLeftRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "borderBottomRightRadius": {
+          "unit": "px",
+          "value": 9999
+        }
+      },
+      "details": {
+        "id": "wkl9T2ubIY",
+        "slug": "buttons--secondary",
+        "title": "Secondary",
+        "description": "",
+        "collectionId": "FLIOv863RR",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "fill"
+      },
+      "details": {
+        "id": "rf6H93mUS8",
+        "slug": "background",
+        "title": "Background",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "fill",
+      "props": {
+        "blur": {
+          "unit": "px",
+          "value": 0
+        },
+        "opacity": 1,
+        "backgroundSize": "cover",
+        "backgroundColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "backgroundImage": "",
+        "backgroundRepeat": "repeat",
+        "backgroundGradient": {
+          "angle": 0,
+          "stops": []
+        },
+        "backgroundPositionX": {
+          "unit": "%",
+          "value": 50
+        },
+        "backgroundPositionY": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "3m53FHqBFf",
+        "slug": "background--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "rf6H93mUS8",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "fill",
+      "props": {
+        "blur": {
+          "unit": "px",
+          "value": 0
+        },
+        "opacity": 1,
+        "backgroundSize": "cover",
+        "backgroundColor": {
+          "id": "Rg_Dq205xG",
+          "alpha": 1
+        },
+        "backgroundImage": "",
+        "backgroundRepeat": "repeat",
+        "backgroundGradient": {
+          "angle": 0,
+          "stops": []
+        },
+        "backgroundPositionX": {
+          "unit": "%",
+          "value": 50
+        },
+        "backgroundPositionY": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "iwVwcDLEpA",
+        "slug": "background--medium-gray",
+        "title": "Medium gray",
+        "description": "",
+        "collectionId": "rf6H93mUS8",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "fill",
+      "props": {
+        "blur": {
+          "unit": "px",
+          "value": 0
+        },
+        "opacity": 1,
+        "backgroundSize": "cover",
+        "backgroundColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "backgroundImage": "",
+        "backgroundRepeat": "repeat",
+        "backgroundGradient": {
+          "angle": 0,
+          "stops": []
+        },
+        "backgroundPositionX": {
+          "unit": "%",
+          "value": 50
+        },
+        "backgroundPositionY": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "xScPql6wqB",
+        "slug": "background--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "rf6H93mUS8",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "fill",
+      "props": {
+        "blur": {
+          "unit": "px",
+          "value": 0
+        },
+        "opacity": 1,
+        "backgroundSize": "cover",
+        "backgroundColor": {
+          "id": "q5DDObpo76",
+          "alpha": 1
+        },
+        "backgroundImage": "",
+        "backgroundRepeat": "repeat",
+        "backgroundGradient": {
+          "angle": 0,
+          "stops": []
+        },
+        "backgroundPositionX": {
+          "unit": "%",
+          "value": 50
+        },
+        "backgroundPositionY": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "EvoxGGtUbE",
+        "slug": "background--accent-1",
+        "title": "Accent 1",
+        "description": "",
+        "collectionId": "rf6H93mUS8",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "fill",
+      "props": {
+        "blur": {
+          "unit": "px",
+          "value": 0
+        },
+        "opacity": 1,
+        "backgroundSize": "cover",
+        "backgroundColor": {
+          "id": "rCgAA7bXsd",
+          "alpha": 1
+        },
+        "backgroundImage": "",
+        "backgroundRepeat": "repeat",
+        "backgroundGradient": {
+          "angle": 0,
+          "stops": []
+        },
+        "backgroundPositionX": {
+          "unit": "%",
+          "value": 50
+        },
+        "backgroundPositionY": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "ql1Wi9cnNy",
+        "slug": "background--accent-2",
+        "title": "Accent 2",
+        "description": "",
+        "collectionId": "rf6H93mUS8",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "spacing"
+      },
+      "details": {
+        "id": "zLQ8bXr4Pp",
+        "slug": "sections",
+        "title": "Sections",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 4
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 4
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 4
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 4
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 4
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 4
+        }
+      },
+      "details": {
+        "id": "mEj8uITxBN",
+        "slug": "default-spacings--4px",
+        "title": "4px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 8
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 8
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 8
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 8
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 8
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 8
+        }
+      },
+      "details": {
+        "id": "Hx1h8szlLy",
+        "slug": "default-spacings--8px",
+        "title": "8px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 12
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 12
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 12
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 12
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 12
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 12
+        }
+      },
+      "details": {
+        "id": "gNDE5XRG2P",
+        "slug": "default-spacings--12px",
+        "title": "12px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 20
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 20
+        }
+      },
+      "details": {
+        "id": "mxvkQzY5vb",
+        "slug": "default-spacings--20px",
+        "title": "20px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 28
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 28
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 28
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 28
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 28
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 28
+        }
+      },
+      "details": {
+        "id": "lXAwTJU-hI",
+        "slug": "default-spacings--28px",
+        "title": "28px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 36
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 36
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 36
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 36
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 36
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 36
+        }
+      },
+      "details": {
+        "id": "Z3UkHOGWIM",
+        "slug": "default-spacings--36px",
+        "title": "36px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 50
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "Kru2H2skvb",
+        "slug": "default-spacings--50px",
+        "title": "50px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 75
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 75
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 75
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 75
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 75
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 75
+        }
+      },
+      "details": {
+        "id": "RFczInMvEi",
+        "slug": "default-spacings--75px",
+        "title": "75px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 100
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 100
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 100
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 100
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 100
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 100
+        }
+      },
+      "details": {
+        "id": "8-koiH9js2",
+        "slug": "default-spacings--100px",
+        "title": "100px",
+        "description": "",
+        "collectionId": "default-spacing",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 40
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 40
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 20
+        }
+      },
+      "details": {
+        "id": "PWjGAutOdR",
+        "slug": "sections--small-spacing",
+        "title": "Small spacing",
+        "description": "",
+        "collectionId": "zLQ8bXr4Pp",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 40
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 40
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 60
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 60
+        }
+      },
+      "details": {
+        "id": "qjduU2rAOD",
+        "slug": "sections--medium-spacing",
+        "title": "Medium spacing",
+        "description": "",
+        "collectionId": "zLQ8bXr4Pp",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 40
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 40
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 100
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 100
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 100
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 100
+        }
+      },
+      "details": {
+        "id": "0kqR_4XVwY",
+        "slug": "sections--large-spacing",
+        "title": "Large spacing",
+        "description": "",
+        "collectionId": "zLQ8bXr4Pp",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "nY7jlBzB0O"
+        ],
+        "typographyIds": [
+          "RRbPrllH1F"
+        ]
+      },
+      "details": {
+        "id": "aU-mzjnqhZ",
+        "slug": "heading1--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "heading1",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "nY7jlBzB0O",
+        "title": "Custom",
+        "elementId": "aU-mzjnqhZ",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "Q4w-MvbCu9",
+        "title": "Custom",
+        "elementId": "8qi4RGMqnB",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "Q4w-MvbCu9"
+        ],
+        "typographyIds": [
+          "RRbPrllH1F"
+        ]
+      },
+      "details": {
+        "id": "8qi4RGMqnB",
+        "slug": "heading1--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "heading1",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "G5EI_0YNsh"
+        ],
+        "typographyIds": [
+          "45wK6q9Uvb"
+        ]
+      },
+      "details": {
+        "id": "hKEkZHYP2K",
+        "slug": "heading2--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "heading2",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "G5EI_0YNsh",
+        "title": "Custom",
+        "elementId": "hKEkZHYP2K",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "qryN94384d",
+        "title": "Custom",
+        "elementId": "p6t3dSbg6H",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "qryN94384d"
+        ],
+        "typographyIds": [
+          "45wK6q9Uvb"
+        ]
+      },
+      "details": {
+        "id": "p6t3dSbg6H",
+        "slug": "heading2--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "heading2",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "4oFUTzChwX"
+        ],
+        "typographyIds": [
+          "xPQTMRK-v_"
+        ]
+      },
+      "details": {
+        "id": "9uv36-3d6k",
+        "slug": "heading3--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "heading3",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "4oFUTzChwX",
+        "title": "Custom",
+        "elementId": "9uv36-3d6k",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "swM-E0zF2E",
+        "title": "Custom",
+        "elementId": "fIdazH01qt",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "swM-E0zF2E"
+        ],
+        "typographyIds": [
+          "xPQTMRK-v_"
+        ]
+      },
+      "details": {
+        "id": "fIdazH01qt",
+        "slug": "heading3--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "heading3",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "XupjMlS9v2"
+        ],
+        "typographyIds": [
+          "d_UN5QXHmU"
+        ]
+      },
+      "details": {
+        "id": "81GfY1BzjN",
+        "slug": "paragraph--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "paragraph",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "XupjMlS9v2",
+        "title": "Custom",
+        "elementId": "81GfY1BzjN",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "8j3isVjwUJ",
+        "title": "Custom",
+        "elementId": "WMSqiw1d4F",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "8j3isVjwUJ"
+        ],
+        "typographyIds": [
+          "d_UN5QXHmU"
+        ]
+      },
+      "details": {
+        "id": "WMSqiw1d4F",
+        "slug": "paragraph--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "paragraph",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "EvoxGGtUbE"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "h_YB1KgKAF"
+        ],
+        "spacingIds": [
+          "0vypQ0bneW"
+        ],
+        "decorationIds": [
+          "_d1gf1veM9"
+        ],
+        "typographyIds": [
+          "JZEwCy6K4L"
+        ]
+      },
+      "details": {
+        "id": "EzVS_icaO5",
+        "slug": "button--primary",
+        "title": "Primary",
+        "description": "",
+        "collectionId": "button",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "h_YB1KgKAF",
+        "title": "Custom",
+        "elementId": "EzVS_icaO5",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "spacing"
+      },
+      "details": {
+        "id": "If0SAiKVyd",
+        "slug": "decoration",
+        "title": "Decoration",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 0
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 0
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 8
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 8
+        }
+      },
+      "details": {
+        "id": "0vypQ0bneW",
+        "slug": "decoration--button",
+        "title": "Button",
+        "description": "",
+        "collectionId": "If0SAiKVyd",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "q5DDObpo76",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "zGG1eb9oLu",
+        "title": "Custom",
+        "elementId": "oxdmvwd3Qh",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "blank-fill"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "zGG1eb9oLu"
+        ],
+        "spacingIds": [
+          "0vypQ0bneW"
+        ],
+        "decorationIds": [
+          "wkl9T2ubIY"
+        ],
+        "typographyIds": [
+          "JZEwCy6K4L"
+        ]
+      },
+      "details": {
+        "id": "oxdmvwd3Qh",
+        "slug": "button--secondary",
+        "title": "Secondary",
+        "description": "",
+        "collectionId": "button",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "q5DDObpo76",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "-2Mqs1lBr0",
+        "title": "Custom",
+        "elementId": "zJJhm9GxwS",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "3m53FHqBFf"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "-2Mqs1lBr0"
+        ],
+        "spacingIds": [
+          "0vypQ0bneW"
+        ],
+        "decorationIds": [
+          "_d1gf1veM9"
+        ],
+        "typographyIds": [
+          "JZEwCy6K4L"
+        ]
+      },
+      "details": {
+        "id": "zJJhm9GxwS",
+        "slug": "button--primary-light",
+        "title": "Primary - light",
+        "description": "",
+        "collectionId": "button",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "5vMnIzNOA_",
+        "title": "Custom",
+        "elementId": "RBvBxOuKuf",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "blank-fill"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "5vMnIzNOA_"
+        ],
+        "spacingIds": [
+          "0vypQ0bneW"
+        ],
+        "decorationIds": [
+          "5FnOu_-KUy"
+        ],
+        "typographyIds": [
+          "JZEwCy6K4L"
+        ]
+      },
+      "details": {
+        "id": "RBvBxOuKuf",
+        "slug": "button--secondary-light",
+        "title": "Secondary light",
+        "description": "",
+        "collectionId": "button",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "decoration",
+      "props": {
+        "borderColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "borderStyle": "solid",
+        "borderTopWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "boxShadowColor": {
+          "id": null,
+          "alpha": null
+        },
+        "boxShadowInset": false,
+        "borderLeftWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "borderRightWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "boxShadowOffsetX": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowOffsetY": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderBottomWidth": {
+          "unit": "px",
+          "value": 2
+        },
+        "borderTopLeftRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "boxShadowBlurRadius": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderTopRightRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "boxShadowSpreadRadius": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderBottomLeftRadius": {
+          "unit": "px",
+          "value": 9999
+        },
+        "borderBottomRightRadius": {
+          "unit": "px",
+          "value": 9999
+        }
+      },
+      "details": {
+        "id": "5FnOu_-KUy",
+        "slug": "buttons--secondary-light",
+        "title": "Secondary light",
+        "description": "",
+        "collectionId": "FLIOv863RR",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "iwVwcDLEpA"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "1EFaAXsGdP"
+        ],
+        "spacingIds": [
+          "Hx1h8szlLy"
+        ],
+        "decorationIds": [
+          "piaVreDzqO"
+        ],
+        "typographyIds": [
+          "WR8zc3dtGq"
+        ]
+      },
+      "details": {
+        "id": "yOmhUXNlmH",
+        "slug": "badge--simple",
+        "title": "Simple",
+        "description": "",
+        "collectionId": "badge",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "1EFaAXsGdP",
+        "title": "Custom",
+        "elementId": "yOmhUXNlmH",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "typography",
+      "props": {
+        "base": {
+          "fontSize": {
+            "unit": "px",
+            "value": 12
+          },
+          "lineHeight": {
+            "unit": "px",
+            "value": 12
+          },
+          "letterSpacing": {
+            "unit": "em",
+            "value": 0.1
+          },
+          "paragraphSpacing": null
+        },
+        "overrides": {},
+        "fontVariant": {
+          "id": "AGVpu779Q1",
+          "name": "700"
+        },
+        "textTransform": null,
+        "allowBoldAndItalic": false
+      },
+      "details": {
+        "id": "WR8zc3dtGq",
+        "slug": "decorations--badge",
+        "title": "Badge",
+        "description": "",
+        "collectionId": "I3XJzaBU6K",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "blank-fill"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "50TdHBofBS"
+        ],
+        "spacingIds": [
+          "blank-spacing"
+        ],
+        "decorationIds": [
+          "blank-decoration"
+        ],
+        "typographyIds": [
+          "blank-typography"
+        ]
+      },
+      "details": {
+        "id": "APtTqVKDNK",
+        "slug": "link--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "link",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "q5DDObpo76",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "50TdHBofBS",
+        "title": "Custom",
+        "elementId": "APtTqVKDNK",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "9XwyI107PZ",
+        "title": "Custom",
+        "elementId": "FTbDUvT_Zm",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "blank-fill"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "9XwyI107PZ"
+        ],
+        "spacingIds": [
+          "blank-spacing"
+        ],
+        "decorationIds": [
+          "blank-decoration"
+        ],
+        "typographyIds": [
+          "blank-typography"
+        ]
+      },
+      "details": {
+        "id": "FTbDUvT_Zm",
+        "slug": "link--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "link",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "block",
+      "props": {
+        "fillIds": [
+          "3m53FHqBFf",
+          "iwVwcDLEpA",
+          "xScPql6wqB",
+          "EvoxGGtUbE",
+          "ql1Wi9cnNy"
+        ],
+        "gridIds": [],
+        "layoutIds": [
+          "blank-layout"
+        ],
+        "paletteIds": [
+          "blank-palette"
+        ],
+        "spacingIds": [
+          "PWjGAutOdR",
+          "qjduU2rAOD",
+          "0kqR_4XVwY"
+        ],
+        "decorationIds": [
+          "blank-decoration"
+        ]
+      },
+      "details": {
+        "id": "ivCoksVGRA",
+        "slug": "section--background",
+        "title": "Background",
+        "description": "",
+        "collectionId": "section",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "block",
+      "props": {
+        "fillIds": [
+          "3m53FHqBFf",
+          "iwVwcDLEpA",
+          "blank-fill"
+        ],
+        "gridIds": [],
+        "layoutIds": [
+          "blank-layout"
+        ],
+        "paletteIds": [
+          "blank-palette"
+        ],
+        "spacingIds": [
+          "blank-spacing",
+          "mEj8uITxBN",
+          "Hx1h8szlLy",
+          "gNDE5XRG2P",
+          "mxvkQzY5vb",
+          "lXAwTJU-hI",
+          "Z3UkHOGWIM",
+          "Kru2H2skvb",
+          "RFczInMvEi",
+          "8-koiH9js2",
+          "PWjGAutOdR",
+          "qjduU2rAOD",
+          "0kqR_4XVwY",
+          "0vypQ0bneW",
+          "En3_4849GY",
+          "E1dvxbMI5i"
+        ],
+        "decorationIds": [
+          "6FCps1apUa",
+          "blank-decoration"
+        ]
+      },
+      "details": {
+        "id": "h7eWIUSrBB",
+        "slug": "card--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "card",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "block",
+      "props": {
+        "fillIds": [
+          "EvoxGGtUbE",
+          "ql1Wi9cnNy",
+          "blank-fill"
+        ],
+        "gridIds": [],
+        "layoutIds": [
+          "blank-layout"
+        ],
+        "paletteIds": [
+          "blank-palette"
+        ],
+        "spacingIds": [
+          "blank-spacing",
+          "mEj8uITxBN",
+          "Hx1h8szlLy",
+          "gNDE5XRG2P",
+          "mxvkQzY5vb",
+          "lXAwTJU-hI",
+          "Z3UkHOGWIM",
+          "Kru2H2skvb",
+          "RFczInMvEi",
+          "8-koiH9js2",
+          "PWjGAutOdR",
+          "qjduU2rAOD",
+          "0kqR_4XVwY",
+          "0vypQ0bneW",
+          "En3_4849GY",
+          "E1dvxbMI5i"
+        ],
+        "decorationIds": [
+          "6FCps1apUa",
+          "blank-decoration"
+        ]
+      },
+      "details": {
+        "id": "wSqk-cSfCP",
+        "slug": "card--accent",
+        "title": "Accent",
+        "description": "",
+        "collectionId": "card",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "decoration",
+      "props": {
+        "borderColor": {
+          "id": null,
+          "alpha": null
+        },
+        "borderStyle": "solid",
+        "borderTopWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowColor": {
+          "id": "6OuGCCywit",
+          "alpha": 0.2
+        },
+        "boxShadowInset": false,
+        "borderLeftWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderRightWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowOffsetX": {
+          "unit": "px",
+          "value": 1
+        },
+        "boxShadowOffsetY": {
+          "unit": "px",
+          "value": 1
+        },
+        "borderBottomWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderTopLeftRadius": {
+          "unit": "px",
+          "value": 5
+        },
+        "boxShadowBlurRadius": {
+          "unit": "px",
+          "value": 3
+        },
+        "borderTopRightRadius": {
+          "unit": "px",
+          "value": 5
+        },
+        "boxShadowSpreadRadius": {
+          "unit": "px",
+          "value": 1
+        },
+        "borderBottomLeftRadius": {
+          "unit": "px",
+          "value": 5
+        },
+        "borderBottomRightRadius": {
+          "unit": "px",
+          "value": 5
+        }
+      },
+      "details": {
+        "id": "6FCps1apUa",
+        "slug": "cards--drop-shadow",
+        "title": "Drop shadow",
+        "description": "",
+        "collectionId": "DpIx-lRWPt",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "theme",
+      "props": {
+        "texts": [
+          {
+            "id": "Iv2nh2ft02",
+            "refId": "8qi4RGMqnB",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "Q4w-MvbCu9",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "RRbPrllH1F"
+          },
+          {
+            "id": "vvsZCgfu9j",
+            "refId": "p6t3dSbg6H",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "qryN94384d",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "45wK6q9Uvb"
+          },
+          {
+            "id": "MF_8qTDrtS",
+            "refId": "fIdazH01qt",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "swM-E0zF2E",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "xPQTMRK-v_"
+          },
+          {
+            "id": "HhdNk-ytrJ",
+            "refId": "WMSqiw1d4F",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "8j3isVjwUJ",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "d_UN5QXHmU"
+          },
+          {
+            "id": "A6ZsDHslYP",
+            "refId": "_hG7Uv8dxN",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "kSaxEKvMnO",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "xPQTMRK-v_"
+          },
+          {
+            "id": "MEJiunz6uZ",
+            "refId": "bPZx9IBwUY",
+            "fillId": null,
+            "isDefault": true,
+            "paletteId": "O1eYIfir6n",
+            "spacingId": null,
+            "decorationId": null,
+            "typographyId": "4rUkNTEQyh"
+          }
+        ],
+        "blocks": [
+          {
+            "id": "BVcYcYrB1c",
+            "refId": "ivCoksVGRA",
+            "fillId": "xScPql6wqB",
+            "isDefault": true,
+            "paletteId": null,
+            "spacingId": "0kqR_4XVwY",
+            "decorationId": "blank-decoration",
+            "typographyId": null
+          },
+          {
+            "id": "n6kcBji3dF",
+            "refId": "wSqk-cSfCP",
+            "fillId": "EvoxGGtUbE",
+            "isDefault": false,
+            "paletteId": null,
+            "spacingId": "E1dvxbMI5i",
+            "decorationId": "6FCps1apUa",
+            "typographyId": null
+          },
+          {
+            "id": "JPwPafzlHs",
+            "refId": "wSqk-cSfCP",
+            "fillId": "ql1Wi9cnNy",
+            "isDefault": false,
+            "paletteId": null,
+            "spacingId": "E1dvxbMI5i",
+            "decorationId": "6FCps1apUa",
+            "typographyId": null
+          },
+          {
+            "id": "V0YssD_SET",
+            "refId": "a4sb_QBDG8",
+            "fillId": "nDhZs12jM1",
+            "isDefault": true,
+            "paletteId": null,
+            "spacingId": "E1dvxbMI5i",
+            "decorationId": "6FCps1apUa",
+            "typographyId": null
+          }
+        ],
+        "inlines": [
+          {
+            "id": "N2Xwa_J5AV",
+            "refId": "zJJhm9GxwS",
+            "fillId": "3m53FHqBFf",
+            "isDefault": false,
+            "paletteId": "-2Mqs1lBr0",
+            "spacingId": "0vypQ0bneW",
+            "decorationId": "_d1gf1veM9",
+            "typographyId": "JZEwCy6K4L"
+          },
+          {
+            "id": "K7vRkzFObt",
+            "refId": "RBvBxOuKuf",
+            "fillId": "blank-fill",
+            "isDefault": false,
+            "paletteId": "5vMnIzNOA_",
+            "spacingId": "0vypQ0bneW",
+            "decorationId": "5FnOu_-KUy",
+            "typographyId": "JZEwCy6K4L"
+          },
+          {
+            "id": "B0MEC8t7rw",
+            "refId": "FTbDUvT_Zm",
+            "fillId": "blank-fill",
+            "isDefault": true,
+            "paletteId": "9XwyI107PZ",
+            "spacingId": "blank-spacing",
+            "decorationId": "blank-decoration",
+            "typographyId": "blank-typography"
+          },
+          {
+            "id": "Yy70x2Agsq",
+            "refId": "EzVS_icaO5",
+            "fillId": "EvoxGGtUbE",
+            "isDefault": true,
+            "paletteId": "h_YB1KgKAF",
+            "spacingId": "0vypQ0bneW",
+            "decorationId": "_d1gf1veM9",
+            "typographyId": "JZEwCy6K4L"
+          },
+          {
+            "id": "f3HsLktrK7",
+            "refId": "dA5GlO1hZk",
+            "fillId": "blank-fill",
+            "isDefault": false,
+            "paletteId": "oYpr__d9e3",
+            "spacingId": "blank-spacing",
+            "decorationId": "blank-decoration",
+            "typographyId": "JZEwCy6K4L"
+          },
+          {
+            "id": "cp1BiDY68M",
+            "refId": "yOmhUXNlmH",
+            "fillId": "iwVwcDLEpA",
+            "isDefault": true,
+            "paletteId": "1EFaAXsGdP",
+            "spacingId": "Hx1h8szlLy",
+            "decorationId": "piaVreDzqO",
+            "typographyId": "WR8zc3dtGq"
+          }
+        ]
+      },
+      "details": {
+        "id": "3JvljDXh0T",
+        "slug": "dark-theme",
+        "title": "Dark theme",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "spacing"
+      },
+      "details": {
+        "id": "nZ94oPYRJx",
+        "slug": "cards-spacing",
+        "title": "Cards spacing",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 20
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "En3_4849GY",
+        "slug": "cards-spacing--50px-card",
+        "title": "50px card",
+        "description": "",
+        "collectionId": "nZ94oPYRJx",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "fill",
+      "props": {
+        "blur": {
+          "unit": "px",
+          "value": 25
+        },
+        "opacity": 1,
+        "backgroundSize": "cover",
+        "backgroundColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": "0.30"
+        },
+        "backgroundImage": "",
+        "backgroundRepeat": "repeat",
+        "backgroundGradient": {
+          "angle": 0,
+          "stops": []
+        },
+        "backgroundPositionX": {
+          "unit": "%",
+          "value": 50
+        },
+        "backgroundPositionY": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "WowFipsH1t",
+        "slug": "background--blur",
+        "title": "Glass effect",
+        "description": "",
+        "collectionId": "rf6H93mUS8",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 20
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 20
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 30
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 50
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 30
+        }
+      },
+      "details": {
+        "id": "E1dvxbMI5i",
+        "slug": "cards-spacing--30-50-px",
+        "title": "30/50 px",
+        "description": "",
+        "collectionId": "nZ94oPYRJx",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "block",
+      "props": {
+        "fillIds": [
+          "WowFipsH1t",
+          "nDhZs12jM1"
+        ],
+        "gridIds": [],
+        "layoutIds": [
+          "blank-layout"
+        ],
+        "paletteIds": [
+          "blank-palette"
+        ],
+        "spacingIds": [
+          "blank-spacing",
+          "mEj8uITxBN",
+          "Hx1h8szlLy",
+          "gNDE5XRG2P",
+          "mxvkQzY5vb",
+          "lXAwTJU-hI",
+          "Z3UkHOGWIM",
+          "Kru2H2skvb",
+          "RFczInMvEi",
+          "8-koiH9js2",
+          "PWjGAutOdR",
+          "qjduU2rAOD",
+          "0kqR_4XVwY",
+          "0vypQ0bneW",
+          "En3_4849GY",
+          "E1dvxbMI5i"
+        ],
+        "decorationIds": [
+          "6FCps1apUa",
+          "blank-decoration"
+        ]
+      },
+      "details": {
+        "id": "a4sb_QBDG8",
+        "slug": "card--glass-effect",
+        "title": "Glass effect",
+        "description": "",
+        "collectionId": "card",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "spacing",
+      "props": {
+        "rowGap": {
+          "unit": "px",
+          "value": 0
+        },
+        "columnGap": {
+          "unit": "px",
+          "value": 0
+        },
+        "paddingTop": {
+          "unit": "px",
+          "value": 0
+        },
+        "paddingLeft": {
+          "unit": "px",
+          "value": 0
+        },
+        "paddingRight": {
+          "unit": "px",
+          "value": 0
+        },
+        "paddingBottom": {
+          "unit": "px",
+          "value": 0
+        }
+      },
+      "details": {
+        "id": "fZzS1T2Xwv",
+        "slug": "sections--test-2",
+        "title": "Test 2",
+        "description": "",
+        "collectionId": "zLQ8bXr4Pp",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "graphic",
+      "props": {},
+      "details": {
+        "id": "bBD6ApuL8t",
+        "slug": "default--123",
+        "title": "123",
+        "description": "",
+        "collectionId": "default-graphic",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "fill",
+      "props": {
+        "blur": {
+          "unit": "px",
+          "value": 25
+        },
+        "opacity": 1,
+        "backgroundSize": "cover",
+        "backgroundColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": "0.50"
+        },
+        "backgroundImage": "",
+        "backgroundRepeat": "repeat",
+        "backgroundGradient": {
+          "angle": 0,
+          "stops": []
+        },
+        "backgroundPositionX": {
+          "unit": "%",
+          "value": 50
+        },
+        "backgroundPositionY": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "details": {
+        "id": "nDhZs12jM1",
+        "slug": "background--glass-effect--ligher",
+        "title": "Glass effect - Ligher",
+        "description": "",
+        "collectionId": "rf6H93mUS8",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "blank-fill"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "gCM7i7EB7F"
+        ],
+        "spacingIds": [
+          "blank-spacing"
+        ],
+        "decorationIds": [
+          "blank-decoration"
+        ],
+        "typographyIds": [
+          "JZEwCy6K4L"
+        ]
+      },
+      "details": {
+        "id": "eW2lv3w26i",
+        "slug": "button--link-button",
+        "title": "Link button",
+        "description": "",
+        "collectionId": "button",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "gCM7i7EB7F",
+        "title": "Custom",
+        "elementId": "eW2lv3w26i",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "collection",
+      "props": {
+        "type": "decoration"
+      },
+      "details": {
+        "id": "Ar152ua8HA",
+        "slug": "badges",
+        "title": "Badges",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "decoration",
+      "props": {
+        "borderColor": {
+          "id": null,
+          "alpha": null
+        },
+        "borderStyle": "solid",
+        "borderTopWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowColor": {
+          "id": "6OuGCCywit",
+          "alpha": "0.30"
+        },
+        "boxShadowInset": false,
+        "borderLeftWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderRightWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowOffsetX": {
+          "unit": "px",
+          "value": 0
+        },
+        "boxShadowOffsetY": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderBottomWidth": {
+          "unit": "px",
+          "value": 0
+        },
+        "borderTopLeftRadius": {
+          "unit": "px",
+          "value": 3
+        },
+        "boxShadowBlurRadius": {
+          "unit": "px",
+          "value": 2
+        },
+        "borderTopRightRadius": {
+          "unit": "px",
+          "value": 3
+        },
+        "boxShadowSpreadRadius": {
+          "unit": "px",
+          "value": 1
+        },
+        "borderBottomLeftRadius": {
+          "unit": "px",
+          "value": 3
+        },
+        "borderBottomRightRadius": {
+          "unit": "px",
+          "value": 3
+        }
+      },
+      "details": {
+        "id": "piaVreDzqO",
+        "slug": "badges--standard-badge",
+        "title": "Standard badge",
+        "description": "",
+        "collectionId": "Ar152ua8HA",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "oYpr__d9e3",
+        "title": "Custom",
+        "elementId": "dA5GlO1hZk",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "inline",
+      "props": {
+        "fillIds": [
+          "blank-fill"
+        ],
+        "graphicIds": [
+          "blank-graphic"
+        ],
+        "paletteIds": [
+          "oYpr__d9e3"
+        ],
+        "spacingIds": [
+          "blank-spacing"
+        ],
+        "decorationIds": [
+          "blank-decoration"
+        ],
+        "typographyIds": [
+          "JZEwCy6K4L"
+        ]
+      },
+      "details": {
+        "id": "dA5GlO1hZk",
+        "slug": "button--link-button--light",
+        "title": "Link button - Light",
+        "description": "",
+        "collectionId": "button",
+        "exampleContent": ""
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "2dm-iXNM_W"
+        ],
+        "typographyIds": [
+          "xPQTMRK-v_"
+        ]
+      },
+      "details": {
+        "id": "SeP9QEmpbh",
+        "slug": "heading4--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "heading4",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "2dm-iXNM_W",
+        "title": "Custom",
+        "elementId": "SeP9QEmpbh",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "kSaxEKvMnO",
+        "title": "Custom",
+        "elementId": "_hG7Uv8dxN",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "kSaxEKvMnO"
+        ],
+        "typographyIds": [
+          "xPQTMRK-v_"
+        ]
+      },
+      "details": {
+        "id": "_hG7Uv8dxN",
+        "slug": "heading4--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "heading4",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "typography",
+      "props": {
+        "base": {
+          "fontSize": {
+            "unit": "px",
+            "value": 22
+          },
+          "lineHeight": {
+            "unit": "px",
+            "value": 28
+          },
+          "letterSpacing": {
+            "unit": "px",
+            "value": 1
+          },
+          "paragraphSpacing": null
+        },
+        "overrides": {},
+        "fontVariant": {
+          "id": "gPwdDFGu58",
+          "name": "600"
+        },
+        "allowBoldAndItalic": false
+      },
+      "details": {
+        "id": "4rUkNTEQyh",
+        "slug": "default--small",
+        "title": "Small",
+        "description": "",
+        "collectionId": "default-typography",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "aSn15mowQ4"
+        ],
+        "typographyIds": [
+          "4rUkNTEQyh"
+        ]
+      },
+      "details": {
+        "id": "arv4rWJBod",
+        "slug": "heading5--dark",
+        "title": "Dark",
+        "description": "",
+        "collectionId": "heading5",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "6OuGCCywit",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "aSn15mowQ4",
+        "title": "Custom",
+        "elementId": "arv4rWJBod",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "palette",
+      "props": {
+        "textColor": {
+          "id": "_q8xQN8F1N",
+          "alpha": 1
+        },
+        "linkDecoration": "underline"
+      },
+      "details": {
+        "id": "O1eYIfir6n",
+        "title": "Custom",
+        "elementId": "bPZx9IBwUY",
+        "description": "",
+        "exampleContent": null
+      },
+      "stylesheetId": "default_screen"
+    },
+    {
+      "type": "text",
+      "props": {
+        "paletteIds": [
+          "O1eYIfir6n"
+        ],
+        "typographyIds": [
+          "4rUkNTEQyh"
+        ]
+      },
+      "details": {
+        "id": "bPZx9IBwUY",
+        "slug": "heading5--light",
+        "title": "Light",
+        "description": "",
+        "collectionId": "heading5",
+        "exampleContent": "Example"
+      },
+      "stylesheetId": "default_screen"
+    }
+  ],
+  "formatVersion": 16,
+  "css": "/*\n  Type:             font\n  Id:               AGVpu779Q1\n*/\n@import url(\"https://fonts.googleapis.com/css?family=Roboto:regular,700\");\n/*\n  Type:             font\n  Id:               gPwdDFGu58\n*/\n@import url(\"https://fonts.googleapis.com/css?family=Mulish:600\");\n/*\n  Type:             collection\n  Id:               large-collection\n  Title:            Large\n  Description:      Large tables, desktops, tvs\n*/\n/*\n  Type:             breakpoint\n  Id:               xxlarge\n  Title:            Extra extra large\n*/\n@media (min-width: 1401px) {\n  [class*=\"-breakpoint--\"]:not(.-breakpoint--xxlarge):not(._._._._._._#_) {\n    display: none;\n  }\n}\n/*\n  Type:             breakpoint\n  Id:               xlarge\n  Title:            Extra large\n*/\n@media (min-width: 1200px) and (max-width: 1400px) {\n  [class*=\"-breakpoint--\"]:not(.-breakpoint--xlarge):not(._._._._._._#_) {\n    display: none;\n  }\n}\n/*\n  Type:             breakpoint\n  Id:               large\n  Title:            Large\n*/\n@media (min-width: 992px) and (max-width: 1199px) {\n  [class*=\"-breakpoint--\"]:not(.-breakpoint--large):not(._._._._._._#_) {\n    display: none;\n  }\n}\n/*\n  Type:             collection\n  Id:               medium-collection\n  Title:            Medium\n  Description:      Phones in landscape, tablets\n*/\n/*\n  Type:             breakpoint\n  Id:               medium\n  Title:            Medium\n*/\n@media (min-width: 768px) and (max-width: 991px) {\n  [class*=\"-breakpoint--\"]:not(.-breakpoint--medium):not(._._._._._._#_) {\n    display: none;\n  }\n}\n/*\n  Type:             collection\n  Id:               small-collection\n  Title:            Small\n  Description:      Mobile phones and tiny screens\n*/\n/*\n  Type:             breakpoint\n  Id:               small\n  Title:            Small\n*/\n@media (min-width: 576px) and (max-width: 767px) {\n  [class*=\"-breakpoint--\"]:not(.-breakpoint--small):not(._._._._._._#_) {\n    display: none;\n  }\n}\n/*\n  Type:             breakpoint\n  Id:               extra small\n  Title:            Extra small\n*/\n@media (max-width: 575px) {\n  [class*=\"-breakpoint--\"]:not(.-breakpoint--xsmall):not(._._._._._._#_) {\n    display: none;\n  }\n}\n/*\n  Type:             theme\n  Id:               default-theme\n  Title:            Light theme\n*/\n/*\n  Type:             collection\n  Id:               o75ShlQBwM\n  Title:            Gray tones\n*/\n/*\n  Type:             color\n  Id:               _q8xQN8F1N\n  Title:            Light\n*/\n/*\n  Type:             collection\n  Id:               CpuWPLwIHV\n  Title:            Accents\n*/\n/*\n  Type:             color\n  Id:               q5DDObpo76\n  Title:            Primary\n*/\n/*\n  Type:             color\n  Id:               rCgAA7bXsd\n  Title:            Secondary\n*/\n/*\n  Type:             color\n  Id:               Rg_Dq205xG\n  Title:            Medium\n*/\n/*\n  Type:             color\n  Id:               6OuGCCywit\n  Title:            Dark\n*/\n/*\n  Type:             typography\n  Id:               RRbPrllH1F\n  Title:            Extra large\n  Example Content:  Example\n*/\n.-typography--default-typographies--extra-large:not(._._._._._._#_),\n.-theme--default [class^=\"-heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--default h1:not(#_),\n.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-heading1--dark:not(._._._._#_),\n.-heading1--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--dark-theme h1:not(#_),\n.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n  font-family: \"Mulish\";\n  font-weight: 600;\n  font-style: normal;\n  font-size: 62px;\n  line-height: 68px;\n  letter-spacing: 3px;\n}\n@media (min-width: 992px) and (max-width: 1199px) {\n  .-typography--default-typographies--extra-large:not(._._._._._._#_),\n.-theme--default [class^=\"-heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--default h1:not(#_),\n.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-heading1--dark:not(._._._._#_),\n.-heading1--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--dark-theme h1:not(#_),\n.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n    font-size: 28px;\n    line-height: 54px;\n    letter-spacing: 2px;\n  }\n}\n.-emulate--large .-typography--default-typographies--extra-large:not(._._._._._._#_),\n.-emulate--large.-theme--default [class^=\"-heading1\"]:not(#_),\n.-theme--default.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-emulate--large.-theme--default [class*=\" -heading1\"]:not(#_),\n.-theme--default.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-emulate--large.-theme--default h1:not(#_),\n.-theme--default.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-emulate--large.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-emulate--large .-heading1--dark:not(._._._._#_),\n.-emulate--large .-heading1--light:not(._._._._#_),\n.-emulate--large.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\n.-theme--dark-theme.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-emulate--large.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\n.-theme--dark-theme.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-emulate--large.-theme--dark-theme h1:not(#_),\n.-theme--dark-theme.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-emulate--large.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n  font-size: 28px;\n  line-height: 54px;\n  letter-spacing: 2px;\n}\n@media (min-width: 576px) and (max-width: 767px) {\n  .-typography--default-typographies--extra-large:not(._._._._._._#_),\n.-theme--default [class^=\"-heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--default h1:not(#_),\n.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-heading1--dark:not(._._._._#_),\n.-heading1--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--dark-theme h1:not(#_),\n.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n    font-size: 40px;\n    line-height: 48px;\n    letter-spacing: 2px;\n  }\n}\n.-emulate--small .-typography--default-typographies--extra-large:not(._._._._._._#_),\n.-emulate--small.-theme--default [class^=\"-heading1\"]:not(#_),\n.-theme--default.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-emulate--small.-theme--default [class*=\" -heading1\"]:not(#_),\n.-theme--default.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-emulate--small.-theme--default h1:not(#_),\n.-theme--default.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-emulate--small.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-emulate--small .-heading1--dark:not(._._._._#_),\n.-emulate--small .-heading1--light:not(._._._._#_),\n.-emulate--small.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\n.-theme--dark-theme.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-emulate--small.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\n.-theme--dark-theme.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-emulate--small.-theme--dark-theme h1:not(#_),\n.-theme--dark-theme.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-emulate--small.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n  font-size: 40px;\n  line-height: 48px;\n  letter-spacing: 2px;\n}\n@media (max-width: 575px) {\n  .-typography--default-typographies--extra-large:not(._._._._._._#_),\n.-theme--default [class^=\"-heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--default h1:not(#_),\n.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-heading1--dark:not(._._._._#_),\n.-heading1--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--dark-theme h1:not(#_),\n.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n    font-size: 40px;\n    line-height: 44px;\n    letter-spacing: 2px;\n  }\n}\n.-emulate--extra small .-typography--default-typographies--extra-large:not(._._._._._._#_),\n.-emulate--extra small.-theme--default [class^=\"-heading1\"]:not(#_),\nsmall.-theme--default.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-emulate--extra small.-theme--default [class*=\" -heading1\"]:not(#_),\nsmall.-theme--default.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-emulate--extra small.-theme--default h1:not(#_),\nsmall.-theme--default.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-emulate--extra small.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-emulate--extra small .-heading1--dark:not(._._._._#_),\n.-emulate--extra small .-heading1--light:not(._._._._#_),\n.-emulate--extra small.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\nsmall.-theme--dark-theme.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-emulate--extra small.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\nsmall.-theme--dark-theme.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-emulate--extra small.-theme--dark-theme h1:not(#_),\nsmall.-theme--dark-theme.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-emulate--extra small.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n  font-size: 40px;\n  line-height: 44px;\n  letter-spacing: 2px;\n}\n/*\n  Type:             typography\n  Id:               45wK6q9Uvb\n  Title:            Large\n  Example Content:  Example\n*/\n.-typography--default-typographies--large:not(._._._._._._#_),\n.-theme--default [class^=\"-heading2\"]:not(#_),\n.-use--Nk7T2QU_h7 [class^=\"-heading2\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading2\"]:not(#_),\n.-use--Nk7T2QU_h7 [class*=\" -heading2\"]:not(x):not(x#_),\n.-theme--default h2:not(#_),\n.-use--Nk7T2QU_h7 h2:not(x):not(x#_),\n.-theme--default .--Nk7T2QU_h7:not(._._._._#_),\n.-heading2--dark:not(._._._._#_),\n.-heading2--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading2\"]:not(#_),\n.-use--vvsZCgfu9j [class^=\"-heading2\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading2\"]:not(#_),\n.-use--vvsZCgfu9j [class*=\" -heading2\"]:not(x):not(x#_),\n.-theme--dark-theme h2:not(#_),\n.-use--vvsZCgfu9j h2:not(x):not(x#_),\n.-theme--dark-theme .--vvsZCgfu9j:not(._._._._#_) {\n  font-family: \"Mulish\";\n  font-weight: 600;\n  font-style: normal;\n  font-size: 50px;\n  line-height: 58px;\n  letter-spacing: 3px;\n}\n/*\n  Type:             typography\n  Id:               xPQTMRK-v_\n  Title:            Medium\n  Example Content:  Example\n*/\n.-typography--default-typographies--medium:not(._._._._._._#_),\n.-theme--default [class^=\"-heading3\"]:not(#_),\n.-use--ZQE5jUqBmj [class^=\"-heading3\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading3\"]:not(#_),\n.-use--ZQE5jUqBmj [class*=\" -heading3\"]:not(x):not(x#_),\n.-theme--default h3:not(#_),\n.-use--ZQE5jUqBmj h3:not(x):not(x#_),\n.-theme--default .--ZQE5jUqBmj:not(._._._._#_),\n.-theme--default [class^=\"-heading4\"]:not(#_),\n.-use--a00QBesvQI [class^=\"-heading4\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading4\"]:not(#_),\n.-use--a00QBesvQI [class*=\" -heading4\"]:not(x):not(x#_),\n.-theme--default h4:not(#_),\n.-use--a00QBesvQI h4:not(x):not(x#_),\n.-theme--default .--a00QBesvQI:not(._._._._#_),\n.-heading3--dark:not(._._._._#_),\n.-heading3--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading3\"]:not(#_),\n.-use--MF_8qTDrtS [class^=\"-heading3\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading3\"]:not(#_),\n.-use--MF_8qTDrtS [class*=\" -heading3\"]:not(x):not(x#_),\n.-theme--dark-theme h3:not(#_),\n.-use--MF_8qTDrtS h3:not(x):not(x#_),\n.-theme--dark-theme .--MF_8qTDrtS:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading4\"]:not(#_),\n.-use--A6ZsDHslYP [class^=\"-heading4\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading4\"]:not(#_),\n.-use--A6ZsDHslYP [class*=\" -heading4\"]:not(x):not(x#_),\n.-theme--dark-theme h4:not(#_),\n.-use--A6ZsDHslYP h4:not(x):not(x#_),\n.-theme--dark-theme .--A6ZsDHslYP:not(._._._._#_),\n.-heading4--dark:not(._._._._#_),\n.-heading4--light:not(._._._._#_) {\n  font-family: \"Mulish\";\n  font-weight: 600;\n  font-style: normal;\n  font-size: 28px;\n  line-height: 32px;\n  letter-spacing: 0px;\n}\n/*\n  Type:             typography\n  Id:               d_UN5QXHmU\n  Title:            Copy\n  Example Content:  Example\n*/\n.-typography--default-typographies--copy:not(._._._._._._#_),\n.-theme--default [class^=\"-paragraph\"]:not(#_),\n.-use--RoozF0BLT0 [class^=\"-paragraph\"]:not(x):not(x#_),\n.-theme--default [class*=\" -paragraph\"]:not(#_),\n.-use--RoozF0BLT0 [class*=\" -paragraph\"]:not(x):not(x#_),\n.-theme--default p:not(#_),\n.-use--RoozF0BLT0 p:not(x):not(x#_),\n.-theme--default .--RoozF0BLT0:not(._._._._#_),\n.-paragraph--dark:not(._._._._#_),\n.-paragraph--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-paragraph\"]:not(#_),\n.-use--HhdNk-ytrJ [class^=\"-paragraph\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -paragraph\"]:not(#_),\n.-use--HhdNk-ytrJ [class*=\" -paragraph\"]:not(x):not(x#_),\n.-theme--dark-theme p:not(#_),\n.-use--HhdNk-ytrJ p:not(x):not(x#_),\n.-theme--dark-theme .--HhdNk-ytrJ:not(._._._._#_) {\n  font-family: \"Roboto\";\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 22px;\n  letter-spacing: inherit;\n}\n/*\n  Type:             collection\n  Id:               I3XJzaBU6K\n  Title:            Decorations\n*/\n/*\n  Type:             typography\n  Id:               JZEwCy6K4L\n  Title:            Button\n  Example Content:  Example\n*/\n.-typography--decorations--button:not(._._._._._._#_),\n.-theme--default [class^=\"-button\"]:not(#_),\n.-use--_maG08ODPG [class^=\"-button\"]:not(x):not(x#_),\n.-theme--default [class*=\" -button\"]:not(#_),\n.-use--_maG08ODPG [class*=\" -button\"]:not(x):not(x#_),\n.-theme--default button:not(#_),\n.-use--_maG08ODPG button:not(x):not(x#_),\n.-theme--default .--_maG08ODPG:not(._._._._#_),\n.-use--d6Lsg60IKO [class^=\"-button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO [class*=\" -button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO button:not(x):not(x#_),\n.-theme--default .--d6Lsg60IKO:not(._._._._#_),\n.-use--0G3UKHd79P [class^=\"-button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P [class*=\" -button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P button:not(x):not(x#_),\n.-theme--default .--0G3UKHd79P:not(._._._._#_),\n.-button--primary:not(._._._._#_),\n.-button--secondary:not(._._._._#_),\n.-button--primary-light:not(._._._._#_),\n.-button--secondary-light:not(._._._._#_),\n.-use--N2Xwa_J5AV [class^=\"-button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV [class*=\" -button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV button:not(x):not(x#_),\n.-theme--dark-theme .--N2Xwa_J5AV:not(._._._._#_),\n.-use--K7vRkzFObt [class^=\"-button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt [class*=\" -button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt button:not(x):not(x#_),\n.-theme--dark-theme .--K7vRkzFObt:not(._._._._#_),\n.-theme--dark-theme [class^=\"-button\"]:not(#_),\n.-use--Yy70x2Agsq [class^=\"-button\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -button\"]:not(#_),\n.-use--Yy70x2Agsq [class*=\" -button\"]:not(x):not(x#_),\n.-theme--dark-theme button:not(#_),\n.-use--Yy70x2Agsq button:not(x):not(x#_),\n.-theme--dark-theme .--Yy70x2Agsq:not(._._._._#_),\n.-use--f3HsLktrK7 [class^=\"-button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 [class*=\" -button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 button:not(x):not(x#_),\n.-theme--dark-theme .--f3HsLktrK7:not(._._._._#_),\n.-button--link-button:not(._._._._#_),\n.-button--link-button--light:not(._._._._#_) {\n  font-family: \"Roboto\";\n  font-weight: 700;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 20px;\n  letter-spacing: 1px;\n}\n/*\n  Type:             collection\n  Id:               DpIx-lRWPt\n  Title:            Cards\n*/\n/*\n  Type:             collection\n  Id:               FLIOv863RR\n  Title:            Buttons\n*/\n/*\n  Type:             decoration\n  Id:               _d1gf1veM9\n  Title:            Primary\n*/\n.-decoration--buttons--primary:not(._._._._._._#_),\n.-theme--default [class^=\"-button\"]:not(#_),\n.-use--_maG08ODPG [class^=\"-button\"]:not(x):not(x#_),\n.-theme--default [class*=\" -button\"]:not(#_),\n.-use--_maG08ODPG [class*=\" -button\"]:not(x):not(x#_),\n.-theme--default button:not(#_),\n.-use--_maG08ODPG button:not(x):not(x#_),\n.-theme--default .--_maG08ODPG:not(._._._._#_),\n.-button--primary:not(._._._._#_),\n.-button--primary-light:not(._._._._#_),\n.-use--N2Xwa_J5AV [class^=\"-button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV [class*=\" -button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV button:not(x):not(x#_),\n.-theme--dark-theme .--N2Xwa_J5AV:not(._._._._#_),\n.-theme--dark-theme [class^=\"-button\"]:not(#_),\n.-use--Yy70x2Agsq [class^=\"-button\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -button\"]:not(#_),\n.-use--Yy70x2Agsq [class*=\" -button\"]:not(x):not(x#_),\n.-theme--dark-theme button:not(#_),\n.-use--Yy70x2Agsq button:not(x):not(x#_),\n.-theme--dark-theme .--Yy70x2Agsq:not(._._._._#_) {\n  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);\n  border-radius: 9999px 9999px 9999px 9999px;\n  border-width: 0px 0px 0px 0px;\n  border-style: solid;\n  border-color: rgba(0, 0, 0, 0);\n}\n/*\n  Type:             decoration\n  Id:               wkl9T2ubIY\n  Title:            Secondary\n*/\n.-decoration--buttons--secondary:not(._._._._._._#_),\n.-use--d6Lsg60IKO [class^=\"-button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO [class*=\" -button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO button:not(x):not(x#_),\n.-theme--default .--d6Lsg60IKO:not(._._._._#_),\n.-button--secondary:not(._._._._#_) {\n  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);\n  border-radius: 9999px 9999px 9999px 9999px;\n  border-width: 2px 2px 2px 2px;\n  border-style: solid;\n  border-color: rgba(85, 72, 217, 1);\n}\n/*\n  Type:             collection\n  Id:               rf6H93mUS8\n  Title:            Background\n*/\n/*\n  Type:             fill\n  Id:               3m53FHqBFf\n  Title:            Light\n*/\n.-fill--background--light:not(._._._._._._#_),\n.-theme--default [class^=\"-section\"]:not(#_),\n.-use--R8ZTj_wdBy [class^=\"-section\"]:not(x):not(x#_),\n.-theme--default [class*=\" -section\"]:not(#_),\n.-use--R8ZTj_wdBy [class*=\" -section\"]:not(x):not(x#_),\n.-theme--default .--R8ZTj_wdBy:not(._._._._#_),\n.-use--u5j3MemiqH [class^=\"-card\"]:not(x):not(x#_),\n.-use--u5j3MemiqH [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--u5j3MemiqH:not(._._._._#_),\n.-button--primary-light:not(._._._._#_),\n.-section--background:not(._._._._#_),\n.-card--light:not(._._._._#_),\n.-use--N2Xwa_J5AV [class^=\"-button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV [class*=\" -button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV button:not(x):not(x#_),\n.-theme--dark-theme .--N2Xwa_J5AV:not(._._._._#_) {\n  background: rgba(255, 255, 255, 1);\n  backdrop-filter: none;\n  opacity: 1;\n}\n/*\n  Type:             fill\n  Id:               iwVwcDLEpA\n  Title:            Medium gray\n*/\n.-fill--background--medium-gray:not(._._._._._._#_),\n.-theme--default [class^=\"-inline--badge\"]:not(#_),\n.-use--slII61QEpe [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--default [class*=\" -inline--badge\"]:not(#_),\n.-use--slII61QEpe [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--default .--slII61QEpe:not(._._._._#_),\n.-inline--badge--simple:not(._._._._#_),\n.-theme--dark-theme [class^=\"-inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme .--cp1BiDY68M:not(._._._._#_) {\n  background: rgba(246, 246, 246, 1);\n  backdrop-filter: none;\n  opacity: 1;\n}\n/*\n  Type:             fill\n  Id:               xScPql6wqB\n  Title:            Dark\n*/\n.-fill--background--dark:not(._._._._._._#_),\n.-theme--dark-theme [class^=\"-section\"]:not(#_),\n.-use--BVcYcYrB1c [class^=\"-section\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -section\"]:not(#_),\n.-use--BVcYcYrB1c [class*=\" -section\"]:not(x):not(x#_),\n.-theme--dark-theme .--BVcYcYrB1c:not(._._._._#_) {\n  background: rgba(47, 47, 47, 1);\n  backdrop-filter: none;\n  opacity: 1;\n}\n/*\n  Type:             fill\n  Id:               EvoxGGtUbE\n  Title:            Accent 1\n*/\n.-fill--background--accent-1:not(._._._._._._#_),\n.-use--gM2SXD01ud [class^=\"-card\"]:not(x):not(x#_),\n.-use--gM2SXD01ud [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--gM2SXD01ud:not(._._._._#_),\n.-theme--default [class^=\"-button\"]:not(#_),\n.-use--_maG08ODPG [class^=\"-button\"]:not(x):not(x#_),\n.-theme--default [class*=\" -button\"]:not(#_),\n.-use--_maG08ODPG [class*=\" -button\"]:not(x):not(x#_),\n.-theme--default button:not(#_),\n.-use--_maG08ODPG button:not(x):not(x#_),\n.-theme--default .--_maG08ODPG:not(._._._._#_),\n.-button--primary:not(._._._._#_),\n.-card--accent:not(._._._._#_),\n.-use--n6kcBji3dF [class^=\"-card\"]:not(x):not(x#_),\n.-use--n6kcBji3dF [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--n6kcBji3dF:not(._._._._#_),\n.-theme--dark-theme [class^=\"-button\"]:not(#_),\n.-use--Yy70x2Agsq [class^=\"-button\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -button\"]:not(#_),\n.-use--Yy70x2Agsq [class*=\" -button\"]:not(x):not(x#_),\n.-theme--dark-theme button:not(#_),\n.-use--Yy70x2Agsq button:not(x):not(x#_),\n.-theme--dark-theme .--Yy70x2Agsq:not(._._._._#_) {\n  background: rgba(85, 72, 217, 1);\n  backdrop-filter: none;\n  opacity: 1;\n}\n/*\n  Type:             fill\n  Id:               ql1Wi9cnNy\n  Title:            Accent 2\n*/\n.-fill--background--accent-2:not(._._._._._._#_),\n.-use--JPwPafzlHs [class^=\"-card\"]:not(x):not(x#_),\n.-use--JPwPafzlHs [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--JPwPafzlHs:not(._._._._#_) {\n  background: rgba(255, 178, 4, 1);\n  backdrop-filter: none;\n  opacity: 1;\n}\n/*\n  Type:             collection\n  Id:               zLQ8bXr4Pp\n  Title:            Sections\n*/\n/*\n  Type:             spacing\n  Id:               mEj8uITxBN\n  Title:            4px\n*/\n.-spacing--default-spacings--4px:not(._._._._._._#_),\n.-card--light:not(._._._._#_),\n.-card--accent:not(._._._._#_),\n.-card--glass-effect:not(._._._._#_) {\n  padding-top: 4px;\n  padding-right: 4px;\n  padding-bottom: 4px;\n  padding-left: 4px;\n  ---spacing--row-gap: 4px;\n  ---spacing--column-gap: 4px;\n}\n.-spacing--default-spacings--4px > *:not(._._._._._._#_),\n.-card--light > *:not(._._._._#_),\n.-card--accent > *:not(._._._._#_),\n.-card--glass-effect > *:not(._._._._#_) {\n  ---layout--row-gap: 4px;\n  ---layout--column-gap: 4px;\n}\n/*\n  Type:             spacing\n  Id:               Hx1h8szlLy\n  Title:            8px\n*/\n.-spacing--default-spacings--8px:not(._._._._._._#_),\n.-theme--default [class^=\"-inline--badge\"]:not(#_),\n.-use--slII61QEpe [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--default [class*=\" -inline--badge\"]:not(#_),\n.-use--slII61QEpe [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--default .--slII61QEpe:not(._._._._#_),\n.-inline--badge--simple:not(._._._._#_),\n.-theme--dark-theme [class^=\"-inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme .--cp1BiDY68M:not(._._._._#_) {\n  padding-top: 8px;\n  padding-right: 8px;\n  padding-bottom: 8px;\n  padding-left: 8px;\n  ---spacing--row-gap: 8px;\n  ---spacing--column-gap: 8px;\n}\n.-spacing--default-spacings--8px > *:not(._._._._._._#_),\n.-theme--default [class^=\"-inline--badge\"] > *:not(#_),\n.-use--slII61QEpe [class^=\"-inline--badge\"] > *:not(x):not(x#_),\n.-theme--default [class*=\" -inline--badge\"] > *:not(#_),\n.-use--slII61QEpe [class*=\" -inline--badge\"] > *:not(x):not(x#_),\n.-theme--default .--slII61QEpe > *:not(._._._._#_),\n.-inline--badge--simple > *:not(._._._._#_),\n.-theme--dark-theme [class^=\"-inline--badge\"] > *:not(#_),\n.-use--cp1BiDY68M [class^=\"-inline--badge\"] > *:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -inline--badge\"] > *:not(#_),\n.-use--cp1BiDY68M [class*=\" -inline--badge\"] > *:not(x):not(x#_),\n.-theme--dark-theme .--cp1BiDY68M > *:not(._._._._#_) {\n  ---layout--row-gap: 8px;\n  ---layout--column-gap: 8px;\n}\n/*\n  Type:             spacing\n  Id:               gNDE5XRG2P\n  Title:            12px\n*/\n.-spacing--default-spacings--12px:not(._._._._._._#_) {\n  padding-top: 12px;\n  padding-right: 12px;\n  padding-bottom: 12px;\n  padding-left: 12px;\n  ---spacing--row-gap: 12px;\n  ---spacing--column-gap: 12px;\n}\n.-spacing--default-spacings--12px > *:not(._._._._._._#_) {\n  ---layout--row-gap: 12px;\n  ---layout--column-gap: 12px;\n}\n/*\n  Type:             spacing\n  Id:               mxvkQzY5vb\n  Title:            20px\n*/\n.-spacing--default-spacings--20px:not(._._._._._._#_) {\n  padding-top: 20px;\n  padding-right: 20px;\n  padding-bottom: 20px;\n  padding-left: 20px;\n  ---spacing--row-gap: 20px;\n  ---spacing--column-gap: 20px;\n}\n.-spacing--default-spacings--20px > *:not(._._._._._._#_) {\n  ---layout--row-gap: 20px;\n  ---layout--column-gap: 20px;\n}\n/*\n  Type:             spacing\n  Id:               lXAwTJU-hI\n  Title:            28px\n*/\n.-spacing--default-spacings--28px:not(._._._._._._#_) {\n  padding-top: 28px;\n  padding-right: 28px;\n  padding-bottom: 28px;\n  padding-left: 28px;\n  ---spacing--row-gap: 28px;\n  ---spacing--column-gap: 28px;\n}\n.-spacing--default-spacings--28px > *:not(._._._._._._#_) {\n  ---layout--row-gap: 28px;\n  ---layout--column-gap: 28px;\n}\n/*\n  Type:             spacing\n  Id:               Z3UkHOGWIM\n  Title:            36px\n*/\n.-spacing--default-spacings--36px:not(._._._._._._#_) {\n  padding-top: 36px;\n  padding-right: 36px;\n  padding-bottom: 36px;\n  padding-left: 36px;\n  ---spacing--row-gap: 36px;\n  ---spacing--column-gap: 36px;\n}\n.-spacing--default-spacings--36px > *:not(._._._._._._#_) {\n  ---layout--row-gap: 36px;\n  ---layout--column-gap: 36px;\n}\n/*\n  Type:             spacing\n  Id:               Kru2H2skvb\n  Title:            50px\n*/\n.-spacing--default-spacings--50px:not(._._._._._._#_) {\n  padding-top: 50px;\n  padding-right: 50px;\n  padding-bottom: 50px;\n  padding-left: 50px;\n  ---spacing--row-gap: 50px;\n  ---spacing--column-gap: 50px;\n}\n.-spacing--default-spacings--50px > *:not(._._._._._._#_) {\n  ---layout--row-gap: 50px;\n  ---layout--column-gap: 50px;\n}\n/*\n  Type:             spacing\n  Id:               RFczInMvEi\n  Title:            75px\n*/\n.-spacing--default-spacings--75px:not(._._._._._._#_) {\n  padding-top: 75px;\n  padding-right: 75px;\n  padding-bottom: 75px;\n  padding-left: 75px;\n  ---spacing--row-gap: 75px;\n  ---spacing--column-gap: 75px;\n}\n.-spacing--default-spacings--75px > *:not(._._._._._._#_) {\n  ---layout--row-gap: 75px;\n  ---layout--column-gap: 75px;\n}\n/*\n  Type:             spacing\n  Id:               8-koiH9js2\n  Title:            100px\n*/\n.-spacing--default-spacings--100px:not(._._._._._._#_) {\n  padding-top: 100px;\n  padding-right: 100px;\n  padding-bottom: 100px;\n  padding-left: 100px;\n  ---spacing--row-gap: 100px;\n  ---spacing--column-gap: 100px;\n}\n.-spacing--default-spacings--100px > *:not(._._._._._._#_) {\n  ---layout--row-gap: 100px;\n  ---layout--column-gap: 100px;\n}\n/*\n  Type:             spacing\n  Id:               PWjGAutOdR\n  Title:            Small spacing\n*/\n.-spacing--sections--small-spacing:not(._._._._._._#_),\n.-section--background:not(._._._._#_) {\n  padding-top: 20px;\n  padding-right: 50px;\n  padding-bottom: 20px;\n  padding-left: 50px;\n  ---spacing--row-gap: 40px;\n  ---spacing--column-gap: 40px;\n}\n.-spacing--sections--small-spacing > *:not(._._._._._._#_),\n.-section--background > *:not(._._._._#_) {\n  ---layout--row-gap: 40px;\n  ---layout--column-gap: 40px;\n}\n/*\n  Type:             spacing\n  Id:               qjduU2rAOD\n  Title:            Medium spacing\n*/\n.-spacing--sections--medium-spacing:not(._._._._._._#_) {\n  padding-top: 60px;\n  padding-right: 50px;\n  padding-bottom: 60px;\n  padding-left: 50px;\n  ---spacing--row-gap: 40px;\n  ---spacing--column-gap: 40px;\n}\n.-spacing--sections--medium-spacing > *:not(._._._._._._#_) {\n  ---layout--row-gap: 40px;\n  ---layout--column-gap: 40px;\n}\n/*\n  Type:             spacing\n  Id:               0kqR_4XVwY\n  Title:            Large spacing\n*/\n.-spacing--sections--large-spacing:not(._._._._._._#_),\n.-theme--default [class^=\"-section\"]:not(#_),\n.-use--R8ZTj_wdBy [class^=\"-section\"]:not(x):not(x#_),\n.-theme--default [class*=\" -section\"]:not(#_),\n.-use--R8ZTj_wdBy [class*=\" -section\"]:not(x):not(x#_),\n.-theme--default .--R8ZTj_wdBy:not(._._._._#_),\n.-theme--dark-theme [class^=\"-section\"]:not(#_),\n.-use--BVcYcYrB1c [class^=\"-section\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -section\"]:not(#_),\n.-use--BVcYcYrB1c [class*=\" -section\"]:not(x):not(x#_),\n.-theme--dark-theme .--BVcYcYrB1c:not(._._._._#_) {\n  padding-top: 100px;\n  padding-right: 100px;\n  padding-bottom: 100px;\n  padding-left: 100px;\n  ---spacing--row-gap: 40px;\n  ---spacing--column-gap: 40px;\n}\n.-spacing--sections--large-spacing > *:not(._._._._._._#_),\n.-theme--default [class^=\"-section\"] > *:not(#_),\n.-use--R8ZTj_wdBy [class^=\"-section\"] > *:not(x):not(x#_),\n.-theme--default [class*=\" -section\"] > *:not(#_),\n.-use--R8ZTj_wdBy [class*=\" -section\"] > *:not(x):not(x#_),\n.-theme--default .--R8ZTj_wdBy > *:not(._._._._#_),\n.-theme--dark-theme [class^=\"-section\"] > *:not(#_),\n.-use--BVcYcYrB1c [class^=\"-section\"] > *:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -section\"] > *:not(#_),\n.-use--BVcYcYrB1c [class*=\" -section\"] > *:not(x):not(x#_),\n.-theme--dark-theme .--BVcYcYrB1c > *:not(._._._._#_) {\n  ---layout--row-gap: 40px;\n  ---layout--column-gap: 40px;\n}\n/*\n  Type:             text\n  Id:               aU-mzjnqhZ\n  Title:            Dark\n  Example Content:  Example\n*/\n.-heading1--dark:not(._._._._#_) {\n  /*\n    Palette Ids:      nY7jlBzB0O\n    Typography Ids:   RRbPrllH1F\n  */\n}\n/*\n  Type:             palette\n  Id:               nY7jlBzB0O\n  Title:            Custom\n*/\n.-palette--nY7jlBzB0O:not(._._._._._._#_),\n.-theme--default [class^=\"-heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading1\"]:not(#_),\n.-use--snZ6T5JSiy [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--default h1:not(#_),\n.-use--snZ6T5JSiy h1:not(x):not(x#_),\n.-theme--default .--snZ6T5JSiy:not(._._._._#_),\n.-heading1--dark:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             palette\n  Id:               Q4w-MvbCu9\n  Title:            Custom\n*/\n.-palette--Q4w-MvbCu9:not(._._._._._._#_),\n.-heading1--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class^=\"-heading1\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading1\"]:not(#_),\n.-use--Iv2nh2ft02 [class*=\" -heading1\"]:not(x):not(x#_),\n.-theme--dark-theme h1:not(#_),\n.-use--Iv2nh2ft02 h1:not(x):not(x#_),\n.-theme--dark-theme .--Iv2nh2ft02:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             text\n  Id:               8qi4RGMqnB\n  Title:            Light\n  Example Content:  Example\n*/\n.-heading1--light:not(._._._._#_) {\n  /*\n    Palette Ids:      Q4w-MvbCu9\n    Typography Ids:   RRbPrllH1F\n  */\n}\n/*\n  Type:             text\n  Id:               hKEkZHYP2K\n  Title:            Dark\n  Example Content:  Example\n*/\n.-heading2--dark:not(._._._._#_) {\n  /*\n    Palette Ids:      G5EI_0YNsh\n    Typography Ids:   45wK6q9Uvb\n  */\n}\n/*\n  Type:             palette\n  Id:               G5EI_0YNsh\n  Title:            Custom\n*/\n.-palette--G5EI_0YNsh:not(._._._._._._#_),\n.-theme--default [class^=\"-heading2\"]:not(#_),\n.-use--Nk7T2QU_h7 [class^=\"-heading2\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading2\"]:not(#_),\n.-use--Nk7T2QU_h7 [class*=\" -heading2\"]:not(x):not(x#_),\n.-theme--default h2:not(#_),\n.-use--Nk7T2QU_h7 h2:not(x):not(x#_),\n.-theme--default .--Nk7T2QU_h7:not(._._._._#_),\n.-heading2--dark:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             palette\n  Id:               qryN94384d\n  Title:            Custom\n*/\n.-palette--qryN94384d:not(._._._._._._#_),\n.-heading2--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading2\"]:not(#_),\n.-use--vvsZCgfu9j [class^=\"-heading2\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading2\"]:not(#_),\n.-use--vvsZCgfu9j [class*=\" -heading2\"]:not(x):not(x#_),\n.-theme--dark-theme h2:not(#_),\n.-use--vvsZCgfu9j h2:not(x):not(x#_),\n.-theme--dark-theme .--vvsZCgfu9j:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             text\n  Id:               p6t3dSbg6H\n  Title:            Light\n  Example Content:  Example\n*/\n.-heading2--light:not(._._._._#_) {\n  /*\n    Palette Ids:      qryN94384d\n    Typography Ids:   45wK6q9Uvb\n  */\n}\n/*\n  Type:             text\n  Id:               9uv36-3d6k\n  Title:            Dark\n  Example Content:  Example\n*/\n.-heading3--dark:not(._._._._#_) {\n  /*\n    Palette Ids:      4oFUTzChwX\n    Typography Ids:   xPQTMRK-v_\n  */\n}\n/*\n  Type:             palette\n  Id:               4oFUTzChwX\n  Title:            Custom\n*/\n.-palette--4oFUTzChwX:not(._._._._._._#_),\n.-theme--default [class^=\"-heading3\"]:not(#_),\n.-use--ZQE5jUqBmj [class^=\"-heading3\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading3\"]:not(#_),\n.-use--ZQE5jUqBmj [class*=\" -heading3\"]:not(x):not(x#_),\n.-theme--default h3:not(#_),\n.-use--ZQE5jUqBmj h3:not(x):not(x#_),\n.-theme--default .--ZQE5jUqBmj:not(._._._._#_),\n.-heading3--dark:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             palette\n  Id:               swM-E0zF2E\n  Title:            Custom\n*/\n.-palette--swM-E0zF2E:not(._._._._._._#_),\n.-heading3--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-heading3\"]:not(#_),\n.-use--MF_8qTDrtS [class^=\"-heading3\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading3\"]:not(#_),\n.-use--MF_8qTDrtS [class*=\" -heading3\"]:not(x):not(x#_),\n.-theme--dark-theme h3:not(#_),\n.-use--MF_8qTDrtS h3:not(x):not(x#_),\n.-theme--dark-theme .--MF_8qTDrtS:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             text\n  Id:               fIdazH01qt\n  Title:            Light\n  Example Content:  Example\n*/\n.-heading3--light:not(._._._._#_) {\n  /*\n    Palette Ids:      swM-E0zF2E\n    Typography Ids:   xPQTMRK-v_\n  */\n}\n/*\n  Type:             text\n  Id:               81GfY1BzjN\n  Title:            Dark\n  Example Content:  Example\n*/\n.-paragraph--dark:not(._._._._#_) {\n  /*\n    Palette Ids:      XupjMlS9v2\n    Typography Ids:   d_UN5QXHmU\n  */\n}\n/*\n  Type:             palette\n  Id:               XupjMlS9v2\n  Title:            Custom\n*/\n.-palette--XupjMlS9v2:not(._._._._._._#_),\n.-theme--default [class^=\"-paragraph\"]:not(#_),\n.-use--RoozF0BLT0 [class^=\"-paragraph\"]:not(x):not(x#_),\n.-theme--default [class*=\" -paragraph\"]:not(#_),\n.-use--RoozF0BLT0 [class*=\" -paragraph\"]:not(x):not(x#_),\n.-theme--default p:not(#_),\n.-use--RoozF0BLT0 p:not(x):not(x#_),\n.-theme--default .--RoozF0BLT0:not(._._._._#_),\n.-paragraph--dark:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             palette\n  Id:               8j3isVjwUJ\n  Title:            Custom\n*/\n.-palette--8j3isVjwUJ:not(._._._._._._#_),\n.-paragraph--light:not(._._._._#_),\n.-theme--dark-theme [class^=\"-paragraph\"]:not(#_),\n.-use--HhdNk-ytrJ [class^=\"-paragraph\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -paragraph\"]:not(#_),\n.-use--HhdNk-ytrJ [class*=\" -paragraph\"]:not(x):not(x#_),\n.-theme--dark-theme p:not(#_),\n.-use--HhdNk-ytrJ p:not(x):not(x#_),\n.-theme--dark-theme .--HhdNk-ytrJ:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             text\n  Id:               WMSqiw1d4F\n  Title:            Light\n  Example Content:  Example\n*/\n.-paragraph--light:not(._._._._#_) {\n  /*\n    Palette Ids:      8j3isVjwUJ\n    Typography Ids:   d_UN5QXHmU\n  */\n}\n/*\n  Type:             inline\n  Id:               EzVS_icaO5\n  Title:            Primary\n*/\n.-button--primary:not(._._._._#_) {\n  /*\n    Typography Ids:   JZEwCy6K4L\n    Decoration Ids:   _d1gf1veM9\n    Fill Ids:         EvoxGGtUbE\n    Graphic Ids:      blank-graphic\n    Palette Ids:      h_YB1KgKAF\n    Spacing Ids:      0vypQ0bneW\n  */\n}\n/*\n  Type:             palette\n  Id:               h_YB1KgKAF\n  Title:            Custom\n*/\n.-palette--h_YB1KgKAF:not(._._._._._._#_),\n.-theme--default [class^=\"-button\"]:not(#_),\n.-use--_maG08ODPG [class^=\"-button\"]:not(x):not(x#_),\n.-theme--default [class*=\" -button\"]:not(#_),\n.-use--_maG08ODPG [class*=\" -button\"]:not(x):not(x#_),\n.-theme--default button:not(#_),\n.-use--_maG08ODPG button:not(x):not(x#_),\n.-theme--default .--_maG08ODPG:not(._._._._#_),\n.-button--primary:not(._._._._#_),\n.-theme--dark-theme [class^=\"-button\"]:not(#_),\n.-use--Yy70x2Agsq [class^=\"-button\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -button\"]:not(#_),\n.-use--Yy70x2Agsq [class*=\" -button\"]:not(x):not(x#_),\n.-theme--dark-theme button:not(#_),\n.-use--Yy70x2Agsq button:not(x):not(x#_),\n.-theme--dark-theme .--Yy70x2Agsq:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             collection\n  Id:               If0SAiKVyd\n  Title:            Decoration\n*/\n/*\n  Type:             spacing\n  Id:               0vypQ0bneW\n  Title:            Button\n*/\n.-spacing--decoration--button:not(._._._._._._#_),\n.-theme--default [class^=\"-button\"]:not(#_),\n.-use--_maG08ODPG [class^=\"-button\"]:not(x):not(x#_),\n.-theme--default [class*=\" -button\"]:not(#_),\n.-use--_maG08ODPG [class*=\" -button\"]:not(x):not(x#_),\n.-theme--default button:not(#_),\n.-use--_maG08ODPG button:not(x):not(x#_),\n.-theme--default .--_maG08ODPG:not(._._._._#_),\n.-use--d6Lsg60IKO [class^=\"-button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO [class*=\" -button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO button:not(x):not(x#_),\n.-theme--default .--d6Lsg60IKO:not(._._._._#_),\n.-button--primary:not(._._._._#_),\n.-button--secondary:not(._._._._#_),\n.-button--primary-light:not(._._._._#_),\n.-button--secondary-light:not(._._._._#_),\n.-use--N2Xwa_J5AV [class^=\"-button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV [class*=\" -button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV button:not(x):not(x#_),\n.-theme--dark-theme .--N2Xwa_J5AV:not(._._._._#_),\n.-use--K7vRkzFObt [class^=\"-button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt [class*=\" -button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt button:not(x):not(x#_),\n.-theme--dark-theme .--K7vRkzFObt:not(._._._._#_),\n.-theme--dark-theme [class^=\"-button\"]:not(#_),\n.-use--Yy70x2Agsq [class^=\"-button\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -button\"]:not(#_),\n.-use--Yy70x2Agsq [class*=\" -button\"]:not(x):not(x#_),\n.-theme--dark-theme button:not(#_),\n.-use--Yy70x2Agsq button:not(x):not(x#_),\n.-theme--dark-theme .--Yy70x2Agsq:not(._._._._#_) {\n  padding-top: 8px;\n  padding-right: 20px;\n  padding-bottom: 8px;\n  padding-left: 20px;\n  ---spacing--row-gap: 0px;\n  ---spacing--column-gap: 0px;\n}\n.-spacing--decoration--button > *:not(._._._._._._#_),\n.-theme--default [class^=\"-button\"] > *:not(#_),\n.-use--_maG08ODPG [class^=\"-button\"] > *:not(x):not(x#_),\n.-theme--default [class*=\" -button\"] > *:not(#_),\n.-use--_maG08ODPG [class*=\" -button\"] > *:not(x):not(x#_),\n.-theme--default button > *:not(#_),\n.-use--_maG08ODPG button > *:not(x):not(x#_),\n.-theme--default .--_maG08ODPG > *:not(._._._._#_),\n.-use--d6Lsg60IKO [class^=\"-button\"] > *:not(x):not(x#_),\n.-use--d6Lsg60IKO [class*=\" -button\"] > *:not(x):not(x#_),\n.-use--d6Lsg60IKO button > *:not(x):not(x#_),\n.-theme--default .--d6Lsg60IKO > *:not(._._._._#_),\n.-button--primary > *:not(._._._._#_),\n.-button--secondary > *:not(._._._._#_),\n.-button--primary-light > *:not(._._._._#_),\n.-button--secondary-light > *:not(._._._._#_),\n.-use--N2Xwa_J5AV [class^=\"-button\"] > *:not(x):not(x#_),\n.-use--N2Xwa_J5AV [class*=\" -button\"] > *:not(x):not(x#_),\n.-use--N2Xwa_J5AV button > *:not(x):not(x#_),\n.-theme--dark-theme .--N2Xwa_J5AV > *:not(._._._._#_),\n.-use--K7vRkzFObt [class^=\"-button\"] > *:not(x):not(x#_),\n.-use--K7vRkzFObt [class*=\" -button\"] > *:not(x):not(x#_),\n.-use--K7vRkzFObt button > *:not(x):not(x#_),\n.-theme--dark-theme .--K7vRkzFObt > *:not(._._._._#_),\n.-theme--dark-theme [class^=\"-button\"] > *:not(#_),\n.-use--Yy70x2Agsq [class^=\"-button\"] > *:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -button\"] > *:not(#_),\n.-use--Yy70x2Agsq [class*=\" -button\"] > *:not(x):not(x#_),\n.-theme--dark-theme button > *:not(#_),\n.-use--Yy70x2Agsq button > *:not(x):not(x#_),\n.-theme--dark-theme .--Yy70x2Agsq > *:not(._._._._#_) {\n  ---layout--row-gap: 0px;\n  ---layout--column-gap: 0px;\n}\n/*\n  Type:             palette\n  Id:               zGG1eb9oLu\n  Title:            Custom\n*/\n.-palette--zGG1eb9oLu:not(._._._._._._#_),\n.-use--d6Lsg60IKO [class^=\"-button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO [class*=\" -button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO button:not(x):not(x#_),\n.-theme--default .--d6Lsg60IKO:not(._._._._#_),\n.-button--secondary:not(._._._._#_) {\n  color: rgba(85, 72, 217, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             inline\n  Id:               oxdmvwd3Qh\n  Title:            Secondary\n*/\n.-button--secondary:not(._._._._#_) {\n  /*\n    Typography Ids:   JZEwCy6K4L\n    Decoration Ids:   wkl9T2ubIY\n    Fill Ids:         blank-fill\n    Graphic Ids:      blank-graphic\n    Palette Ids:      zGG1eb9oLu\n    Spacing Ids:      0vypQ0bneW\n  */\n}\n/*\n  Type:             palette\n  Id:               -2Mqs1lBr0\n  Title:            Custom\n*/\n.-palette---2Mqs1lBr0:not(._._._._._._#_),\n.-button--primary-light:not(._._._._#_),\n.-use--N2Xwa_J5AV [class^=\"-button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV [class*=\" -button\"]:not(x):not(x#_),\n.-use--N2Xwa_J5AV button:not(x):not(x#_),\n.-theme--dark-theme .--N2Xwa_J5AV:not(._._._._#_) {\n  color: rgba(85, 72, 217, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             inline\n  Id:               zJJhm9GxwS\n  Title:            Primary - light\n*/\n.-button--primary-light:not(._._._._#_) {\n  /*\n    Typography Ids:   JZEwCy6K4L\n    Decoration Ids:   _d1gf1veM9\n    Fill Ids:         3m53FHqBFf\n    Graphic Ids:      blank-graphic\n    Palette Ids:      -2Mqs1lBr0\n    Spacing Ids:      0vypQ0bneW\n  */\n}\n/*\n  Type:             palette\n  Id:               5vMnIzNOA_\n  Title:            Custom\n*/\n.-palette--5vMnIzNOA_:not(._._._._._._#_),\n.-button--secondary-light:not(._._._._#_),\n.-use--K7vRkzFObt [class^=\"-button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt [class*=\" -button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt button:not(x):not(x#_),\n.-theme--dark-theme .--K7vRkzFObt:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             inline\n  Id:               RBvBxOuKuf\n  Title:            Secondary light\n*/\n.-button--secondary-light:not(._._._._#_) {\n  /*\n    Typography Ids:   JZEwCy6K4L\n    Decoration Ids:   5FnOu_-KUy\n    Fill Ids:         blank-fill\n    Graphic Ids:      blank-graphic\n    Palette Ids:      5vMnIzNOA_\n    Spacing Ids:      0vypQ0bneW\n  */\n}\n/*\n  Type:             decoration\n  Id:               5FnOu_-KUy\n  Title:            Secondary light\n*/\n.-decoration--buttons--secondary-light:not(._._._._._._#_),\n.-button--secondary-light:not(._._._._#_),\n.-use--K7vRkzFObt [class^=\"-button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt [class*=\" -button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt button:not(x):not(x#_),\n.-theme--dark-theme .--K7vRkzFObt:not(._._._._#_) {\n  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);\n  border-radius: 9999px 9999px 9999px 9999px;\n  border-width: 2px 2px 2px 2px;\n  border-style: solid;\n  border-color: rgba(255, 255, 255, 1);\n}\n/*\n  Type:             inline\n  Id:               yOmhUXNlmH\n  Title:            Simple\n*/\n.-inline--badge--simple:not(._._._._#_) {\n  /*\n    Typography Ids:   WR8zc3dtGq\n    Decoration Ids:   piaVreDzqO\n    Fill Ids:         iwVwcDLEpA\n    Graphic Ids:      blank-graphic\n    Palette Ids:      1EFaAXsGdP\n    Spacing Ids:      Hx1h8szlLy\n  */\n}\n/*\n  Type:             palette\n  Id:               1EFaAXsGdP\n  Title:            Custom\n*/\n.-palette--1EFaAXsGdP:not(._._._._._._#_),\n.-theme--default [class^=\"-inline--badge\"]:not(#_),\n.-use--slII61QEpe [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--default [class*=\" -inline--badge\"]:not(#_),\n.-use--slII61QEpe [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--default .--slII61QEpe:not(._._._._#_),\n.-inline--badge--simple:not(._._._._#_),\n.-theme--dark-theme [class^=\"-inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme .--cp1BiDY68M:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             typography\n  Id:               WR8zc3dtGq\n  Title:            Badge\n  Example Content:  Example\n*/\n.-typography--decorations--badge:not(._._._._._._#_),\n.-theme--default [class^=\"-inline--badge\"]:not(#_),\n.-use--slII61QEpe [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--default [class*=\" -inline--badge\"]:not(#_),\n.-use--slII61QEpe [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--default .--slII61QEpe:not(._._._._#_),\n.-inline--badge--simple:not(._._._._#_),\n.-theme--dark-theme [class^=\"-inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme .--cp1BiDY68M:not(._._._._#_) {\n  font-family: \"Roboto\";\n  font-weight: 700;\n  font-style: normal;\n  font-size: 12px;\n  line-height: 12px;\n  letter-spacing: 0.1em;\n}\n/*\n  Type:             inline\n  Id:               APtTqVKDNK\n  Title:            Dark\n*/\n.-link--dark:not(._._._._#_) {\n  /*\n    Typography Ids:   blank-typography\n    Decoration Ids:   blank-decoration\n    Fill Ids:         blank-fill\n    Graphic Ids:      blank-graphic\n    Palette Ids:      50TdHBofBS\n    Spacing Ids:      blank-spacing\n  */\n}\n/*\n  Type:             palette\n  Id:               50TdHBofBS\n  Title:            Custom\n*/\n.-palette--50TdHBofBS:not(._._._._._._#_),\n.-theme--default a:not(#_),\n.-use--oqZybTWN_r a:not(x):not(x#_),\n.-theme--default .--oqZybTWN_r:not(._._._._#_),\n.-link--dark:not(._._._._#_) {\n  color: rgba(85, 72, 217, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             palette\n  Id:               9XwyI107PZ\n  Title:            Custom\n*/\n.-palette--9XwyI107PZ:not(._._._._._._#_),\n.-link--light:not(._._._._#_),\n.-theme--dark-theme a:not(#_),\n.-use--B0MEC8t7rw a:not(x):not(x#_),\n.-theme--dark-theme .--B0MEC8t7rw:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             inline\n  Id:               FTbDUvT_Zm\n  Title:            Light\n*/\n.-link--light:not(._._._._#_) {\n  /*\n    Typography Ids:   blank-typography\n    Decoration Ids:   blank-decoration\n    Fill Ids:         blank-fill\n    Graphic Ids:      blank-graphic\n    Palette Ids:      9XwyI107PZ\n    Spacing Ids:      blank-spacing\n  */\n}\n/*\n  Type:             block\n  Id:               ivCoksVGRA\n  Title:            Background\n*/\n.-section--background:not(._._._._#_) {\n  /*\n    Decoration Ids:   blank-decoration\n    Fill Ids:         3m53FHqBFf, iwVwcDLEpA, xScPql6wqB, EvoxGGtUbE, ql1Wi9cnNy\n    Spacing Ids:      PWjGAutOdR, qjduU2rAOD, 0kqR_4XVwY\n    Layout Ids:       blank-layout\n    Palette Ids:      blank-palette\n  */\n}\n/*\n  Type:             block\n  Id:               h7eWIUSrBB\n  Title:            Light\n*/\n.-card--light:not(._._._._#_) {\n  /*\n    Decoration Ids:   6FCps1apUa, blank-decoration\n    Fill Ids:         3m53FHqBFf, iwVwcDLEpA, blank-fill\n    Spacing Ids:      blank-spacing, mEj8uITxBN, Hx1h8szlLy, gNDE5XRG2P, mxvkQzY5vb, lXAwTJU-hI, \n                      Z3UkHOGWIM, Kru2H2skvb, RFczInMvEi, 8-koiH9js2, PWjGAutOdR, qjduU2rAOD, \n                      0kqR_4XVwY, 0vypQ0bneW, En3_4849GY, E1dvxbMI5i\n    Layout Ids:       blank-layout\n    Palette Ids:      blank-palette\n  */\n}\n/*\n  Type:             block\n  Id:               wSqk-cSfCP\n  Title:            Accent\n*/\n.-card--accent:not(._._._._#_) {\n  /*\n    Decoration Ids:   6FCps1apUa, blank-decoration\n    Fill Ids:         EvoxGGtUbE, ql1Wi9cnNy, blank-fill\n    Spacing Ids:      blank-spacing, mEj8uITxBN, Hx1h8szlLy, gNDE5XRG2P, mxvkQzY5vb, lXAwTJU-hI, \n                      Z3UkHOGWIM, Kru2H2skvb, RFczInMvEi, 8-koiH9js2, PWjGAutOdR, qjduU2rAOD, \n                      0kqR_4XVwY, 0vypQ0bneW, En3_4849GY, E1dvxbMI5i\n    Layout Ids:       blank-layout\n    Palette Ids:      blank-palette\n  */\n}\n/*\n  Type:             decoration\n  Id:               6FCps1apUa\n  Title:            Drop shadow\n*/\n.-decoration--cards--drop-shadow:not(._._._._._._#_),\n.-theme--default [class^=\"-card\"]:not(#_),\n.-use--5xX58iSbXJ [class^=\"-card\"]:not(x):not(x#_),\n.-theme--default [class*=\" -card\"]:not(#_),\n.-use--5xX58iSbXJ [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--5xX58iSbXJ:not(._._._._#_),\n.-use--u5j3MemiqH [class^=\"-card\"]:not(x):not(x#_),\n.-use--u5j3MemiqH [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--u5j3MemiqH:not(._._._._#_),\n.-use--gM2SXD01ud [class^=\"-card\"]:not(x):not(x#_),\n.-use--gM2SXD01ud [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--gM2SXD01ud:not(._._._._#_),\n.-card--light:not(._._._._#_),\n.-card--accent:not(._._._._#_),\n.-use--n6kcBji3dF [class^=\"-card\"]:not(x):not(x#_),\n.-use--n6kcBji3dF [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--n6kcBji3dF:not(._._._._#_),\n.-use--JPwPafzlHs [class^=\"-card\"]:not(x):not(x#_),\n.-use--JPwPafzlHs [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--JPwPafzlHs:not(._._._._#_),\n.-theme--dark-theme [class^=\"-card\"]:not(#_),\n.-use--V0YssD_SET [class^=\"-card\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -card\"]:not(#_),\n.-use--V0YssD_SET [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--V0YssD_SET:not(._._._._#_),\n.-card--glass-effect:not(._._._._#_) {\n  box-shadow: 1px 1px 3px 1px rgba(47, 47, 47, 0.2);\n  border-radius: 5px 5px 5px 5px;\n  border-width: 0px 0px 0px 0px;\n  border-style: solid;\n  border-color: rgba(0, 0, 0, 0);\n}\n/*\n  Type:             theme\n  Id:               3JvljDXh0T\n  Title:            Dark theme\n*/\n/*\n  Type:             collection\n  Id:               nZ94oPYRJx\n  Title:            Cards spacing\n*/\n/*\n  Type:             spacing\n  Id:               En3_4849GY\n  Title:            50px card\n*/\n.-spacing--cards-spacing--50px-card:not(._._._._._._#_) {\n  padding-top: 50px;\n  padding-right: 50px;\n  padding-bottom: 50px;\n  padding-left: 50px;\n  ---spacing--row-gap: 20px;\n  ---spacing--column-gap: 20px;\n}\n.-spacing--cards-spacing--50px-card > *:not(._._._._._._#_) {\n  ---layout--row-gap: 20px;\n  ---layout--column-gap: 20px;\n}\n/*\n  Type:             fill\n  Id:               WowFipsH1t\n  Title:            Glass effect\n*/\n.-fill--background--blur:not(._._._._._._#_),\n.-theme--default [class^=\"-card\"]:not(#_),\n.-use--5xX58iSbXJ [class^=\"-card\"]:not(x):not(x#_),\n.-theme--default [class*=\" -card\"]:not(#_),\n.-use--5xX58iSbXJ [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--5xX58iSbXJ:not(._._._._#_),\n.-card--glass-effect:not(._._._._#_) {\n  background: rgba(255, 255, 255, 0.30);\n  backdrop-filter: blur(25px);\n  opacity: 1;\n}\n/*\n  Type:             spacing\n  Id:               E1dvxbMI5i\n  Title:            30/50 px\n*/\n.-spacing--cards-spacing--30-50-px:not(._._._._._._#_),\n.-theme--default [class^=\"-card\"]:not(#_),\n.-use--5xX58iSbXJ [class^=\"-card\"]:not(x):not(x#_),\n.-theme--default [class*=\" -card\"]:not(#_),\n.-use--5xX58iSbXJ [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--5xX58iSbXJ:not(._._._._#_),\n.-use--u5j3MemiqH [class^=\"-card\"]:not(x):not(x#_),\n.-use--u5j3MemiqH [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--u5j3MemiqH:not(._._._._#_),\n.-use--gM2SXD01ud [class^=\"-card\"]:not(x):not(x#_),\n.-use--gM2SXD01ud [class*=\" -card\"]:not(x):not(x#_),\n.-theme--default .--gM2SXD01ud:not(._._._._#_),\n.-use--n6kcBji3dF [class^=\"-card\"]:not(x):not(x#_),\n.-use--n6kcBji3dF [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--n6kcBji3dF:not(._._._._#_),\n.-use--JPwPafzlHs [class^=\"-card\"]:not(x):not(x#_),\n.-use--JPwPafzlHs [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--JPwPafzlHs:not(._._._._#_),\n.-theme--dark-theme [class^=\"-card\"]:not(#_),\n.-use--V0YssD_SET [class^=\"-card\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -card\"]:not(#_),\n.-use--V0YssD_SET [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--V0YssD_SET:not(._._._._#_) {\n  padding-top: 30px;\n  padding-right: 50px;\n  padding-bottom: 30px;\n  padding-left: 50px;\n  ---spacing--row-gap: 20px;\n  ---spacing--column-gap: 20px;\n}\n.-spacing--cards-spacing--30-50-px > *:not(._._._._._._#_),\n.-theme--default [class^=\"-card\"] > *:not(#_),\n.-use--5xX58iSbXJ [class^=\"-card\"] > *:not(x):not(x#_),\n.-theme--default [class*=\" -card\"] > *:not(#_),\n.-use--5xX58iSbXJ [class*=\" -card\"] > *:not(x):not(x#_),\n.-theme--default .--5xX58iSbXJ > *:not(._._._._#_),\n.-use--u5j3MemiqH [class^=\"-card\"] > *:not(x):not(x#_),\n.-use--u5j3MemiqH [class*=\" -card\"] > *:not(x):not(x#_),\n.-theme--default .--u5j3MemiqH > *:not(._._._._#_),\n.-use--gM2SXD01ud [class^=\"-card\"] > *:not(x):not(x#_),\n.-use--gM2SXD01ud [class*=\" -card\"] > *:not(x):not(x#_),\n.-theme--default .--gM2SXD01ud > *:not(._._._._#_),\n.-use--n6kcBji3dF [class^=\"-card\"] > *:not(x):not(x#_),\n.-use--n6kcBji3dF [class*=\" -card\"] > *:not(x):not(x#_),\n.-theme--dark-theme .--n6kcBji3dF > *:not(._._._._#_),\n.-use--JPwPafzlHs [class^=\"-card\"] > *:not(x):not(x#_),\n.-use--JPwPafzlHs [class*=\" -card\"] > *:not(x):not(x#_),\n.-theme--dark-theme .--JPwPafzlHs > *:not(._._._._#_),\n.-theme--dark-theme [class^=\"-card\"] > *:not(#_),\n.-use--V0YssD_SET [class^=\"-card\"] > *:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -card\"] > *:not(#_),\n.-use--V0YssD_SET [class*=\" -card\"] > *:not(x):not(x#_),\n.-theme--dark-theme .--V0YssD_SET > *:not(._._._._#_) {\n  ---layout--row-gap: 20px;\n  ---layout--column-gap: 20px;\n}\n/*\n  Type:             block\n  Id:               a4sb_QBDG8\n  Title:            Glass effect\n*/\n.-card--glass-effect:not(._._._._#_) {\n  /*\n    Decoration Ids:   6FCps1apUa, blank-decoration\n    Fill Ids:         WowFipsH1t, nDhZs12jM1\n    Spacing Ids:      blank-spacing, mEj8uITxBN, Hx1h8szlLy, gNDE5XRG2P, mxvkQzY5vb, lXAwTJU-hI, \n                      Z3UkHOGWIM, Kru2H2skvb, RFczInMvEi, 8-koiH9js2, PWjGAutOdR, qjduU2rAOD, \n                      0kqR_4XVwY, 0vypQ0bneW, En3_4849GY, E1dvxbMI5i\n    Layout Ids:       blank-layout\n    Palette Ids:      blank-palette\n  */\n}\n/*\n  Type:             spacing\n  Id:               fZzS1T2Xwv\n  Title:            Test 2\n*/\n.-spacing--sections--test-2:not(._._._._._._#_) {\n  padding-top: 0px;\n  padding-right: 0px;\n  padding-bottom: 0px;\n  padding-left: 0px;\n  ---spacing--row-gap: 0px;\n  ---spacing--column-gap: 0px;\n}\n.-spacing--sections--test-2 > *:not(._._._._._._#_) {\n  ---layout--row-gap: 0px;\n  ---layout--column-gap: 0px;\n}\n/*\n  Type:             graphic\n  Id:               bBD6ApuL8t\n  Title:            123\n*/\n.-graphic--default--123:not(._._._._._._#_) {\n  property\n  ---graphic--1\n    graphic\n}\n/*\n  Type:             fill\n  Id:               nDhZs12jM1\n  Title:            Glass effect - Ligher\n*/\n.-fill--background--glass-effect--ligher:not(._._._._._._#_),\n.-theme--dark-theme [class^=\"-card\"]:not(#_),\n.-use--V0YssD_SET [class^=\"-card\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -card\"]:not(#_),\n.-use--V0YssD_SET [class*=\" -card\"]:not(x):not(x#_),\n.-theme--dark-theme .--V0YssD_SET:not(._._._._#_) {\n  background: rgba(255, 255, 255, 0.50);\n  backdrop-filter: blur(25px);\n  opacity: 1;\n}\n/*\n  Type:             inline\n  Id:               eW2lv3w26i\n  Title:            Link button\n*/\n.-button--link-button:not(._._._._#_) {\n  /*\n    Typography Ids:   JZEwCy6K4L\n    Decoration Ids:   blank-decoration\n    Fill Ids:         blank-fill\n    Graphic Ids:      blank-graphic\n    Palette Ids:      gCM7i7EB7F\n    Spacing Ids:      blank-spacing\n  */\n}\n/*\n  Type:             palette\n  Id:               gCM7i7EB7F\n  Title:            Custom\n*/\n.-palette--gCM7i7EB7F:not(._._._._._._#_),\n.-use--0G3UKHd79P [class^=\"-button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P [class*=\" -button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P button:not(x):not(x#_),\n.-theme--default .--0G3UKHd79P:not(._._._._#_),\n.-button--link-button:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             collection\n  Id:               Ar152ua8HA\n  Title:            Badges\n*/\n/*\n  Type:             decoration\n  Id:               piaVreDzqO\n  Title:            Standard badge\n*/\n.-decoration--badges--standard-badge:not(._._._._._._#_),\n.-theme--default [class^=\"-inline--badge\"]:not(#_),\n.-use--slII61QEpe [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--default [class*=\" -inline--badge\"]:not(#_),\n.-use--slII61QEpe [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--default .--slII61QEpe:not(._._._._#_),\n.-inline--badge--simple:not(._._._._#_),\n.-theme--dark-theme [class^=\"-inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class^=\"-inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -inline--badge\"]:not(#_),\n.-use--cp1BiDY68M [class*=\" -inline--badge\"]:not(x):not(x#_),\n.-theme--dark-theme .--cp1BiDY68M:not(._._._._#_) {\n  box-shadow: 0px 0px 2px 1px rgba(47, 47, 47, 0.30);\n  border-radius: 3px 3px 3px 3px;\n  border-width: 0px 0px 0px 0px;\n  border-style: solid;\n  border-color: rgba(0, 0, 0, 0);\n}\n/*\n  Type:             palette\n  Id:               oYpr__d9e3\n  Title:            Custom\n*/\n.-palette--oYpr__d9e3:not(._._._._._._#_),\n.-use--f3HsLktrK7 [class^=\"-button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 [class*=\" -button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 button:not(x):not(x#_),\n.-theme--dark-theme .--f3HsLktrK7:not(._._._._#_),\n.-button--link-button--light:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             inline\n  Id:               dA5GlO1hZk\n  Title:            Link button - Light\n*/\n.-button--link-button--light:not(._._._._#_) {\n  /*\n    Typography Ids:   JZEwCy6K4L\n    Decoration Ids:   blank-decoration\n    Fill Ids:         blank-fill\n    Graphic Ids:      blank-graphic\n    Palette Ids:      oYpr__d9e3\n    Spacing Ids:      blank-spacing\n  */\n}\n/*\n  Type:             text\n  Id:               SeP9QEmpbh\n  Title:            Dark\n  Example Content:  Example\n*/\n.-heading4--dark:not(._._._._#_) {\n  /*\n    Palette Ids:      2dm-iXNM_W\n    Typography Ids:   xPQTMRK-v_\n  */\n}\n/*\n  Type:             palette\n  Id:               2dm-iXNM_W\n  Title:            Custom\n*/\n.-palette--2dm-iXNM_W:not(._._._._._._#_),\n.-theme--default [class^=\"-heading4\"]:not(#_),\n.-use--a00QBesvQI [class^=\"-heading4\"]:not(x):not(x#_),\n.-theme--default [class*=\" -heading4\"]:not(#_),\n.-use--a00QBesvQI [class*=\" -heading4\"]:not(x):not(x#_),\n.-theme--default h4:not(#_),\n.-use--a00QBesvQI h4:not(x):not(x#_),\n.-theme--default .--a00QBesvQI:not(._._._._#_),\n.-heading4--dark:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             palette\n  Id:               kSaxEKvMnO\n  Title:            Custom\n*/\n.-palette--kSaxEKvMnO:not(._._._._._._#_),\n.-theme--dark-theme [class^=\"-heading4\"]:not(#_),\n.-use--A6ZsDHslYP [class^=\"-heading4\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -heading4\"]:not(#_),\n.-use--A6ZsDHslYP [class*=\" -heading4\"]:not(x):not(x#_),\n.-theme--dark-theme h4:not(#_),\n.-use--A6ZsDHslYP h4:not(x):not(x#_),\n.-theme--dark-theme .--A6ZsDHslYP:not(._._._._#_),\n.-heading4--light:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             text\n  Id:               _hG7Uv8dxN\n  Title:            Light\n  Example Content:  Example\n*/\n.-heading4--light:not(._._._._#_) {\n  /*\n    Palette Ids:      kSaxEKvMnO\n    Typography Ids:   xPQTMRK-v_\n  */\n}\n/*\n  Type:             typography\n  Id:               4rUkNTEQyh\n  Title:            Small\n  Example Content:  Example\n*/\n.-typography--default--small:not(._._._._._._#_),\n.-theme--default [class^=\"-text--heading5\"]:not(#_),\n.-use--2tOWAqjK_p [class^=\"-text--heading5\"]:not(x):not(x#_),\n.-theme--default [class*=\" -text--heading5\"]:not(#_),\n.-use--2tOWAqjK_p [class*=\" -text--heading5\"]:not(x):not(x#_),\n.-theme--default h5:not(#_),\n.-use--2tOWAqjK_p h5:not(x):not(x#_),\n.-theme--default .--2tOWAqjK_p:not(._._._._#_),\n.-theme--dark-theme [class^=\"-text--heading5\"]:not(#_),\n.-use--MEJiunz6uZ [class^=\"-text--heading5\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -text--heading5\"]:not(#_),\n.-use--MEJiunz6uZ [class*=\" -text--heading5\"]:not(x):not(x#_),\n.-theme--dark-theme h5:not(#_),\n.-use--MEJiunz6uZ h5:not(x):not(x#_),\n.-theme--dark-theme .--MEJiunz6uZ:not(._._._._#_),\n.-text--heading5--dark:not(._._._._#_),\n.-text--heading5--light:not(._._._._#_) {\n  font-family: \"Mulish\";\n  font-weight: 600;\n  font-style: normal;\n  font-size: 22px;\n  line-height: 28px;\n  letter-spacing: 1px;\n}\n/*\n  Type:             text\n  Id:               arv4rWJBod\n  Title:            Dark\n  Example Content:  Example\n*/\n.-text--heading5--dark:not(._._._._#_) {\n  /*\n    Palette Ids:      aSn15mowQ4\n    Typography Ids:   4rUkNTEQyh\n  */\n}\n/*\n  Type:             palette\n  Id:               aSn15mowQ4\n  Title:            Custom\n*/\n.-palette--aSn15mowQ4:not(._._._._._._#_),\n.-theme--default [class^=\"-text--heading5\"]:not(#_),\n.-use--2tOWAqjK_p [class^=\"-text--heading5\"]:not(x):not(x#_),\n.-theme--default [class*=\" -text--heading5\"]:not(#_),\n.-use--2tOWAqjK_p [class*=\" -text--heading5\"]:not(x):not(x#_),\n.-theme--default h5:not(#_),\n.-use--2tOWAqjK_p h5:not(x):not(x#_),\n.-theme--default .--2tOWAqjK_p:not(._._._._#_),\n.-text--heading5--dark:not(._._._._#_) {\n  color: rgba(47, 47, 47, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             palette\n  Id:               O1eYIfir6n\n  Title:            Custom\n*/\n.-palette--O1eYIfir6n:not(._._._._._._#_),\n.-theme--dark-theme [class^=\"-text--heading5\"]:not(#_),\n.-use--MEJiunz6uZ [class^=\"-text--heading5\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -text--heading5\"]:not(#_),\n.-use--MEJiunz6uZ [class*=\" -text--heading5\"]:not(x):not(x#_),\n.-theme--dark-theme h5:not(#_),\n.-use--MEJiunz6uZ h5:not(x):not(x#_),\n.-theme--dark-theme .--MEJiunz6uZ:not(._._._._#_),\n.-text--heading5--light:not(._._._._#_) {\n  color: rgba(255, 255, 255, 1);\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             text\n  Id:               bPZx9IBwUY\n  Title:            Light\n  Example Content:  Example\n*/\n.-text--heading5--light:not(._._._._#_) {\n  /*\n    Palette Ids:      O1eYIfir6n\n    Typography Ids:   4rUkNTEQyh\n  */\n}\n/*\n  Type:             graphic\n  Id:               blank-graphic\n  Title:            No graphic\n*/\n.-graphic--blank-graphic:not(._._._._._._#_) {\n  property\n  ---graphic--1\n    graphic\n}\n/*\n  Type:             color\n  Id:               blank-color\n  Title:            No color\n*/\n/*\n  Type:             palette\n  Id:               blank-palette\n  Title:            No palette\n*/\n.-palette--blank-palette:not(._._._._._._#_) {\n  color: inherit;\n  ---typography--text-decoration: underline;\n}\n/*\n  Type:             collection\n  Id:               default-graphic\n  Title:            Default\n  Description:      Graphics colors are used for...\n*/\n/*\n  Type:             collection\n  Id:               section\n  Title:            Sections\n  Description:      Themeable essential boxes represeting top-level chunks of a component\n*/\n/*\n  Type:             collection\n  Id:               card\n  Title:            Cards\n  Description:      Themable nestable boxes that provide visual framing for content\n*/\n/*\n  Type:             collection\n  Id:               default-decoration\n  Title:            Default decorations\n*/\n/*\n  Type:             collection\n  Id:               default-fill\n  Title:            Default fills\n*/\n/*\n  Type:             collection\n  Id:               default-spacing\n  Title:            Default spacings\n*/\n/*\n  Type:             collection\n  Id:               default-typography\n  Title:            Default typographies\n*/\n/*\n  Type:             collection\n  Id:               heading1\n  Title:            Heading 1\n  Description:      Headings 1 are used for...\n*/\n/*\n  Type:             collection\n  Id:               heading2\n  Title:            Heading 2\n  Description:      Headings 2 are used for...\n*/\n/*\n  Type:             collection\n  Id:               heading3\n  Title:            Heading 3\n  Description:      Headings 3 are used for...\n*/\n/*\n  Type:             collection\n  Id:               heading4\n  Title:            Heading 4\n  Description:      Headings 4 are used for...\n*/\n/*\n  Type:             collection\n  Id:               heading5\n  Title:            Heading 5\n  Description:      Headings 5 are used for...\n*/\n/*\n  Type:             collection\n  Id:               paragraph\n  Title:            Paragraph\n  Description:      Paragraphs are used for...\n*/\n/*\n  Type:             collection\n  Id:               button\n  Title:            Buttons\n  Description:      Clickable element used for user interactions\n*/\n/*\n  Type:             collection\n  Id:               badge\n  Title:            Badges\n  Description:      Non-interactive element for informational purposes\n*/\n/*\n  Type:             collection\n  Id:               link\n  Title:            Links\n  Description:      Links inside text elements\n*/\n/*\n  Type:             layout\n  Id:               blank-layout\n  Title:            blank-layout\n*/\n.-layout--blank-layout:not(._._._._._._#_),\n.-section--background:not(._._._._#_),\n.-card--light:not(._._._._#_),\n.-card--accent:not(._._._._#_),\n.-card--glass-effect:not(._._._._#_) {\n  display: flex;\n  flex-wrap: nowrap;\n  flex-direction: column;\n  justify-content: flex-start;\n  align-items: stretch;\n  row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap));\n  column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap));\n}\n.-layout--blank-layout > *:not(._._._._._._#_),\n.-section--background > *:not(._._._._#_),\n.-card--light > *:not(._._._._#_),\n.-card--accent > *:not(._._._._#_),\n.-card--glass-effect > *:not(._._._._#_) {\n  margin-top: calc(\n    var(---supports--flex-gap, 0) \n      * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px))\n    + (1 - var(---supports--flex-gap, 0)) \n      * var(---self--paragraph-spacing, var(---self--row-gap, 0px))\n  );\n  flex-grow: 0;\n  ---self--row-gap: initial;\n  ---self--column-gap: initial;\n}\n.-layout--blank-layout > :not(:nth-child(-n+1)):not(._._._._._._#_),\n.-section--background > :not(:nth-child(-n+1)):not(._._._._#_),\n.-card--light > :not(:nth-child(-n+1)):not(._._._._#_),\n.-card--accent > :not(:nth-child(-n+1)):not(._._._._#_),\n.-card--glass-effect > :not(:nth-child(-n+1)):not(._._._._#_) {\n  ---self--row-gap: var(---layout--row-gap, 0px);\n}\n.-layout--blank-layout > :last-child:not(._._._._._._#_),\n.-section--background > :last-child:not(._._._._#_),\n.-card--light > :last-child:not(._._._._#_),\n.-card--accent > :last-child:not(._._._._#_),\n.-card--glass-effect > :last-child:not(._._._._#_) {\n  ---self--column-gap: initial;\n}\n.-layout--blank-layout > :nth-child(1n + 1):not(._._._._._._#_),\n.-section--background > :nth-child(1n + 1):not(._._._._#_),\n.-card--light > :nth-child(1n + 1):not(._._._._#_),\n.-card--accent > :nth-child(1n + 1):not(._._._._#_),\n.-card--glass-effect > :nth-child(1n + 1):not(._._._._#_) {\n  ---self--column-width: calc(var(---layout--available-width, 100%) / 1 * 1);\n}\n/*\n  Type:             layout\n  Id:               default-layout\n  Title:            default-layout\n*/\n.-layout--default-layout:not(._._._._._._#_) {\n  display: flex;\n  flex-wrap: nowrap;\n  flex-direction: column;\n  justify-content: flex-start;\n  align-items: stretch;\n  row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap));\n  column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap));\n}\n.-layout--default-layout > *:not(._._._._._._#_) {\n  margin-top: calc(\n    var(---supports--flex-gap, 0) \n      * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px))\n    + (1 - var(---supports--flex-gap, 0)) \n      * var(---self--paragraph-spacing, var(---self--row-gap, 0px))\n  );\n  flex-grow: 0;\n  ---self--row-gap: initial;\n  ---self--column-gap: initial;\n}\n.-layout--default-layout > :not(:nth-child(-n+1)):not(._._._._._._#_) {\n  ---self--row-gap: var(---layout--row-gap, 0px);\n}\n.-layout--default-layout > :last-child:not(._._._._._._#_) {\n  ---self--column-gap: initial;\n}\n.-layout--default-layout > :nth-child(1n + 1):not(._._._._._._#_) {\n  ---self--column-width: calc(var(---layout--available-width, 100%) / 1 * 1);\n}\n/*\n  Type:             decoration\n  Id:               blank-decoration\n  Title:            No decoration\n*/\n.-decoration--blank-decoration:not(._._._._._._#_),\n.-theme--default [class^=\"-section\"]:not(#_),\n.-use--R8ZTj_wdBy [class^=\"-section\"]:not(x):not(x#_),\n.-theme--default [class*=\" -section\"]:not(#_),\n.-use--R8ZTj_wdBy [class*=\" -section\"]:not(x):not(x#_),\n.-theme--default .--R8ZTj_wdBy:not(._._._._#_),\n.-theme--default a:not(#_),\n.-use--oqZybTWN_r a:not(x):not(x#_),\n.-theme--default .--oqZybTWN_r:not(._._._._#_),\n.-use--0G3UKHd79P [class^=\"-button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P [class*=\" -button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P button:not(x):not(x#_),\n.-theme--default .--0G3UKHd79P:not(._._._._#_),\n.-link--dark:not(._._._._#_),\n.-link--light:not(._._._._#_),\n.-section--background:not(._._._._#_),\n.-theme--dark-theme [class^=\"-section\"]:not(#_),\n.-use--BVcYcYrB1c [class^=\"-section\"]:not(x):not(x#_),\n.-theme--dark-theme [class*=\" -section\"]:not(#_),\n.-use--BVcYcYrB1c [class*=\" -section\"]:not(x):not(x#_),\n.-theme--dark-theme .--BVcYcYrB1c:not(._._._._#_),\n.-theme--dark-theme a:not(#_),\n.-use--B0MEC8t7rw a:not(x):not(x#_),\n.-theme--dark-theme .--B0MEC8t7rw:not(._._._._#_),\n.-use--f3HsLktrK7 [class^=\"-button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 [class*=\" -button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 button:not(x):not(x#_),\n.-theme--dark-theme .--f3HsLktrK7:not(._._._._#_),\n.-button--link-button:not(._._._._#_),\n.-button--link-button--light:not(._._._._#_) {\n  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);\n  border-radius: 0px 0px 0px 0px;\n  border-width: 0px 0px 0px 0px;\n  border-style: solid;\n  border-color: rgba(0, 0, 0, 0);\n}\n/*\n  Type:             fill\n  Id:               blank-fill\n  Title:            No fill\n*/\n.-fill--blank-fill:not(._._._._._._#_),\n.-use--d6Lsg60IKO [class^=\"-button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO [class*=\" -button\"]:not(x):not(x#_),\n.-use--d6Lsg60IKO button:not(x):not(x#_),\n.-theme--default .--d6Lsg60IKO:not(._._._._#_),\n.-theme--default a:not(#_),\n.-use--oqZybTWN_r a:not(x):not(x#_),\n.-theme--default .--oqZybTWN_r:not(._._._._#_),\n.-use--0G3UKHd79P [class^=\"-button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P [class*=\" -button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P button:not(x):not(x#_),\n.-theme--default .--0G3UKHd79P:not(._._._._#_),\n.-button--secondary:not(._._._._#_),\n.-button--secondary-light:not(._._._._#_),\n.-link--dark:not(._._._._#_),\n.-link--light:not(._._._._#_),\n.-use--K7vRkzFObt [class^=\"-button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt [class*=\" -button\"]:not(x):not(x#_),\n.-use--K7vRkzFObt button:not(x):not(x#_),\n.-theme--dark-theme .--K7vRkzFObt:not(._._._._#_),\n.-theme--dark-theme a:not(#_),\n.-use--B0MEC8t7rw a:not(x):not(x#_),\n.-theme--dark-theme .--B0MEC8t7rw:not(._._._._#_),\n.-use--f3HsLktrK7 [class^=\"-button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 [class*=\" -button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 button:not(x):not(x#_),\n.-theme--dark-theme .--f3HsLktrK7:not(._._._._#_),\n.-button--link-button:not(._._._._#_),\n.-button--link-button--light:not(._._._._#_) {\n  background: none;\n  backdrop-filter: none;\n  opacity: 1;\n}\n/*\n  Type:             typography\n  Id:               blank-typography\n  Title:            Unspecified typography\n  Example Content:  Example\n*/\n.-typography--blank-typography:not(._._._._._._#_),\n.-theme--default a:not(#_),\n.-use--oqZybTWN_r a:not(x):not(x#_),\n.-theme--default .--oqZybTWN_r:not(._._._._#_),\n.-link--dark:not(._._._._#_),\n.-link--light:not(._._._._#_),\n.-theme--dark-theme a:not(#_),\n.-use--B0MEC8t7rw a:not(x):not(x#_),\n.-theme--dark-theme .--B0MEC8t7rw:not(._._._._#_) {\n  font-family: inherit;\n  font-weight: inherit;\n  font-style: inherit;\n  font-size: inherit;\n  line-height: inherit;\n  letter-spacing: inherit;\n}\n/*\n  Type:             spacing\n  Id:               blank-spacing\n  Title:            No spacing\n*/\n.-spacing--blank-spacing:not(._._._._._._#_),\n.-theme--default a:not(#_),\n.-use--oqZybTWN_r a:not(x):not(x#_),\n.-theme--default .--oqZybTWN_r:not(._._._._#_),\n.-use--0G3UKHd79P [class^=\"-button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P [class*=\" -button\"]:not(x):not(x#_),\n.-use--0G3UKHd79P button:not(x):not(x#_),\n.-theme--default .--0G3UKHd79P:not(._._._._#_),\n.-link--dark:not(._._._._#_),\n.-link--light:not(._._._._#_),\n.-theme--dark-theme a:not(#_),\n.-use--B0MEC8t7rw a:not(x):not(x#_),\n.-theme--dark-theme .--B0MEC8t7rw:not(._._._._#_),\n.-use--f3HsLktrK7 [class^=\"-button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 [class*=\" -button\"]:not(x):not(x#_),\n.-use--f3HsLktrK7 button:not(x):not(x#_),\n.-theme--dark-theme .--f3HsLktrK7:not(._._._._#_),\n.-button--link-button:not(._._._._#_),\n.-button--link-button--light:not(._._._._#_) {\n  padding-top: 0px;\n  padding-right: 0px;\n  padding-bottom: 0px;\n  padding-left: 0px;\n  ---spacing--row-gap: 0px;\n  ---spacing--column-gap: 0px;\n}\n.-spacing--blank-spacing > *:not(._._._._._._#_),\n.-theme--default a > *:not(#_),\n.-use--oqZybTWN_r a > *:not(x):not(x#_),\n.-theme--default .--oqZybTWN_r > *:not(._._._._#_),\n.-use--0G3UKHd79P [class^=\"-button\"] > *:not(x):not(x#_),\n.-use--0G3UKHd79P [class*=\" -button\"] > *:not(x):not(x#_),\n.-use--0G3UKHd79P button > *:not(x):not(x#_),\n.-theme--default .--0G3UKHd79P > *:not(._._._._#_),\n.-link--dark > *:not(._._._._#_),\n.-link--light > *:not(._._._._#_),\n.-theme--dark-theme a > *:not(#_),\n.-use--B0MEC8t7rw a > *:not(x):not(x#_),\n.-theme--dark-theme .--B0MEC8t7rw > *:not(._._._._#_),\n.-use--f3HsLktrK7 [class^=\"-button\"] > *:not(x):not(x#_),\n.-use--f3HsLktrK7 [class*=\" -button\"] > *:not(x):not(x#_),\n.-use--f3HsLktrK7 button > *:not(x):not(x#_),\n.-theme--dark-theme .--f3HsLktrK7 > *:not(._._._._#_),\n.-button--link-button > *:not(._._._._#_),\n.-button--link-button--light > *:not(._._._._#_) {\n  ---layout--row-gap: 0px;\n  ---layout--column-gap: 0px;\n}\n\n[class*=\"-theme--\"] * {\n  /* Important: Disable variables from cascading */\n  ---layout--available-width: initial;\n  ---layout--columns: initial;\n  ---layout--column-gap: initial;\n  ---layout--row-gap: initial;\n  ---typography--paragraph-spacing: initial;\n  ---self--paragraph-spacing: initial;\n  ---spacing--column-gap: initial;\n  ---spacing--row-gap: initial;\n  ---self--column-width: initial;\n  ---self--column-gap: initial;\n  ---self--row-gap: initial;\n}\n[class*=\"-theme--\"] h1,\n[class*=\"-theme--\"] h2,\n[class*=\"-theme--\"] h3,\n[class*=\"-theme--\"] h4,\n[class*=\"-theme--\"] h5,\n[class*=\"-theme--\"] p,\n[class*=\"-theme--\"] ul,\n[class*=\"-theme--\"] ol,\n[class*=\"-theme--\"] li {\n  flex-shrink: 0;\n}\n[class*=\"-theme--\"]:not(#x) * {\n  word-break: normal;\n  overflow-wrap: normal;\n  box-sizing: border-box;\n\tmargin: 0;\n\tpadding: 0;\n}\n\nbody {\n  ---supports--flex-gap: 1;\n}\n\n[class*=\"-theme--\"] .-embed,\n[class*=\"-theme--\"] .-component {\n  width: 100%;\n}\n[class*=\"-theme--\"] .-component {\n  position: relative;\n}\n\n[class*=\"-theme--\"] a {\n  text-decoration: none;\n}\n\n.-feaas figure {\n  max-width: 100%;\n}\n\n.-feaas .-background {\n  user-select: none;\n}\n.-feaas[contenteditable=\"true\"] .-embed,\n.-feaas[contenteditable=\"true\"] .-component {\n  user-select: none;\n}\n\n.-feaas var::selection {\n  background: none !important;\n}\n\n.-feaas [data-background-id] {\n  position: relative;\n  min-height: 1em;\n}\n\n.-feaas [data-background-id] > * {\n  z-index: 2;\n  position: relative;\n}\n.-feaas [data-symbol-ref] {\n  user-select: none;\n}\n\n.-feaas {\n  display: flex;\n  flex-direction: column;\n  overflow: auto;\n}\n.-feaas[contenteditable], .-feaas [contenteditable]  {\n  outline: none;\n}\n\n[class*=\"-theme--\"] :not(div):not(a) + * {\n  ---self--paragraph-spacing: var(---typography--paragraph-spacing);\n}\n\n.-feaas [hidden] {\n  display: none;\n}\n\n.-feaas var {\n  font-style: inherit;\n}\n\n.-editor-show-hidden .-feaas [hidden]{\n  display: flex  !important;\n  opacity: 0.5 !important;\n}\n.-editor-show-hidden .var[hidden]{\n  display: inline-block  !important;\n}\n\n.-feaas:not(#x) .-card,\n[class*=\"-theme--\"]:not(#x) [class*=\"-spacing--\"],\n[class*=\"-theme--\"]:not(#x) [class*=\"-layout--\"],\n[class*=\"-theme--\"]:not(#x) [class*=\"-block--\"],\n[class*=\"-theme--\"]:not(#x) [class*=\"-card--\"],\n[class*=\"-theme--\"]:not(#x) .-section,\n[class*=\"-theme--\"]:not(#x) [class*=\"-section--\"] {\n  display: flex;\n  flex-wrap: nowrap;\n  flex-direction: column;\n  justify-content: flex-start;\n  align-items: stretch;\n  row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap));\n  column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap));\n}\n.-feaas:not(#x) .-card > *,\n[class*=\"-theme--\"]:not(#x) [class*=\"-spacing--\"] > *,\n[class*=\"-theme--\"]:not(#x) [class*=\"-layout--\"] > *,\n[class*=\"-theme--\"]:not(#x) [class*=\"-block--\"] > *,\n[class*=\"-theme--\"]:not(#x) [class*=\"-card--\"] > *,\n[class*=\"-theme--\"]:not(#x) .-section > *,\n[class*=\"-theme--\"]:not(#x) [class*=\"-section--\"] > * {\n  margin-top: calc(\n    var(---supports--flex-gap, 0) \n      * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px))\n    + (1 - var(---supports--flex-gap, 0)) \n      * var(---self--paragraph-spacing, var(---self--row-gap, 0px))\n  );\n  flex-grow: 0;\n  ---self--row-gap: initial;\n  ---self--column-gap: var(---layout--column-gap, 0px);\n}\n.-feaas:not(#x) .-card > :not(:nth-child(-n+1)),\n[class*=\"-theme--\"]:not(#x) [class*=\"-spacing--\"] > :not(:nth-child(-n+1)),\n[class*=\"-theme--\"]:not(#x) [class*=\"-layout--\"] > :not(:nth-child(-n+1)),\n[class*=\"-theme--\"]:not(#x) [class*=\"-block--\"] > :not(:nth-child(-n+1)),\n[class*=\"-theme--\"]:not(#x) [class*=\"-card--\"] > :not(:nth-child(-n+1)),\n[class*=\"-theme--\"]:not(#x) .-section > :not(:nth-child(-n+1)),\n[class*=\"-theme--\"]:not(#x) [class*=\"-section--\"] > :not(:nth-child(-n+1)) {\n  ---self--row-gap: var(---layout--row-gap, 0px);\n}\n.-feaas:not(#x) .-card > :last-child,\n[class*=\"-theme--\"]:not(#x) [class*=\"-spacing--\"] > :last-child,\n[class*=\"-theme--\"]:not(#x) [class*=\"-layout--\"] > :last-child,\n[class*=\"-theme--\"]:not(#x) [class*=\"-block--\"] > :last-child,\n[class*=\"-theme--\"]:not(#x) [class*=\"-card--\"] > :last-child,\n[class*=\"-theme--\"]:not(#x) .-section > :last-child,\n[class*=\"-theme--\"]:not(#x) [class*=\"-section--\"] > :last-child {\n  ---self--column-gap: initial;\n}\n.-feaas:not(#x) .-card > :nth-child(1n + 1),\n[class*=\"-theme--\"]:not(#x) [class*=\"-spacing--\"] > :nth-child(1n + 1),\n[class*=\"-theme--\"]:not(#x) [class*=\"-layout--\"] > :nth-child(1n + 1),\n[class*=\"-theme--\"]:not(#x) [class*=\"-block--\"] > :nth-child(1n + 1),\n[class*=\"-theme--\"]:not(#x) [class*=\"-card--\"] > :nth-child(1n + 1),\n[class*=\"-theme--\"]:not(#x) .-section > :nth-child(1n + 1),\n[class*=\"-theme--\"]:not(#x) [class*=\"-section--\"] > :nth-child(1n + 1) {\n  ---self--column-width: calc(var(---layout--available-width, 100%) / 1 * 1);\n}\n.-feaas:not(#x) .-card,\n[class*=\"-theme--\"]:not(#x) [class*=\"-spacing--\"],\n[class*=\"-theme--\"]:not(#x) [class*=\"-layout--\"],\n[class*=\"-theme--\"]:not(#x) [class*=\"-block--\"],\n[class*=\"-theme--\"]:not(#x) [class*=\"-card--\"],\n[class*=\"-theme--\"]:not(#x) [class*=\"-section--\"] {\n  min-height: 20px;\n  min-width: 16px;\n}\n\n[class*=\"-theme--\"]:not(#x) .-button,\n[class*=\"-theme--\"]:not(#x) [class*=\"-button--\"],\n[class*=\"-theme--\"]:not(#x) .-inline,\n[class*=\"-theme--\"]:not(#x) [class*=\"-inline--\"] {\n  display: flex;\n  flex-wrap: nowrap;\n  flex-direction: row;\n  justify-content: stretch;\n  align-items: center;\n  row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap));\n  column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap));\n  user-select: none;\n  width: max-content;\n}\n[class*=\"-theme--\"]:not(#x) .-button > *,\n[class*=\"-theme--\"]:not(#x) [class*=\"-button--\"] > *,\n[class*=\"-theme--\"]:not(#x) .-inline > *,\n[class*=\"-theme--\"]:not(#x) [class*=\"-inline--\"] > * {\n  ---self--paragraph-spacing: initial;\n  margin-top: 0;\n  margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px));\n  flex-basis: 1em;\n  flex-grow: 1;\n  ---self--row-gap: initial;\n  ---self--column-gap: var(---layout--column-gap, 0px);\n}\n[class*=\"-theme--\"]:not(#x) .-button > :last-child,\n[class*=\"-theme--\"]:not(#x) [class*=\"-button--\"] > :last-child,\n[class*=\"-theme--\"]:not(#x) .-inline > :last-child,\n[class*=\"-theme--\"]:not(#x) [class*=\"-inline--\"] > :last-child {\n  ---self--column-gap: initial;\n}\n\n.-feaas[contenteditable=\"true\"]:not(#x) .-section,\n.-feaas[contenteditable=\"true\"]:not(#x) [class*=\"-section--\"] {\n  min-height: 100px;\n}\n.-feaas[contenteditable=\"true\"]:not(#x) .-button,\n.-feaas[contenteditable=\"true\"]:not(#x) [class*=\"-button--\"],\n.-feaas[contenteditable=\"true\"]:not(#x) .-inline,\n.-feaas[contenteditable=\"true\"]:not(#x) [class*=\"-inline--\"],\n.-feaas[contenteditable=\"true\"]:not(#x) .-container,\n.-feaas[contenteditable=\"true\"]:not(#x) .-block,\n.-feaas[contenteditable=\"true\"]:not(#x) .-embed,\n.-feaas[contenteditable=\"true\"]:not(#x) .-component,\n.-feaas[contenteditable=\"true\"]:not(#x) [class*=\"-block--\"] {\n  min-width: 1em;\n  min-height: 1em;\n}\n\n.-feaas figure.image > img {\n  min-height: 0px;\n  width: 100%;\n  height: 100%;\n  user-drag: none;\n}\n\n.-feaas figure.image {\n  position: relative;\n  width: auto;\n  height: auto;\n  display: flex;\n  flex-direction: column;\n  min-height: 10px;\n  min-width: 10px;\n  max-width: 100%;\n}\n.-feaas figure.image > img {\n  object-fit: cover;\n  object-position: 50% 50%;\n}\n\n.-feaas a {\n  text-decoration: none;\n}\n.-feaas a:not([class*=\"-button\"]):not([class*=\"-card\"]) {\n  text-decoration: var(---typography--text-decoration, none);\n}\n\n\n.-feaas--preview {\n  font-family: -apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";\n}\n.-feaas--preview * {\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}\n.-feaas--preview a:visited,\n.-feaas--preview a:hover,\n.-feaas--preview a:active,\n.-feaas--preview a:link {\n  color: inherit\n}\n\n",
+  "status": "published",
+  "revision": 2,
+  "createdAt": "2023-04-20T16:07:24.007Z",
+  "modifiedAt": "2023-04-20T16:07:24.007Z"
+}
