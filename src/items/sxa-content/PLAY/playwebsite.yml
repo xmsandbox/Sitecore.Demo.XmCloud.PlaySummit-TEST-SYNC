@@ -3,7 +3,6 @@ ID: "504cac9b-0e68-4bb2-93de-28590cb0dd8a"
 Parent: "ca7c2297-3c7c-4f7e-911e-4ff8ddddad8a"
 Template: "507b2363-3200-4cea-b238-3045731ba6a5"
 Path: /sitecore/content/PLAY/playwebsite
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules
@@ -22,6 +21,9 @@ SharedFields:
     {F0EA389E-F78D-440B-9429-F04FE735344A}
     {050A15BD-04E5-43F2-AC99-F0A4DF725793}
     {AC1A27CA-6BF3-4D23-915E-668326D52CF1}
+- ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
+  Hint: SitemapMediaItems
+  Value: "{4F084CBA-84B8-4B95-A60F-BE0A7461F99E}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{F9A560F3-BD85-4779-90F9-DA0044F8BFA7}"
@@ -39,4 +41,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b6fcfe28-a204-44b4-93e6-8632b935b1de"
+      Value: "8eb66f84-3ee7-4305-895c-75c9312b6a1d"
