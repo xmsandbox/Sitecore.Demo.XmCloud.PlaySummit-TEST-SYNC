@@ -1,6 +1,6 @@
 [
   {
-    "libraryId": "6pyPYRINRujUVMjBQGUhXb",
+    "libraryId": "57vkmBDod2FSr6tZIjofpT",
     "id": "D6d-C9me_7",
     "name": "Sitecore Components",
     "isDefault": false,
@@ -9,7 +9,7 @@
     "modifiedAt": "2023-03-17T11:02:00.111Z",
     "components": [
       {
-        "libraryId": "6pyPYRINRujUVMjBQGUhXb",
+        "libraryId": "57vkmBDod2FSr6tZIjofpT",
         "id": "33oEtvuShR",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Hero",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "libraryId": "6pyPYRINRujUVMjBQGUhXb",
+        "libraryId": "57vkmBDod2FSr6tZIjofpT",
         "id": "fmmY5irQiA",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Link list",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "libraryId": "6pyPYRINRujUVMjBQGUhXb",
+        "libraryId": "57vkmBDod2FSr6tZIjofpT",
         "id": "NOTfy-yV_P",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Advanced link list",
@@ -79,7 +79,29 @@
         }
       },
       {
-        "libraryId": "6pyPYRINRujUVMjBQGUhXb",
+        "libraryId": "57vkmBDod2FSr6tZIjofpT",
+        "id": "Qtsm9i3-en",
+        "collectionId": "D6d-C9me_7",
+        "name": "ADO TEST COMPONENT",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2023-04-20T18:48:42.55+00:00",
+        "stagedAt": "2023-04-20T18:49:52.227+00:00",
+        "publishedAt": "2023-04-20T18:49:52.227+00:00",
+        "modifiedAt": "2023-04-20T18:49:52.227+00:00",
+        "modifiedBy": {
+          "id": "63ed31bdc5dac322725263de",
+          "name": "Alexander Doroshenko",
+          "givenName": "Alexander",
+          "familyName": "Doroshenko",
+          "email": "alexander.doroshenko@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png"
+        }
+      },
+      {
+        "libraryId": "57vkmBDod2FSr6tZIjofpT",
         "id": "WKsJd_i8Za",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Large teaser",
@@ -103,7 +125,7 @@
     ]
   },
   {
-    "libraryId": "6pyPYRINRujUVMjBQGUhXb",
+    "libraryId": "57vkmBDod2FSr6tZIjofpT",
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
