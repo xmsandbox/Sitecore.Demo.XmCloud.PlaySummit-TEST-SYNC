@@ -1,6 +1,6 @@
 [
   {
-    "libraryId": "1Qn9DfaWIB8V8Iov1pueuz",
+    "libraryId": "",
     "id": "D6d-C9me_7",
     "name": "Sitecore Components",
     "isDefault": false,
@@ -9,7 +9,7 @@
     "modifiedAt": "2023-03-17T11:02:00.111Z",
     "components": [
       {
-        "libraryId": "1Qn9DfaWIB8V8Iov1pueuz",
+        "libraryId": "",
         "id": "33oEtvuShR",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Hero",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "libraryId": "1Qn9DfaWIB8V8Iov1pueuz",
+        "libraryId": "",
         "id": "fmmY5irQiA",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Link list",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "libraryId": "1Qn9DfaWIB8V8Iov1pueuz",
+        "libraryId": "",
         "id": "NOTfy-yV_P",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Advanced link list",
@@ -79,10 +79,10 @@
         }
       },
       {
-        "libraryId": "1Qn9DfaWIB8V8Iov1pueuz",
+        "libraryId": "",
         "id": "Qtsm9i3-en",
         "collectionId": "D6d-C9me_7",
-        "name": "ADO TEST COMPONENT",
+        "name": "ADO TEST COMPONENT TEST CHANGE",
         "description": "",
         "status": "published",
         "versionCount": 1,
@@ -101,7 +101,7 @@
         }
       },
       {
-        "libraryId": "1Qn9DfaWIB8V8Iov1pueuz",
+        "libraryId": "",
         "id": "WKsJd_i8Za",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Large teaser",
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "libraryId": "1Qn9DfaWIB8V8Iov1pueuz",
+    "libraryId": "",
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
