@@ -1,6 +1,6 @@
 [
   {
-    "libraryId": "6ajqBor8aJWlW0SD68paH9",
+    "libraryId": "generated",
     "id": "GCLe8xWtl5",
     "name": "Advanced link list",
     "description": "",
@@ -72,10 +72,10 @@
     },
     "conflictDefinition": null,
     "type": "internal",
-    "externalSourceId": "6ajqBor8aJWlW0SD68paH9"
+    "externalSourceId": "generated"
   },
   {
-    "libraryId": "6ajqBor8aJWlW0SD68paH9",
+    "libraryId": "generated",
     "id": "exsEaHOs1P",
     "name": "Link list",
     "description": "",
@@ -149,6 +149,6 @@
     },
     "conflictDefinition": null,
     "type": "internal",
-    "externalSourceId": "6ajqBor8aJWlW0SD68paH9"
+    "externalSourceId": "generated"
   }
 ]
