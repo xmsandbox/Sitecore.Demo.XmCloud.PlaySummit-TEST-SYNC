@@ -1,6 +1,6 @@
 [
   {
-    "libraryId": "4Zxne6T0K45IYNVrEztXGr",
+    "libraryId": "6ajqBor8aJWlW0SD68paH9",
     "id": "D6d-C9me_7",
     "name": "Sitecore Components",
     "isDefault": false,
@@ -9,7 +9,7 @@
     "modifiedAt": "2023-03-17T11:02:00.111Z",
     "components": [
       {
-        "libraryId": "4Zxne6T0K45IYNVrEztXGr",
+        "libraryId": "6ajqBor8aJWlW0SD68paH9",
         "id": "33oEtvuShR",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Hero",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "libraryId": "4Zxne6T0K45IYNVrEztXGr",
+        "libraryId": "6ajqBor8aJWlW0SD68paH9",
         "id": "fmmY5irQiA",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Link list",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "libraryId": "4Zxne6T0K45IYNVrEztXGr",
+        "libraryId": "6ajqBor8aJWlW0SD68paH9",
         "id": "gtMj0faj0B",
         "collectionId": "D6d-C9me_7",
         "name": "Another Test",
@@ -79,7 +79,7 @@
         }
       },
       {
-        "libraryId": "4Zxne6T0K45IYNVrEztXGr",
+        "libraryId": "6ajqBor8aJWlW0SD68paH9",
         "id": "NOTfy-yV_P",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Advanced link list",
@@ -103,7 +103,7 @@
         }
       },
       {
-        "libraryId": "4Zxne6T0K45IYNVrEztXGr",
+        "libraryId": "6ajqBor8aJWlW0SD68paH9",
         "id": "WKsJd_i8Za",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Large teaser",
@@ -127,7 +127,7 @@
     ]
   },
   {
-    "libraryId": "4Zxne6T0K45IYNVrEztXGr",
+    "libraryId": "6ajqBor8aJWlW0SD68paH9",
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
