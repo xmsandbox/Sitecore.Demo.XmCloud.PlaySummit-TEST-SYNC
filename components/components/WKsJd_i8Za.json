@@ -1,0 +1,270 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "aATw3cTPuu",
+    "componentId": "WKsJd_i8Za",
+    "name": "Text on the right",
+    "status": "staged",
+    "orderIdx": "03qKK",
+    "revision": 107,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: layout Id: blank-layout Title: blank-layout Instance Id: sQdH87TEV- */ .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 2 * 1); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 2 * 1); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"sQdH87TEV-\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[1,1],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: Ry2-MUO6Yx */ .-spacing--blank-spacing[data-instance-id=\"Ry2-MUO6Yx\"]:not(._._._._._._#_) { padding-top: 50px; padding-right: 50px; padding-bottom: 50px; padding-left: 50px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--blank-spacing[data-instance-id=\"Ry2-MUO6Yx\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"Ry2-MUO6Yx\"},\"props\":{\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"50px\",\"paddingRight\":\"50px\",\"rowGap\":{\"value\":0,\"unit\":\"px\"},\"columnGap\":{\"value\":0,\"unit\":\"px\"}}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: oOa0qxxkaV */ .-spacing--blank-spacing[data-instance-id=\"oOa0qxxkaV\"]:not(._._._._._._#_) { padding-top: 100px; padding-right: 50px; padding-bottom: 100px; padding-left: 50px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--blank-spacing[data-instance-id=\"oOa0qxxkaV\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"oOa0qxxkaV\"},\"props\":{\"paddingTop\":\"100px\",\"paddingBottom\":\"100px\",\"paddingLeft\":\"50px\",\"paddingRight\":\"50px\",\"rowGap\":\"20px\",\"columnGap\":\"20px\"}} */ \n/* --- */\n /* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: sQdH87TEV- */ .-spacing--sections--small-spacing[data-instance-id=\"sQdH87TEV-\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--sections--small-spacing[data-instance-id=\"sQdH87TEV-\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"props\":{\"paddingTop\":\"0px\",\"paddingBottom\":\"0px\",\"paddingLeft\":\"0px\",\"paddingRight\":\"0px\",\"rowGap\":\"0px\",\"columnGap\":\"0px\"},\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"collectionId\":\"zLQ8bXr4Pp\",\"instanceId\":\"sQdH87TEV-\"}} */ \n/* --- */\n /* Type: media Id: BD7vrDzwpx Title: media Instance Id: XmXoJjcrIe */ .-media--media[data-instance-id=\"XmXoJjcrIe\"]:not(._._._._._._#_) { display: flex; flex-direction: column; z-index: 0; position: absolute; top: 0; left: 0; right: 0; bottom: 0; border-radius: inherit; ---self--row-gap: 0 !important; ---self--column-gap: 0 !important; ---self--column-width: unset !important; width: 100%; height: 100%; } .-media--media[data-instance-id=\"XmXoJjcrIe\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; width: 100%; } .-media--media[data-instance-id=\"XmXoJjcrIe\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"BD7vrDzwpx\",\"instanceId\":\"XmXoJjcrIe\"},\"props\":{\"placement\":\"background\",\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */ \n/* --- */\n /* Type: layout Id: blank-layout Title: blank-layout Instance Id: oOa0qxxkaV */ .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"]:not(._._._._._._#_) { display: flex; flex-wrap: nowrap; flex-direction: column; justify-content: center; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > *:not(._._._._._._#_) { margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > :not(:nth-child(-n+1)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > :nth-child(1n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 1 * 1); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"oOa0qxxkaV\"},\"props\":{\"flexWrap\":true,\"columnCount\":1,\"weights\":[1],\"justifyContent\":\"center\",\"alignItems\":\"stretch\"}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"sQdH87TEV-\"><div class=\"-layout--blank-layout -spacing--blank-spacing\" data-instance-id=\"oOa0qxxkaV\"><p class=\"eyebrow__text\"><strong>CREATING DIGITAL EXPERIENCES</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Cloud resources</h1><p class=\"hero__lead\">With an optimized cloud-based strategy, you can rapidly and cost-effectively scale to meet your customers’ needs, shorten your time-to-market, and be more adaptive as new capabilities and functionality are added to your martech stack. Explore how the right cloud computing approach will help you thrive now and into the future.</p></div><div class=\"-spacing--blank-spacing\" data-background-id=\"XmXoJjcrIe\" data-instance-id=\"Ry2-MUO6Yx\" data-symbol-id=\"0.3722307580476236\"><figure class=\"image -media--media -background\" data-instance-id=\"XmXoJjcrIe\"><img src=\"https://sitecorecontenthub.stylelabs.cloud/api/public/content/8b0a9380068441168ced016067fab3f9?v=bde9c723\" /></figure></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "large",
+      "xlarge",
+      "xxlarge"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T10:45:27.036Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-20T12:00:35.738Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "aATw3cTPuu",
+    "componentId": "WKsJd_i8Za",
+    "name": "Text on the right",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 107,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: layout Id: blank-layout Title: blank-layout Instance Id: sQdH87TEV- */ .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 2 * 1); } .-layout--blank-layout[data-instance-id=\"sQdH87TEV-\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 2 * 1); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"sQdH87TEV-\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[1,1],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: Ry2-MUO6Yx */ .-spacing--blank-spacing[data-instance-id=\"Ry2-MUO6Yx\"]:not(._._._._._._#_) { padding-top: 50px; padding-right: 50px; padding-bottom: 50px; padding-left: 50px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--blank-spacing[data-instance-id=\"Ry2-MUO6Yx\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"Ry2-MUO6Yx\"},\"props\":{\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"50px\",\"paddingRight\":\"50px\",\"rowGap\":{\"value\":0,\"unit\":\"px\"},\"columnGap\":{\"value\":0,\"unit\":\"px\"}}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: oOa0qxxkaV */ .-spacing--blank-spacing[data-instance-id=\"oOa0qxxkaV\"]:not(._._._._._._#_) { padding-top: 100px; padding-right: 50px; padding-bottom: 100px; padding-left: 50px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--blank-spacing[data-instance-id=\"oOa0qxxkaV\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"oOa0qxxkaV\"},\"props\":{\"paddingTop\":\"100px\",\"paddingBottom\":\"100px\",\"paddingLeft\":\"50px\",\"paddingRight\":\"50px\",\"rowGap\":\"20px\",\"columnGap\":\"20px\"}} */ \n/* --- */\n /* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: sQdH87TEV- */ .-spacing--sections--small-spacing[data-instance-id=\"sQdH87TEV-\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--sections--small-spacing[data-instance-id=\"sQdH87TEV-\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"props\":{\"paddingTop\":\"0px\",\"paddingBottom\":\"0px\",\"paddingLeft\":\"0px\",\"paddingRight\":\"0px\",\"rowGap\":\"0px\",\"columnGap\":\"0px\"},\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"collectionId\":\"zLQ8bXr4Pp\",\"instanceId\":\"sQdH87TEV-\"}} */ \n/* --- */\n /* Type: media Id: BD7vrDzwpx Title: media Instance Id: XmXoJjcrIe */ .-media--media[data-instance-id=\"XmXoJjcrIe\"]:not(._._._._._._#_) { display: flex; flex-direction: column; z-index: 0; position: absolute; top: 0; left: 0; right: 0; bottom: 0; border-radius: inherit; ---self--row-gap: 0 !important; ---self--column-gap: 0 !important; ---self--column-width: unset !important; width: 100%; height: 100%; } .-media--media[data-instance-id=\"XmXoJjcrIe\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; width: 100%; } .-media--media[data-instance-id=\"XmXoJjcrIe\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"BD7vrDzwpx\",\"instanceId\":\"XmXoJjcrIe\"},\"props\":{\"placement\":\"background\",\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */ \n/* --- */\n /* Type: layout Id: blank-layout Title: blank-layout Instance Id: oOa0qxxkaV */ .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"]:not(._._._._._._#_) { display: flex; flex-wrap: nowrap; flex-direction: column; justify-content: center; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > *:not(._._._._._._#_) { margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > :not(:nth-child(-n+1)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"oOa0qxxkaV\"] > :nth-child(1n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 1 * 1); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"oOa0qxxkaV\"},\"props\":{\"flexWrap\":true,\"columnCount\":1,\"weights\":[1],\"justifyContent\":\"center\",\"alignItems\":\"stretch\"}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"sQdH87TEV-\"><div class=\"-layout--blank-layout -spacing--blank-spacing\" data-instance-id=\"oOa0qxxkaV\"><p class=\"eyebrow__text\"><strong>CREATING DIGITAL EXPERIENCES</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Cloud resources</h1><p class=\"hero__lead\">With an optimized cloud-based strategy, you can rapidly and cost-effectively scale to meet your customers’ needs, shorten your time-to-market, and be more adaptive as new capabilities and functionality are added to your martech stack. Explore how the right cloud computing approach will help you thrive now and into the future.</p></div><div class=\"-spacing--blank-spacing\" data-background-id=\"XmXoJjcrIe\" data-instance-id=\"Ry2-MUO6Yx\" data-symbol-id=\"0.3722307580476236\"><figure class=\"image -media--media -background\" data-instance-id=\"XmXoJjcrIe\"><img src=\"https://sitecorecontenthub.stylelabs.cloud/api/public/content/8b0a9380068441168ced016067fab3f9?v=bde9c723\" /></figure></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "large",
+      "xlarge",
+      "xxlarge"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T10:45:27.036Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-20T12:00:35.738Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "HjToSLOz0s",
+    "componentId": "WKsJd_i8Za",
+    "name": "Name",
+    "status": "staged",
+    "orderIdx": "0N0Oc",
+    "revision": 1,
+    "model": "",
+    "view": "<section class=\"-section\"><div class=\"-component\"></div></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-03-06T08:35:37.305Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-06T08:35:50.374Z",
+    "modifiedBy": {
+      "id": "63106620b7d1694581999015",
+      "name": "sip@sitecore.net",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sip@sitecore.net",
+      "picture": "https://s.gravatar.com/avatar/ce92f327914eae665a7b987606e9b0f6?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+      "nickname": "sip"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "HjToSLOz0s",
+    "componentId": "WKsJd_i8Za",
+    "name": "Name",
+    "status": "saved",
+    "orderIdx": "0N0Oc",
+    "revision": 1,
+    "model": "",
+    "view": "<section class=\"-section\"><div class=\"-component\"></div></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-03-06T08:35:37.305Z",
+    "deletedAt": "2023-03-17T10:26:18.906Z",
+    "modifiedAt": "2023-03-06T08:35:50.374Z",
+    "modifiedBy": {
+      "id": "63106620b7d1694581999015",
+      "name": "sip@sitecore.net",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sip@sitecore.net",
+      "picture": "https://s.gravatar.com/avatar/ce92f327914eae665a7b987606e9b0f6?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+      "nickname": "sip"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "ryQpZ9phIE",
+    "componentId": "WKsJd_i8Za",
+    "name": "Text on the right / tablet",
+    "status": "staged",
+    "orderIdx": "0FLsi",
+    "revision": 29,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: layout Id: blank-layout Title: blank-layout Instance Id: l5LoMb-Dkv */ .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 3); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 2); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"l5LoMb-Dkv\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[3,2],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */ \n/* --- */\n /* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: l5LoMb-Dkv */ .-spacing--sections--small-spacing[data-instance-id=\"l5LoMb-Dkv\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--sections--small-spacing[data-instance-id=\"l5LoMb-Dkv\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"collectionId\":\"zLQ8bXr4Pp\",\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"instanceId\":\"l5LoMb-Dkv\"},\"props\":{\"paddingTop\":\"0px\",\"paddingBottom\":\"0px\",\"paddingLeft\":\"0px\",\"paddingRight\":\"0px\",\"rowGap\":\"0px\",\"columnGap\":\"0px\"}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: 6V9iBblIht */ .-spacing--blank-spacing[data-instance-id=\"6V9iBblIht\"]:not(._._._._._._#_) { padding-top: 36px; padding-right: 36px; padding-bottom: 36px; padding-left: 36px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--blank-spacing[data-instance-id=\"6V9iBblIht\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"6V9iBblIht\"},\"props\":{\"paddingTop\":\"36px\",\"paddingBottom\":\"36px\",\"paddingLeft\":\"36px\",\"paddingRight\":\"36px\",\"rowGap\":\"20px\",\"columnGap\":\"20px\"}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"l5LoMb-Dkv\"><div class=\"-spacing--blank-spacing\" data-instance-id=\"6V9iBblIht\"><p class=\"eyebrow__text\"><strong>CREATING DIGITAL EXPERIENCES</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Cloud resources</h1><p class=\"hero__lead\">With an optimized cloud-based strategy, you can rapidly and cost-effectively scale to meet your customers’ needs, shorten your time-to-market, and be more adaptive as new capabilities and functionality are added to your martech stack. Explore how the right cloud computing approach will help you thrive now and into the future.</p></div><figure class=\"image\"><img src=\"https://sitecorecontenthub.stylelabs.cloud/api/public/content/8b0a9380068441168ced016067fab3f9?v=bde9c723\" /></figure></section>",
+    "diff": {},
+    "breakpointIds": [
+      "medium"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T10:50:52.799Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-20T12:00:44.909Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "ryQpZ9phIE",
+    "componentId": "WKsJd_i8Za",
+    "name": "Text on the right / tablet",
+    "status": "saved",
+    "orderIdx": "0FLsi",
+    "revision": 29,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: layout Id: blank-layout Title: blank-layout Instance Id: l5LoMb-Dkv */ .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 3); } .-layout--blank-layout[data-instance-id=\"l5LoMb-Dkv\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 2); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"l5LoMb-Dkv\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[3,2],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */ \n/* --- */\n /* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: l5LoMb-Dkv */ .-spacing--sections--small-spacing[data-instance-id=\"l5LoMb-Dkv\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 0px; ---spacing--column-gap: 0px; } .-spacing--sections--small-spacing[data-instance-id=\"l5LoMb-Dkv\"] > *:not(._._._._._._#_) { ---layout--row-gap: 0px; ---layout--column-gap: 0px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"collectionId\":\"zLQ8bXr4Pp\",\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"instanceId\":\"l5LoMb-Dkv\"},\"props\":{\"paddingTop\":\"0px\",\"paddingBottom\":\"0px\",\"paddingLeft\":\"0px\",\"paddingRight\":\"0px\",\"rowGap\":\"0px\",\"columnGap\":\"0px\"}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: 6V9iBblIht */ .-spacing--blank-spacing[data-instance-id=\"6V9iBblIht\"]:not(._._._._._._#_) { padding-top: 36px; padding-right: 36px; padding-bottom: 36px; padding-left: 36px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--blank-spacing[data-instance-id=\"6V9iBblIht\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"6V9iBblIht\"},\"props\":{\"paddingTop\":\"36px\",\"paddingBottom\":\"36px\",\"paddingLeft\":\"36px\",\"paddingRight\":\"36px\",\"rowGap\":\"20px\",\"columnGap\":\"20px\"}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"l5LoMb-Dkv\"><div class=\"-spacing--blank-spacing\" data-instance-id=\"6V9iBblIht\"><p class=\"eyebrow__text\"><strong>CREATING DIGITAL EXPERIENCES</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Cloud resources</h1><p class=\"hero__lead\">With an optimized cloud-based strategy, you can rapidly and cost-effectively scale to meet your customers’ needs, shorten your time-to-market, and be more adaptive as new capabilities and functionality are added to your martech stack. Explore how the right cloud computing approach will help you thrive now and into the future.</p></div><figure class=\"image\"><img src=\"https://sitecorecontenthub.stylelabs.cloud/api/public/content/8b0a9380068441168ced016067fab3f9?v=bde9c723\" /></figure></section>",
+    "diff": {},
+    "breakpointIds": [
+      "medium"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T10:50:52.799Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-20T12:00:44.909Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "skaX960eml",
+    "componentId": "WKsJd_i8Za",
+    "name": "Text on the right / tablet",
+    "status": "staged",
+    "orderIdx": "0JBG1",
+    "revision": 20,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: UmFBqpXvKq */ .-spacing--sections--small-spacing[data-instance-id=\"UmFBqpXvKq\"]:not(._._._._._._#_) { padding-top: 50px; padding-right: 50px; padding-bottom: 50px; padding-left: 50px; ---spacing--row-gap: 40px; ---spacing--column-gap: 40px; } .-spacing--sections--small-spacing[data-instance-id=\"UmFBqpXvKq\"] > *:not(._._._._._._#_) { ---layout--row-gap: 40px; ---layout--column-gap: 40px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"collectionId\":\"zLQ8bXr4Pp\",\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"instanceId\":\"UmFBqpXvKq\"},\"props\":{\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"50px\",\"paddingRight\":\"50px\",\"rowGap\":{\"value\":40,\"unit\":\"px\"},\"columnGap\":{\"value\":40,\"unit\":\"px\"}}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: NXmIfF3R6B */ .-spacing--blank-spacing[data-instance-id=\"NXmIfF3R6B\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--blank-spacing[data-instance-id=\"NXmIfF3R6B\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"NXmIfF3R6B\"},\"props\":{\"paddingTop\":{\"value\":0,\"unit\":\"px\"},\"paddingBottom\":{\"value\":0,\"unit\":\"px\"},\"paddingLeft\":{\"value\":0,\"unit\":\"px\"},\"paddingRight\":{\"value\":0,\"unit\":\"px\"},\"rowGap\":\"20px\",\"columnGap\":\"20px\"}} */ \n/* --- */\n /* Type: media Id: Ixh79zmXof Title: media Instance Id: H1n3uwWx9n */ .-media--media[data-instance-id=\"H1n3uwWx9n\"]:not(._._._._._._#_) { position: relative; width: 100%; } .-media--media[data-instance-id=\"H1n3uwWx9n\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; } .-media--media[data-instance-id=\"H1n3uwWx9n\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } .-media--media[data-instance-id=\"H1n3uwWx9n\"]:not(._._._._._._#_):before { content: \"\"; display: block; padding-top: 56.25%; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"Ixh79zmXof\",\"instanceId\":\"H1n3uwWx9n\"},\"props\":{\"placement\":\"foreground\",\"width\":{\"value\":100,\"unit\":\"%\"},\"height\":{\"value\":1.7777777777777777,\"unit\":\"ratio\"},\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"UmFBqpXvKq\"><figure class=\"image -media--media\" data-instance-id=\"H1n3uwWx9n\"><img src=\"https://sitecorecontenthub.stylelabs.cloud/api/public/content/8b0a9380068441168ced016067fab3f9?v=bde9c723\" /></figure><div class=\"-spacing--blank-spacing\" data-instance-id=\"NXmIfF3R6B\"><p class=\"eyebrow__text\"><strong>CREATING DIGITAL EXPERIENCES</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Cloud resources</h1><p class=\"hero__lead\">With an optimized cloud-based strategy, you can rapidly and cost-effectively scale to meet your customers’ needs, shorten your time-to-market, and be more adaptive as new capabilities and functionality are added to your martech stack. Explore how the right cloud computing approach will help you thrive now and into the future.</p></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "small",
+      "extra small"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T10:53:04.168Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-20T12:00:53.691Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "skaX960eml",
+    "componentId": "WKsJd_i8Za",
+    "name": "Text on the right / tablet",
+    "status": "saved",
+    "orderIdx": "0JBG1",
+    "revision": 20,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: UmFBqpXvKq */ .-spacing--sections--small-spacing[data-instance-id=\"UmFBqpXvKq\"]:not(._._._._._._#_) { padding-top: 50px; padding-right: 50px; padding-bottom: 50px; padding-left: 50px; ---spacing--row-gap: 40px; ---spacing--column-gap: 40px; } .-spacing--sections--small-spacing[data-instance-id=\"UmFBqpXvKq\"] > *:not(._._._._._._#_) { ---layout--row-gap: 40px; ---layout--column-gap: 40px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"collectionId\":\"zLQ8bXr4Pp\",\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"instanceId\":\"UmFBqpXvKq\"},\"props\":{\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"50px\",\"paddingRight\":\"50px\",\"rowGap\":{\"value\":40,\"unit\":\"px\"},\"columnGap\":{\"value\":40,\"unit\":\"px\"}}} */ \n/* --- */\n /* Type: spacing Id: blank-spacing Title: No spacing Instance Id: NXmIfF3R6B */ .-spacing--blank-spacing[data-instance-id=\"NXmIfF3R6B\"]:not(._._._._._._#_) { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--blank-spacing[data-instance-id=\"NXmIfF3R6B\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"type\":\"spacing\",\"details\":{\"id\":\"blank-spacing\",\"slug\":\"blank-spacing\",\"title\":\"No spacing\",\"description\":\"\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"NXmIfF3R6B\"},\"props\":{\"paddingTop\":{\"value\":0,\"unit\":\"px\"},\"paddingBottom\":{\"value\":0,\"unit\":\"px\"},\"paddingLeft\":{\"value\":0,\"unit\":\"px\"},\"paddingRight\":{\"value\":0,\"unit\":\"px\"},\"rowGap\":\"20px\",\"columnGap\":\"20px\"}} */ \n/* --- */\n /* Type: media Id: Ixh79zmXof Title: media Instance Id: H1n3uwWx9n */ .-media--media[data-instance-id=\"H1n3uwWx9n\"]:not(._._._._._._#_) { position: relative; width: 100%; } .-media--media[data-instance-id=\"H1n3uwWx9n\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; } .-media--media[data-instance-id=\"H1n3uwWx9n\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } .-media--media[data-instance-id=\"H1n3uwWx9n\"]:not(._._._._._._#_):before { content: \"\"; display: block; padding-top: 56.25%; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"Ixh79zmXof\",\"instanceId\":\"H1n3uwWx9n\"},\"props\":{\"placement\":\"foreground\",\"width\":{\"value\":100,\"unit\":\"%\"},\"height\":{\"value\":1.7777777777777777,\"unit\":\"ratio\"},\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"UmFBqpXvKq\"><figure class=\"image -media--media\" data-instance-id=\"H1n3uwWx9n\"><img src=\"https://sitecorecontenthub.stylelabs.cloud/api/public/content/8b0a9380068441168ced016067fab3f9?v=bde9c723\" /></figure><div class=\"-spacing--blank-spacing\" data-instance-id=\"NXmIfF3R6B\"><p class=\"eyebrow__text\"><strong>CREATING DIGITAL EXPERIENCES</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Cloud resources</h1><p class=\"hero__lead\">With an optimized cloud-based strategy, you can rapidly and cost-effectively scale to meet your customers’ needs, shorten your time-to-market, and be more adaptive as new capabilities and functionality are added to your martech stack. Explore how the right cloud computing approach will help you thrive now and into the future.</p></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "small",
+      "extra small"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T10:53:04.168Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-20T12:00:53.691Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  }
+]

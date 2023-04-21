@@ -1,0 +1,154 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "GCLe8xWtl5",
+    "name": "Advanced link list",
+    "description": "",
+    "sample": {
+      "Link_list_intro": {
+        "Title": "Learn more about SaaS content management"
+      },
+      "Teaser": [
+        {
+          "badge": "Article",
+          "image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/b4ee038a89874af1838812bfd47c3c7c?v=67c7884d",
+          "title": "SaaS, cloud computing, and cloud-native development — unravel the difference",
+          "description": "Grasping the benefits and differences between SaaS, cloud-computing, cloud-native, and cloud-hosted is important in determining which technology has the scalability you need — and should expect — to support your long-term growth.",
+          "button_label": "Read the article",
+          "button_URL": "https://www.sitecore.com/blog/cloud/what-is-cloud-native-saas?utm_websource=products.xm-cloud"
+        },
+        {
+          "badge": "Article",
+          "image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/e253b03b15dd4cd49f84acefcdeef95a?v=3d1436cd",
+          "title": "What’s the big deal with a SaaS CMS?",
+          "description": "Investing in a SaaS platform can provide benefits for your business, your internal teams, and your customers. Whatever your unique needs, we can empower you to create the experiences that drive competitive advantage and deliver value.",
+          "button_label": "Read the article",
+          "button_URL": "https://www.sitecore.com/knowledge-center/digital-marketing-resources/why-saas?utm_websource=products.xm-cloud"
+        },
+        {
+          "badge": "Article",
+          "image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/3a4e4216497c4edb833954241d10bf01?v=93a3d391",
+          "title": "Why is everyone moving their content to the cloud?",
+          "description": "Explore cloud-based content management — including its definition, history, benefits, and how to determine when it’s right for your organization.",
+          "button_label": "Read the article",
+          "button_URL": "https://www.sitecore.com/knowledge-center/digital-marketing-resources/what-is-cloud-content-management?utm_websource=products.xm-cloud"
+        }
+      ]
+    },
+    "jsonpath": "$",
+    "createdAt": "2023-03-17T11:34:39.406Z",
+    "modifiedAt": "2023-03-17T11:34:39.406Z",
+    "sampledAt": null,
+    "definition": {
+      "Link_list_intro": {
+        "Title": "Learn more about SaaS content management"
+      },
+      "Teaser": [
+        {
+          "badge": "Article",
+          "image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/b4ee038a89874af1838812bfd47c3c7c?v=67c7884d",
+          "title": "SaaS, cloud computing, and cloud-native development — unravel the difference",
+          "description": "Grasping the benefits and differences between SaaS, cloud-computing, cloud-native, and cloud-hosted is important in determining which technology has the scalability you need — and should expect — to support your long-term growth.",
+          "button_label": "Read the article",
+          "button_URL": "https://www.sitecore.com/blog/cloud/what-is-cloud-native-saas?utm_websource=products.xm-cloud"
+        },
+        {
+          "badge": "Article",
+          "image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/e253b03b15dd4cd49f84acefcdeef95a?v=3d1436cd",
+          "title": "What’s the big deal with a SaaS CMS?",
+          "description": "Investing in a SaaS platform can provide benefits for your business, your internal teams, and your customers. Whatever your unique needs, we can empower you to create the experiences that drive competitive advantage and deliver value.",
+          "button_label": "Read the article",
+          "button_URL": "https://www.sitecore.com/knowledge-center/digital-marketing-resources/why-saas?utm_websource=products.xm-cloud"
+        },
+        {
+          "badge": "Article",
+          "image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/3a4e4216497c4edb833954241d10bf01?v=93a3d391",
+          "title": "Why is everyone moving their content to the cloud?",
+          "description": "Explore cloud-based content management — including its definition, history, benefits, and how to determine when it’s right for your organization.",
+          "button_label": "Read the article",
+          "button_URL": "https://www.sitecore.com/knowledge-center/digital-marketing-resources/what-is-cloud-content-management?utm_websource=products.xm-cloud"
+        }
+      ]
+    },
+    "conflictDefinition": null,
+    "type": "internal",
+    "externalSourceId": "generated"
+  },
+  {
+    "libraryId": "generated",
+    "id": "exsEaHOs1P",
+    "name": "Link list",
+    "description": "",
+    "sample": {
+      "LinkListTitle": {
+        "title": "One composable platform for rich customer experiences, from content to commerce",
+        "img": {
+          "background_img_light": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/cab686f57f614f8b8d05a8d715cfb579",
+          "background_img_dark": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/0f33824b8fdd4ea9b6b120b6b1617c39"
+        }
+      },
+      "Teaser": [
+        {
+          "Image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/e035d81831fa4ce9908b349fb4e7e5e9",
+          "title": "Content Cloud",
+          "description": "World-leading solutions to manage your content from strategy to delivery",
+          "button_label": "View Content Cloud",
+          "button_URL": "https://www.sitecore.com/products/content-cloud"
+        },
+        {
+          "Image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/b4840e1df6e24b32b1de1ebb0f4b4ee9",
+          "title": "Engagement Cloud",
+          "description": "Unlock customer data to make every interaction smarter",
+          "button_label": "View Engagement Cloud",
+          "button_URL": "https://www.sitecore.com/products/engagement-cloud"
+        },
+        {
+          "Image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/d795d5468c4441ea8ebb4fb1c90f1fe3",
+          "title": "Commerce Cloud",
+          "description": "Deliver differentiated and integrated commerce experiences",
+          "button_label": "View Commerce Cloud",
+          "button_URL": "https://www.sitecore.com/products/commerce-cloud"
+        }
+      ]
+    },
+    "jsonpath": "$",
+    "createdAt": "2023-03-14T12:41:27.808Z",
+    "modifiedAt": "2023-03-14T12:41:27.808Z",
+    "sampledAt": null,
+    "definition": {
+      "LinkListTitle": {
+        "title": "One composable platform for rich customer experiences, from content to commerce",
+        "img": {
+          "background_img_light": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/cab686f57f614f8b8d05a8d715cfb579",
+          "background_img_dark": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/0f33824b8fdd4ea9b6b120b6b1617c39"
+        }
+      },
+      "Teaser": [
+        {
+          "Image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/e035d81831fa4ce9908b349fb4e7e5e9",
+          "title": "Content Cloud",
+          "description": "World-leading solutions to manage your content from strategy to delivery",
+          "button_label": "View Content Cloud",
+          "button_URL": "https://www.sitecore.com/products/content-cloud"
+        },
+        {
+          "Image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/b4840e1df6e24b32b1de1ebb0f4b4ee9",
+          "title": "Engagement Cloud",
+          "description": "Unlock customer data to make every interaction smarter",
+          "button_label": "View Engagement Cloud",
+          "button_URL": "https://www.sitecore.com/products/engagement-cloud"
+        },
+        {
+          "Image": "https://sitecorecontenthub.stylelabs.cloud/api/public/content/d795d5468c4441ea8ebb4fb1c90f1fe3",
+          "title": "Commerce Cloud",
+          "description": "Deliver differentiated and integrated commerce experiences",
+          "button_label": "View Commerce Cloud",
+          "button_URL": "https://www.sitecore.com/products/commerce-cloud"
+        }
+      ]
+    },
+    "conflictDefinition": null,
+    "type": "internal",
+    "externalSourceId": "generated"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "gfkppHv3sT",
+    "componentId": "33oEtvuShR",
+    "name": "Card on the right",
+    "status": "staged",
+    "orderIdx": "0FLsi",
+    "revision": 28,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: 5yvmXuJK17 */ .-spacing--sections--small-spacing[data-instance-id=\"5yvmXuJK17\"]:not(._._._._._._#_) { padding-top: 50px; padding-right: 36px; padding-bottom: 50px; padding-left: 36px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--sections--small-spacing[data-instance-id=\"5yvmXuJK17\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"props\":{\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"36px\",\"paddingRight\":\"36px\",\"rowGap\":\"20px\",\"columnGap\":\"20px\"},\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"collectionId\":\"zLQ8bXr4Pp\",\"instanceId\":\"5yvmXuJK17\"}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"5yvmXuJK17\"><figure class=\"image\"><img src=\"https://feaas.blob.core.windows.net/images/NU-Fbnu7LgPJpe2g2Rx3zQdGFr53NXZf.png\" /></figure><p class=\"eyebrow__text\"><strong>CONNECT THE EXPERIENCE</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Turn consumers into fans</h1><p class=\"hero__lead\">Create unforgettable connections, from content to commerce, with the only composable digital experience platform that covers it all.</p><div class=\"-button\" data-symbol-id=\"0.5868161872795274\">Learn more</div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "extra small",
+      "small"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T09:40:45.058Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-17T10:32:41.112Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "gfkppHv3sT",
+    "componentId": "33oEtvuShR",
+    "name": "Card on the right",
+    "status": "saved",
+    "orderIdx": "0FLsi",
+    "revision": 28,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: spacing Id: PWjGAutOdR Title: Small spacing Instance Id: 5yvmXuJK17 */ .-spacing--sections--small-spacing[data-instance-id=\"5yvmXuJK17\"]:not(._._._._._._#_) { padding-top: 50px; padding-right: 36px; padding-bottom: 50px; padding-left: 36px; ---spacing--row-gap: 20px; ---spacing--column-gap: 20px; } .-spacing--sections--small-spacing[data-instance-id=\"5yvmXuJK17\"] > *:not(._._._._._._#_) { ---layout--row-gap: 20px; ---layout--column-gap: 20px; } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"spacing\",\"props\":{\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"36px\",\"paddingRight\":\"36px\",\"rowGap\":\"20px\",\"columnGap\":\"20px\"},\"details\":{\"title\":\"Small spacing\",\"description\":\"\",\"exampleContent\":null,\"id\":\"PWjGAutOdR\",\"slug\":\"sections--small-spacing\",\"collectionId\":\"zLQ8bXr4Pp\",\"instanceId\":\"5yvmXuJK17\"}} */</style><section class=\"-layout--blank-layout -section -spacing--sections--small-spacing\" data-instance-id=\"5yvmXuJK17\"><figure class=\"image\"><img src=\"https://feaas.blob.core.windows.net/images/NU-Fbnu7LgPJpe2g2Rx3zQdGFr53NXZf.png\" /></figure><p class=\"eyebrow__text\"><strong>CONNECT THE EXPERIENCE</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Turn consumers into fans</h1><p class=\"hero__lead\">Create unforgettable connections, from content to commerce, with the only composable digital experience platform that covers it all.</p><div class=\"-button\" data-symbol-id=\"0.5868161872795274\">Learn more</div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "extra small",
+      "small"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2023-02-28T09:40:45.058Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-17T10:32:41.112Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "mJqSr3_Q2U",
+    "componentId": "33oEtvuShR",
+    "name": "Card on the left",
+    "status": "staged",
+    "orderIdx": "03qKK",
+    "revision": 52,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: layout Id: blank-layout Title: blank-layout Instance Id: y-4nP9h4RB */ .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 3); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 2); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"y-4nP9h4RB\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[3,2],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */ \n/* --- */\n /* Type: media Id: louDPaXOre Title: media Instance Id: b4pofr1Meg */ .-media--media[data-instance-id=\"b4pofr1Meg\"]:not(._._._._._._#_) { display: flex; flex-direction: column; z-index: 0; position: absolute; top: 0; left: 0; right: 0; bottom: 0; border-radius: inherit; ---self--row-gap: 0 !important; ---self--column-gap: 0 !important; ---self--column-width: unset !important; width: 100%; height: 100%; } .-media--media[data-instance-id=\"b4pofr1Meg\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; width: 100%; } .-media--media[data-instance-id=\"b4pofr1Meg\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"louDPaXOre\",\"instanceId\":\"b4pofr1Meg\"},\"props\":{\"placement\":\"background\",\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */</style><section class=\"-layout--blank-layout -section\" data-background-id=\"b4pofr1Meg\" data-instance-id=\"y-4nP9h4RB\"><div class=\"-card\"><p class=\"eyebrow__text\"><strong>CONNECT THE EXPERIENCE</strong></p><h1 class=\"headline__text\" data-instance-id=\"rJSTvTfKN9\" style=\"margin-left:-4px;\">Turn consumers into fans</h1><p class=\"hero__lead\">Create unforgettable connections, from content to commerce, with the only composable digital experience platform that covers it all.</p><div class=\"-button\" data-symbol-id=\"0.5868161872795274\">Learn more</div></div><figure class=\"image -media--media -background\" data-instance-id=\"b4pofr1Meg\"><img src=\"https://feaas.blob.core.windows.net/images/DBBBxc0VJQLdqh16_B5GkoKubWbs78DA.png\" /></figure></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xxlarge",
+      "xlarge",
+      "large",
+      "medium"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--dark-theme"
+    ],
+    "createdAt": "2023-02-28T09:19:20.603Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-17T10:39:44.747Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "mJqSr3_Q2U",
+    "componentId": "33oEtvuShR",
+    "name": "Card on the left",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 52,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: layout Id: blank-layout Title: blank-layout Instance Id: y-4nP9h4RB */ .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 3); } .-layout--blank-layout[data-instance-id=\"y-4nP9h4RB\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 5 * 2); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"y-4nP9h4RB\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[3,2],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */ \n/* --- */\n /* Type: media Id: louDPaXOre Title: media Instance Id: b4pofr1Meg */ .-media--media[data-instance-id=\"b4pofr1Meg\"]:not(._._._._._._#_) { display: flex; flex-direction: column; z-index: 0; position: absolute; top: 0; left: 0; right: 0; bottom: 0; border-radius: inherit; ---self--row-gap: 0 !important; ---self--column-gap: 0 !important; ---self--column-width: unset !important; width: 100%; height: 100%; } .-media--media[data-instance-id=\"b4pofr1Meg\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; width: 100%; } .-media--media[data-instance-id=\"b4pofr1Meg\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"louDPaXOre\",\"instanceId\":\"b4pofr1Meg\"},\"props\":{\"placement\":\"background\",\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */</style><section class=\"-layout--blank-layout -section\" data-background-id=\"b4pofr1Meg\" data-instance-id=\"y-4nP9h4RB\"><div class=\"-card\"><p class=\"eyebrow__text\"><strong>CONNECT THE EXPERIENCE</strong></p><h1 class=\"headline__text\" data-instance-id=\"rJSTvTfKN9\" style=\"margin-left:-4px;\">Turn consumers into fans</h1><p class=\"hero__lead\">Create unforgettable connections, from content to commerce, with the only composable digital experience platform that covers it all.</p><div class=\"-button\" data-symbol-id=\"0.5868161872795274\">Learn more</div></div><figure class=\"image -media--media -background\" data-instance-id=\"b4pofr1Meg\"><img src=\"https://feaas.blob.core.windows.net/images/DBBBxc0VJQLdqh16_B5GkoKubWbs78DA.png\" /></figure></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xxlarge",
+      "xlarge",
+      "large",
+      "medium"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--dark-theme"
+    ],
+    "createdAt": "2023-02-28T09:19:20.603Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-17T10:39:44.747Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "OKFig6jnGn",
+    "componentId": "33oEtvuShR",
+    "name": "Tablet",
+    "status": "staged",
+    "orderIdx": "0BWGf",
+    "revision": 26,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: media Id: mJQXk5kpV6 Title: media Instance Id: TzUzXsMFHf */ .-media--media[data-instance-id=\"TzUzXsMFHf\"]:not(._._._._._._#_) { display: flex; flex-direction: column; z-index: 0; position: absolute; top: 0; left: 0; right: 0; bottom: 0; border-radius: inherit; ---self--row-gap: 0 !important; ---self--column-gap: 0 !important; ---self--column-width: unset !important; width: 100%; height: 100%; } .-media--media[data-instance-id=\"TzUzXsMFHf\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 0% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; width: 100%; } .-media--media[data-instance-id=\"TzUzXsMFHf\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"mJQXk5kpV6\",\"instanceId\":\"TzUzXsMFHf\"},\"props\":{\"placement\":\"background\",\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":0,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */ \n/* --- */\n /* Type: layout Id: blank-layout Title: blank-layout Instance Id: mCfWvC2xUf */ .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 6 * 5); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 6 * 1); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"mCfWvC2xUf\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[5,1],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */</style><section class=\"-layout--blank-layout -section\" data-background-id=\"TzUzXsMFHf\" data-instance-id=\"mCfWvC2xUf\"><div class=\"-card\"><p class=\"eyebrow__text\"><strong>CONNECT THE EXPERIENCE</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Turn consumers into fans</h1><p class=\"hero__lead\">Create unforgettable connections, from content to commerce, with the only composable digital experience platform that covers it all.</p><div class=\"-button\" data-symbol-id=\"0.5868161872795274\">Learn more</div></div><figure class=\"image -media--media -background\" data-instance-id=\"TzUzXsMFHf\"><img src=\"https://feaas.blob.core.windows.net/images/askBnj7CwYrDjC3gqX-hoD6g8lQ9fod1.png\" /></figure></section>",
+    "diff": {},
+    "breakpointIds": [
+      "medium"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--dark-theme"
+    ],
+    "createdAt": "2023-02-28T09:40:13.715Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-17T10:32:30.166Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "OKFig6jnGn",
+    "componentId": "33oEtvuShR",
+    "name": "Tablet",
+    "status": "saved",
+    "orderIdx": "0BWGf",
+    "revision": 26,
+    "model": "",
+    "view": "<style data-format-version=\"16\">/* Type: media Id: mJQXk5kpV6 Title: media Instance Id: TzUzXsMFHf */ .-media--media[data-instance-id=\"TzUzXsMFHf\"]:not(._._._._._._#_) { display: flex; flex-direction: column; z-index: 0; position: absolute; top: 0; left: 0; right: 0; bottom: 0; border-radius: inherit; ---self--row-gap: 0 !important; ---self--column-gap: 0 !important; ---self--column-width: unset !important; width: 100%; height: 100%; } .-media--media[data-instance-id=\"TzUzXsMFHf\"] > img:not(._._._._._._#_) { object-fit: cover; object-position: 0% 50%; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; width: 100%; } .-media--media[data-instance-id=\"TzUzXsMFHf\"] > figcaption:not(._._._._._._#_) { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"media\",\"description\":\"\",\"exampleContent\":null,\"id\":\"mJQXk5kpV6\",\"instanceId\":\"TzUzXsMFHf\"},\"props\":{\"placement\":\"background\",\"width\":null,\"height\":null,\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":0,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */ \n/* --- */\n /* Type: layout Id: blank-layout Title: blank-layout Instance Id: mCfWvC2xUf */ .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"]:not(._._._._._._#_) { display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: stretch; row-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--row-gap)); column-gap: calc(var(---supports--flex-gap, 0) * var(---spacing--column-gap)); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > *:not(._._._._._._#_) { ---layout--available-width: calc(100% - var(---layout--column-gap, 0px) * 1); ---self--paragraph-spacing: initial; margin-top: calc( var(---supports--flex-gap, 0) * (var(---self--paragraph-spacing, var(---self--row-gap, 0px)) - var(---self--row-gap, 0px)) + (1 - var(---supports--flex-gap, 0)) * var(---self--paragraph-spacing, var(---self--row-gap, 0px)) ); margin-right: calc((1 - var(---supports--flex-gap, 0)) * var(---self--column-gap, 0px)); max-width: var(---self--column-width); flex-basis: var(---self--column-width); flex-grow: 0; ---self--row-gap: initial; ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :not(:nth-child(-n+2)):not(._._._._._._#_) { ---self--row-gap: var(---layout--row-gap, 0px); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :not(:nth-child(2n)):not(._._._._._._#_) { ---self--column-gap: var(---layout--column-gap, 0px); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :last-child:not(._._._._._._#_) { ---self--column-gap: initial; } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :nth-child(2n + 1):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 6 * 5); } .-layout--blank-layout[data-instance-id=\"mCfWvC2xUf\"] > :nth-child(2n + 2):not(._._._._._._#_) { ---self--column-width: calc(var(---layout--available-width, 100%) / 6 * 1); } /* Data: {\"stylesheetId\":\"default_screen\",\"type\":\"layout\",\"details\":{\"title\":\"blank-layout\",\"description\":\"\",\"exampleContent\":null,\"id\":\"blank-layout\",\"slug\":\"blank-layout\",\"isInternal\":true,\"isDefault\":true,\"isHidden\":true,\"instanceId\":\"mCfWvC2xUf\"},\"props\":{\"flexWrap\":true,\"columnCount\":2,\"weights\":[5,1],\"justifyContent\":\"flex-start\",\"alignItems\":\"stretch\"}} */</style><section class=\"-layout--blank-layout -section\" data-background-id=\"TzUzXsMFHf\" data-instance-id=\"mCfWvC2xUf\"><div class=\"-card\"><p class=\"eyebrow__text\"><strong>CONNECT THE EXPERIENCE</strong></p><h1 class=\"headline__text\" style=\"margin-left:-4px;\">Turn consumers into fans</h1><p class=\"hero__lead\">Create unforgettable connections, from content to commerce, with the only composable digital experience platform that covers it all.</p><div class=\"-button\" data-symbol-id=\"0.5868161872795274\">Learn more</div></div><figure class=\"image -media--media -background\" data-instance-id=\"TzUzXsMFHf\"><img src=\"https://feaas.blob.core.windows.net/images/askBnj7CwYrDjC3gqX-hoD6g8lQ9fod1.png\" /></figure></section>",
+    "diff": {},
+    "breakpointIds": [
+      "medium"
+    ],
+    "datasourceIds": [],
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--dark-theme"
+    ],
+    "createdAt": "2023-02-28T09:40:13.715Z",
+    "deletedAt": null,
+    "modifiedAt": "2023-03-17T10:32:30.166Z",
+    "modifiedBy": {
+      "id": "63106eaf402f0756c9ecef9b",
+      "name": "Sintija Potaicuka",
+      "givenName": "Sintija",
+      "familyName": "Potaicuka",
+      "email": "sintija.potaicuka@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+    }
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "D6d-C9me_7",
+    "name": "Sitecore Components",
+    "isDefault": false,
+    "orderIdx": "",
+    "createdAt": "2023-03-17T11:02:00.111Z",
+    "modifiedAt": "2023-03-17T11:02:00.111Z",
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "33oEtvuShR",
+        "collectionId": "D6d-C9me_7",
+        "name": "Hero",
+        "description": "",
+        "status": "staged",
+        "versionCount": 3,
+        "datasourceIds": [],
+        "createdAt": "2023-02-28T09:19:03.231+00:00",
+        "stagedAt": "2023-03-17T10:39:44.747+00:00",
+        "publishedAt": null,
+        "modifiedAt": "2023-03-17T10:39:44.747+00:00",
+        "modifiedBy": {
+          "id": "63106eaf402f0756c9ecef9b",
+          "name": "Sintija Potaicuka",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+        }
+      },
+      {
+        "libraryId": "generated",
+        "id": "fmmY5irQiA",
+        "collectionId": "D6d-C9me_7",
+        "name": "Link list",
+        "description": "Step-by-step guide how to recreate component: https://www.loom.com/share/8c4a469d9eb64213be109416d5706dbb",
+        "status": "staged",
+        "versionCount": 2,
+        "datasourceIds": [
+          "exsEaHOs1P"
+        ],
+        "createdAt": "2023-02-28T10:53:55.372+00:00",
+        "stagedAt": "2023-03-20T12:47:31.431+00:00",
+        "publishedAt": null,
+        "modifiedAt": "2023-03-20T12:47:31.431+00:00",
+        "modifiedBy": {
+          "id": "63f776149d87f1983b1ffa1c",
+          "name": "Yarik Fedin",
+          "givenName": "Yarik",
+          "familyName": "Fedin",
+          "email": "yarik.fedin@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/66747142ed00cfb453acd7969c6f9849?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fya.png"
+        }
+      },
+      {
+        "libraryId": "generated",
+        "id": "NOTfy-yV_P",
+        "collectionId": "D6d-C9me_7",
+        "name": "Advanced link list",
+        "description": "",
+        "status": "staged",
+        "versionCount": 2,
+        "datasourceIds": [
+          "GCLe8xWtl5"
+        ],
+        "createdAt": "2023-02-28T09:42:59.186+00:00",
+        "stagedAt": "2023-03-20T15:01:37.44+00:00",
+        "publishedAt": "2023-03-20T15:01:37.44+00:00",
+        "modifiedAt": "2023-03-20T15:01:37.44+00:00",
+        "modifiedBy": {
+          "id": "63106eaf402f0756c9ecef9b",
+          "name": "Sintija Potaicuka",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+        }
+      },
+      {
+        "libraryId": "generated",
+        "id": "WKsJd_i8Za",
+        "collectionId": "D6d-C9me_7",
+        "name": "Large teaser",
+        "description": "",
+        "status": "staged",
+        "versionCount": 4,
+        "datasourceIds": [],
+        "createdAt": "2023-02-28T10:45:16.483+00:00",
+        "stagedAt": "2023-03-20T12:00:53.691+00:00",
+        "publishedAt": "2023-03-20T12:00:35.738+00:00",
+        "modifiedAt": "2023-03-20T12:00:53.691+00:00",
+        "modifiedBy": {
+          "id": "63106eaf402f0756c9ecef9b",
+          "name": "Sintija Potaicuka",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
+        }
+      }
+    ]
+  },
+  {
+    "libraryId": "generated",
+    "id": "default",
+    "name": "Default collection",
+    "isDefault": true,
+    "orderIdx": null,
+    "createdAt": "2023-03-06T08:07:37.932Z",
+    "modifiedAt": "2023-03-06T08:07:37.932Z",
+    "components": []
+  }
+]
