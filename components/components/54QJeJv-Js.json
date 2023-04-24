@@ -1,0 +1,31 @@
+{
+  "libraryId": "generated",
+  "id": "IANMwcgAvm",
+  "componentId": "54QJeJv-Js",
+  "name": "Name",
+  "status": "saved",
+  "orderIdx": "03qKK",
+  "revision": 0,
+  "model": "",
+  "view": "<section class=\"-section\"></section>",
+  "diff": {},
+  "breakpointIds": null,
+  "datasourceIds": [],
+  "forkOriginId": null,
+  "forkOriginRevision": 0,
+  "forkedAt": null,
+  "classList": [
+    "-theme--default"
+  ],
+  "createdAt": "2023-04-24T15:28:01.256Z",
+  "deletedAt": null,
+  "modifiedAt": "2023-04-24T15:28:01.823Z",
+  "modifiedBy": {
+    "id": "63ed31bdc5dac322725263de",
+    "name": "Alexander Doroshenko",
+    "givenName": "Alexander",
+    "familyName": "Doroshenko",
+    "email": "alexander.doroshenko@sitecore.com",
+    "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png"
+  }
+}
