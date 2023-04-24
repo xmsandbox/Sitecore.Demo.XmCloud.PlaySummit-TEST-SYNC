@@ -32,6 +32,28 @@
       },
       {
         "libraryId": "generated",
+        "id": "54QJeJv-Js",
+        "collectionId": "D6d-C9me_7",
+        "name": "New Test - added component",
+        "description": "",
+        "status": "draft",
+        "versionCount": 0,
+        "datasourceIds": [],
+        "createdAt": "2023-04-24T14:51:53.027+00:00",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2023-04-24T14:51:53.027+00:00",
+        "modifiedBy": {
+          "id": "63ed31bdc5dac322725263de",
+          "name": "Alexander Doroshenko",
+          "givenName": "Alexander",
+          "familyName": "Doroshenko",
+          "email": "alexander.doroshenko@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png"
+        }
+      },
+      {
+        "libraryId": "generated",
         "id": "fmmY5irQiA",
         "collectionId": "D6d-C9me_7",
         "name": "TEST Link list",
@@ -52,30 +74,6 @@
           "familyName": "Fedin",
           "email": "yarik.fedin@sitecore.com",
           "picture": "https://s.gravatar.com/avatar/66747142ed00cfb453acd7969c6f9849?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fya.png"
-        }
-      },
-      {
-        "libraryId": "generated",
-        "id": "gtMj0faj0B",
-        "collectionId": "D6d-C9me_7",
-        "name": "Another Test",
-        "description": "",
-        "status": "changed",
-        "versionCount": 2,
-        "datasourceIds": [
-          "GCLe8xWtl5"
-        ],
-        "createdAt": "2023-02-28T09:42:59.186+00:00",
-        "stagedAt": "2023-03-20T09:20:18.23+00:00",
-        "publishedAt": "2023-03-20T15:01:37.44+00:00",
-        "modifiedAt": "2023-04-20T18:58:41.12+00:00",
-        "modifiedBy": {
-          "id": "63ed31bdc5dac322725263de",
-          "name": "Alexander Doroshenko",
-          "givenName": "Alexander",
-          "familyName": "Doroshenko",
-          "email": "alexander.doroshenko@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png"
         }
       },
       {
