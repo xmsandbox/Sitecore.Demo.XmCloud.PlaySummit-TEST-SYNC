@@ -1,0 +1,13 @@
+﻿---
+ID: "b8ad3dca-80b5-47c1-a32b-343827969446"
+Parent: "69814495-0961-4067-90a4-5e201a26511e"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: /sitecore/content/PLAY/basic/Presentation/Headless Variants
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "629ac158-7ccc-4276-bfb2-063de0e423eb"

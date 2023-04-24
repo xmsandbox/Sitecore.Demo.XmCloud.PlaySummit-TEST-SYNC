@@ -1,0 +1,13 @@
+﻿---
+ID: "7b11ae7b-94fc-4c3c-a20e-4b7ad731e68f"
+Parent: "6c097779-b36b-4fd0-83fa-c33916d9d089"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/PLAY/basic/Settings/Shared Sites Settings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "327fb0aa-4db2-4ee6-b601-32fc9762aad0"

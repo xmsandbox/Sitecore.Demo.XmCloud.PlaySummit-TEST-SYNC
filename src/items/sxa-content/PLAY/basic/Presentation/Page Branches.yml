@@ -1,0 +1,13 @@
+﻿---
+ID: "71c2e802-ec58-4e9d-bc2a-132a9f9a0943"
+Parent: "69814495-0961-4067-90a4-5e201a26511e"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/PLAY/basic/Presentation/Page Branches
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d7cd0dc-6f03-4f74-90fe-e0325a4f12ed"

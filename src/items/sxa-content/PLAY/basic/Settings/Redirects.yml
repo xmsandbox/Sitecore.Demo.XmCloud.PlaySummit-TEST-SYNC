@@ -1,0 +1,13 @@
+﻿---
+ID: "b6f17b78-50b7-463e-85cb-b721d2b05f24"
+Parent: "6c097779-b36b-4fd0-83fa-c33916d9d089"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/PLAY/basic/Settings/Redirects
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "238b0089-ba28-4c4c-9cf8-2b3a05b8c20e"

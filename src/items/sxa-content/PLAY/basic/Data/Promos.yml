@@ -1,0 +1,13 @@
+﻿---
+ID: "f2f15de4-4296-401e-abf8-7d721f3ee1ca"
+Parent: "7f8134d7-c0bc-4d01-b695-0ff98dad64a5"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/PLAY/basic/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6318681-09c2-4cfc-8c06-2980896bed03"

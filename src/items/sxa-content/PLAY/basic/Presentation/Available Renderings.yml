@@ -1,0 +1,13 @@
+﻿---
+ID: "78d698c3-fb66-433c-94b2-f81a9c1bed32"
+Parent: "69814495-0961-4067-90a4-5e201a26511e"
+Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
+Path: /sitecore/content/PLAY/basic/Presentation/Available Renderings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "416f86be-27b5-48e5-adae-5b51bfb87bac"

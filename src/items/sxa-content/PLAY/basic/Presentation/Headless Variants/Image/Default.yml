@@ -1,0 +1,18 @@
+﻿---
+ID: "b108e203-aec6-4f16-a947-7d98c5d6cac1"
+Parent: "8d7ad80a-9bc1-4b1a-ac24-c3d5ad678d3f"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/PLAY/basic/Presentation/Headless Variants/Image/Default
+BranchID: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{715BA68D-500D-4C0C-A611-8AD2B3478B21}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa8c7aba-3291-4be2-addc-5474a43c2ca3"

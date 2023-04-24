@@ -1,0 +1,13 @@
+﻿---
+ID: "c5f0458e-7642-4515-a565-74958b10c08e"
+Parent: "6c097779-b36b-4fd0-83fa-c33916d9d089"
+Template: "c71d8566-35c8-49b7-a84d-9d176e9cbd05"
+Path: /sitecore/content/PLAY/basic/Settings/Sitemap
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5a5da2b-6637-4d77-8c24-41e0caec8ae0"

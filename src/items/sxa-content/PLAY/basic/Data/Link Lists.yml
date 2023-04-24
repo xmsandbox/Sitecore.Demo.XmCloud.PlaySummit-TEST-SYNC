@@ -1,0 +1,13 @@
+﻿---
+ID: "cd833d04-6dc4-422e-b503-155900345a99"
+Parent: "7f8134d7-c0bc-4d01-b695-0ff98dad64a5"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/PLAY/basic/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a20dd556-eaac-4ff8-a5ab-f47fcc1485f5"

@@ -1,0 +1,17 @@
+﻿---
+ID: "85b84864-f382-422e-ac3d-8eb0a97ec03a"
+Parent: "2107f86e-0ec5-4f5e-b639-3c8775cc4579"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/PLAY/basic/Presentation/Placeholder Settings/Partial Design/Header
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b38d4e8-c4ea-4a7d-9839-703a628a8235"

@@ -1,0 +1,13 @@
+﻿---
+ID: "43f61d00-ddfc-4f0a-85e1-8cf3be0c0d0a"
+Parent: "59c72002-f4ef-4972-980d-24122e53589e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/PLAY/basic
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e27f74f8-5ab7-40bf-a42a-c2430dbeb432"

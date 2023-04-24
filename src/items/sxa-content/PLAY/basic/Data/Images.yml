@@ -1,0 +1,13 @@
+﻿---
+ID: "290ff710-a70e-4b50-8b48-6a9e24a8f9d2"
+Parent: "7f8134d7-c0bc-4d01-b695-0ff98dad64a5"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/PLAY/basic/Data/Images
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7dca10f2-2d7f-4fe5-9b96-b06a69d77d11"
