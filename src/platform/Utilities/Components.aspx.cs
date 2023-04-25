@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using Sitecore.Data.Items;
 using Spe.Core.Host;
 
 namespace Sitecore.Demo.Edge.Website.Utilities
@@ -13,19 +11,17 @@ namespace Sitecore.Demo.Edge.Website.Utilities
             {
                 using (ScriptSession scriptSession = ScriptSessionManager.NewSession("Default", true))
                 {
-                    Item speScriptItem = Sitecore.Context.Database.GetItem("/sitecore/system/Modules/PowerShell/Script Library/PLAY/Update Components LibraryId");
-                    string script = speScriptItem["Script"];
+                    var libraryId = Request.QueryString["libraryId"];
+                    var speScriptItem = Sitecore.Context.Database.GetItem("/sitecore/system/Modules/PowerShell/Script Library/PLAY/Update Components LibraryId");
+                    var script = speScriptItem["Script"];
 
-                    var results = new List<object>();
-                    if (!string.IsNullOrEmpty(script))
+                    if (!string.IsNullOrEmpty(script) && !string.IsNullOrEmpty(libraryId))
                     {
-                        results = scriptSession.ExecuteScriptPart(script, false);
+                        script = script.Replace("{{libraryId}}", libraryId);
+                        scriptSession.ExecuteScriptPart(script, true);
                     }
-
-                    foreach (var result in results)
-                    {
-                        Response.Write(result);
-                    }
+                    
+                    Response.Write("Success!");
                 }
             }
         }
