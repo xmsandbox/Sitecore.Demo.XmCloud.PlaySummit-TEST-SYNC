@@ -19,9 +19,12 @@ namespace Sitecore.Demo.Edge.Website.Utilities
                     {
                         script = script.Replace("{{libraryId}}", libraryId);
                         scriptSession.ExecuteScriptPart(script, true);
+                        Response.Write("Success!");
                     }
-                    
-                    Response.Write("Success!");
+                    else
+                    {
+                        Response.Write("Make sure all required parameters are provided.");
+                    }
                 }
             }
         }
