@@ -1,13 +1,1 @@
-﻿---
-ID: "dc14bc13-25a8-4954-8702-1c8088dcc4f8"
-Parent: "f9a560f3-bd85-4779-90f9-da0044f8bfa7"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: /sitecore/media library/Project/PLAY/playwebsite/Sitemaps
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "2bb2f9ba-0112-45c8-81a5-9873bd10f705"
+---ID: "dc14bc13-25a8-4954-8702-1c8088dcc4f8"Parent: "f9a560f3-bd85-4779-90f9-da0044f8bfa7"Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"Path: /sitecore/media library/Project/PLAY/playwebsite/SitemapsLanguages:- Language: en  Versions:  - Version: 1    Fields:    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"      Hint: __Revision      Value: "2bb2f9ba-0112-45c8-81a5-9873bd10f705"
